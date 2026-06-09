@@ -1,0 +1,54 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;background:#0c0c0e}
+  .stage{width:1080px;height:1080px;display:grid;place-items:center;background:#ece5d6}
+  /* version transparente: cambiar .stage background a transparent para export sin fondo */
+  svg{display:block}
+  .ring{font-family:'Anton';fill:#16130d;letter-spacing:4px}
+  .ringred{font-family:'Anton';fill:#d3262f;letter-spacing:3px}
+  .est{font-family:'Space Mono';font-weight:700;fill:#ece5d6;letter-spacing:2px}
+</style></head>
+<body>
+<div class="stage" id="stage">
+<svg width="1000" height="1000" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="top" d="M 80,300 A 220,220 0 0 1 520,300"/>
+    <path id="bot" d="M 92,300 A 208,208 0 0 0 508,300"/>
+  </defs>
+
+  <!-- aros -->
+  <circle cx="300" cy="300" r="288" fill="none" stroke="#16130d" stroke-width="4"/>
+  <circle cx="300" cy="300" r="278" fill="none" stroke="#16130d" stroke-width="9"/>
+  <circle cx="300" cy="300" r="232" fill="none" stroke="#16130d" stroke-width="3"/>
+  <circle cx="300" cy="300" r="232" fill="#f3eee2"/>
+
+  <!-- texto circular -->
+  <text class="ring" font-size="46"><textPath href="#top" startOffset="50%" text-anchor="middle">EL CLUB DE LA GORRA</textPath></text>
+  <text class="ringred" font-size="34"><textPath href="#bot" startOffset="50%" text-anchor="middle">★ BUENOS AIRES · EST 2026 ★</textPath></text>
+
+  <!-- gorra (perfil) -->
+  <g transform="translate(300,290)">
+    <!-- crown -->
+    <path d="M -98,18 C -98,-52 -56,-86 0,-86 C 64,-86 96,-44 96,18 Z" fill="#16130d"/>
+    <!-- panel rojo frontal -->
+    <path d="M 0,-86 C 64,-86 96,-44 96,18 L 30,18 C 30,-40 18,-74 0,-86 Z" fill="#d3262f"/>
+    <!-- costura headband -->
+    <rect x="-98" y="14" width="194" height="9" fill="#16130d"/>
+    <!-- visera -->
+    <path d="M 78,22 C 132,24 178,40 192,58 C 184,70 120,58 84,38 Z" fill="#16130d"/>
+    <!-- boton -->
+    <circle cx="0" cy="-86" r="9" fill="#16130d"/>
+    <!-- lineas gajos -->
+    <path d="M -52,-70 C -60,-30 -62,-8 -60,16" fill="none" stroke="#f3eee2" stroke-width="3" opacity=".25"/>
+    <path d="M -6,-86 C -8,-40 -8,-6 -6,16" fill="none" stroke="#f3eee2" stroke-width="3" opacity=".25"/>
+  </g>
+
+  <!-- banderin inferior -->
+  <g transform="translate(300,374)">
+    <path d="M -158,0 L 158,0 L 158,38 L 0,52 L -158,38 Z" fill="#16130d"/>
+    <text x="0" y="27" text-anchor="middle" class="est" font-size="21" style="fill:#f3eee2">GORRAS AL POR MENOR</text>
+  </g>
+</svg>
+</div>
+</body></html>

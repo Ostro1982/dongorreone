@@ -1,0 +1,72 @@
+name: scrape-deploy
+
+# Scrapea catalogo + regenera tienda + publica en GitHub Pages.
+# Corre todos los dias 06:00 ART (09:00 UTC) y se puede disparar a mano.
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scrape catalogo
+        run: python scrape.py 0
+
+      - name: Generar tienda
+        run: python gen_site.py
+
+      - name: Commit catalogo/tienda actualizados
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add catalog.json index.html
+          git commit -m "scrape diario $(date -u +%F)" || echo "sin cambios"
+          git push || echo "nada que pushear"
+
+      - name: Preparar carpeta site
+        run: |
+          mkdir -p _site
+          cp index.html _site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Avisar si no actualizo hoy (falla -> email de GitHub)
+        run: |
+          HOY=$(TZ=America/Argentina/Buenos_Aires date +%F)
+          STAMP=$(cut -c1-10 last_scrape.txt 2>/dev/null || echo "")
+          echo "hoy ART=$HOY  catalogo=$STAMP"
+          if [ "$STAMP" != "$HOY" ]; then
+            echo "::error::El catalogo NO se actualizo hoy ($STAMP). Scrape posiblemente bloqueado. La web sigue con datos previos."
+            exit 1
+          fi
+          echo "OK: catalogo fresco."
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

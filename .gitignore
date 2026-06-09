@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+scrape_full.log
+boca3.html
+.playwright-mcp/
+_site/
