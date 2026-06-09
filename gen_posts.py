@@ -43,8 +43,8 @@ TEMPLATE = """<!DOCTYPE html><html><head><meta charset="utf-8">
   .mark{width:60px;height:60px;border-radius:50%;background:#d3262f;color:#ece5d6;display:grid;place-items:center;font-family:'Anton';font-size:26px;transform:rotate(-4deg);border:3px solid #16130d}
   .handle{font-family:'Space Mono',monospace;font-weight:700;font-size:22px;letter-spacing:1px;color:#16130d}
   .eyebrow{font-family:'Anton';font-size:54px;color:#d3262f;text-transform:uppercase;letter-spacing:1px;margin-top:30px;line-height:.95;position:relative;z-index:2}
-  .imgbox{margin:24px 0;height:560px;border:3px solid #16130d;background:#f3eee2;display:grid;place-items:center;overflow:hidden;position:relative;z-index:2;box-shadow:10px 10px 0 #16130d}
-  .imgbox img{width:100%;height:100%;object-fit:cover;mix-blend-mode:multiply}
+  .imgbox{margin:24px 0;height:560px;border:3px solid #16130d;background:#f3eee2;display:grid;place-items:center;overflow:hidden;position:relative;z-index:2;box-shadow:10px 10px 0 #16130d;padding:28px}
+  .imgbox img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;mix-blend-mode:multiply}
   .badge{position:absolute;top:18px;left:18px;background:#d3262f;color:#fff;font-family:'Anton';font-size:30px;padding:6px 18px;transform:rotate(-6deg);border:3px solid #16130d;z-index:3}
   .name{font-family:'Anton';font-size:46px;color:#16130d;text-transform:uppercase;line-height:.95;position:relative;z-index:2}
   .bottom{position:absolute;left:46px;right:46px;bottom:46px;display:flex;justify-content:space-between;align-items:flex-end;z-index:2}
