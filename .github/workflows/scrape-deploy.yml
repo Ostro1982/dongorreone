@@ -7,6 +7,12 @@ on:
   schedule:
     - cron: '0 9 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'catalog.json'
+      - 'last_scrape.txt'
+      - 'index.html'
 
 permissions:
   contents: write
@@ -28,16 +34,18 @@ jobs:
           python-version: '3.12'
 
       - name: Scrape catalogo
+        if: github.event_name != 'push'
         run: python scrape.py 0
 
       - name: Generar tienda
         run: python gen_site.py
 
       - name: Commit catalogo/tienda actualizados
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add catalog.json index.html
+          git add catalog.json index.html last_scrape.txt
           git commit -m "scrape diario $(date -u +%F)" || echo "sin cambios"
           git push || echo "nada que pushear"
 
@@ -45,12 +53,14 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html _site/index.html
+          cp logo_1080.png _site/logo_1080.png
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
       - name: Avisar si no actualizo hoy (falla -> email de GitHub)
+        if: github.event_name != 'push'
         run: |
           HOY=$(TZ=America/Argentina/Buenos_Aires date +%F)
           STAMP=$(cut -c1-10 last_scrape.txt 2>/dev/null || echo "")

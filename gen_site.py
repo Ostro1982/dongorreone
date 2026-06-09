@@ -53,6 +53,10 @@ HTML = r"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>__BRAND__ — Gorras al por menor</title>
 <meta name="description" content="El Club de la Gorra. Gorras, gorros y accesorios. Stock real, envíos a todo el país.">
+<link rel="icon" href="logo_1080.png">
+<meta property="og:title" content="El Club de la Gorra">
+<meta property="og:description" content="Gorras, gorros y accesorios. Stock real, envíos a todo el país.">
+<meta property="og:image" content="logo_1080.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
@@ -155,7 +159,7 @@ HTML = r"""<!DOCTYPE html>
   <div class="hwrap">
     <a class="crest" href="#top">
       <div class="mark">CG</div>
-      <div class="brand"><div class="t">El Club de la <em>Gorra</em></div><div class="s">Est. 2026 · Buenos Aires</div></div>
+      <div class="brand"><div class="t">El Club de la <em>Gorra</em></div><div class="s">De la cabeza · Buenos Aires</div></div>
     </a>
     <div class="search">
       <svg viewBox="0 0 24 24" fill="none" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4-4"/></svg>
