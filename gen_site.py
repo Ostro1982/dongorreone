@@ -51,7 +51,7 @@ HTML = r"""<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>__BRAND__ — Gorras al por menor</title>
+<title>__BRAND__ — Gorras, gorros y accesorios</title>
 <meta name="description" content="El Club de la Gorra. Gorras, gorros y accesorios. Stock real, envíos a todo el país.">
 <link rel="icon" href="logo_1080.png">
 <meta property="og:title" content="El Club de la Gorra">
@@ -101,7 +101,9 @@ HTML = r"""<!DOCTYPE html>
   .search input:focus{box-shadow:4px 4px 0 var(--ink)}
   .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:17px;height:17px;stroke:var(--ink)}
   /* hero */
-  .hero{max-width:1240px;margin:0 auto;padding:34px 20px 22px;position:relative;z-index:2}
+  .hero{max-width:1240px;margin:0 auto;padding:34px 20px 22px;position:relative;z-index:2;display:flex;gap:34px;align-items:center}
+  .herotext{flex:1;min-width:0}
+  .herologo{width:240px;flex:none;border:3px solid var(--ink);box-shadow:8px 8px 0 var(--ink);display:block}
   .hero h1{font-family:'Anton';font-size:clamp(42px,9vw,104px);line-height:.86;text-transform:uppercase;letter-spacing:-1px}
   .hero h1 .red{color:var(--red);-webkit-text-stroke:0}
   .hero h1 .out{color:transparent;-webkit-text-stroke:2px var(--ink)}
@@ -150,6 +152,7 @@ HTML = r"""<!DOCTYPE html>
   .fwrap .fb em{font-style:normal;color:var(--red)}
   .fwrap .pay{font-family:'Space Mono',monospace;font-size:11px;letter-spacing:1px;color:var(--paper);text-transform:uppercase;text-align:right;line-height:1.9}
   .proto{background:var(--gold);color:var(--ink);font-family:'Space Mono',monospace;font-size:11px;text-align:center;padding:6px;letter-spacing:.5px;position:relative;z-index:2;border-bottom:2px solid var(--ink)}
+  @media(max-width:760px){.hero{flex-direction:column-reverse;gap:20px}.herologo{width:200px}}
   @media(max-width:560px){.hero .lead{flex-direction:column;align-items:flex-start}.catbar{top:64px}}
 </style>
 </head>
@@ -167,8 +170,9 @@ HTML = r"""<!DOCTYPE html>
     </div>
   </div>
 </header>
-<div class="proto">PROTOTIPO · muestra de __N__ productos · stock real de gorrasdelparaiso · precios placeholder</div>
+<div class="proto">__N__ modelos · stock actualizado a diario · consultá precio y envío por WhatsApp</div>
 <section class="hero" id="top">
+  <div class="herotext">
   <h1>GORRAS<br><span class="out">PARA</span> <span class="red">TODOS.</span></h1>
   <div class="lead">
     <p>Catálogo completo de gorras, gorros y accesorios. Modelos de fútbol, autos, motos, NBA y más. Stock real, sin vueltas — lo pedís por WhatsApp y listo.</p>
@@ -177,6 +181,8 @@ HTML = r"""<!DOCTYPE html>
       <div class="stat"><div class="n" id="s-stk">0</div><div class="l">Con stock</div></div>
     </div>
   </div>
+  </div>
+  <img class="herologo" src="logo_1080.png" alt="El Club de la Gorra" width="240" height="240">
 </section>
 <div class="catbar"><div class="cats" id="cats"></div></div>
 <main>
