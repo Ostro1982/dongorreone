@@ -108,7 +108,7 @@ HTML = r"""<!DOCTYPE html>
   .hero h1 .red{color:var(--red);-webkit-text-stroke:0}
   .hero h1 .out{color:transparent;-webkit-text-stroke:2px var(--ink)}
   .hero h1.red{color:var(--red)}
-  .brandline{font-family:'Anton';font-size:clamp(22px,3.6vw,36px);text-transform:uppercase;color:var(--ink);margin-top:12px;line-height:1}
+  .brandline{font-family:'Space Mono',monospace;font-weight:700;font-size:clamp(14px,2vw,20px);letter-spacing:4px;text-transform:uppercase;color:var(--red);margin-top:14px;line-height:1}
   .hero .lead{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-top:18px;border-top:2px solid var(--ink);padding-top:14px}
   .hero .lead p{max-width:440px;font-size:15px;color:var(--ink2)}
   .stats{display:flex;gap:26px}
@@ -175,8 +175,8 @@ HTML = r"""<!DOCTYPE html>
 <div class="proto">__N__ modelos · stock actualizado a diario · consultá precio y envío por WhatsApp</div>
 <section class="hero" id="top">
   <div class="herotext">
-  <h1 class="red">DE LA<br>CABEZA.</h1>
-  <div class="brandline">El Club de la Gorra</div>
+  <h1>EL CLUB DE LA<br><span class="red">GORRA.</span></h1>
+  <div class="brandline">De la cabeza</div>
   <div class="lead">
     <p>Catálogo completo de gorras, gorros y accesorios. Modelos de fútbol, autos, motos, NBA y más. Stock real, sin vueltas — lo pedís por WhatsApp y listo.</p>
     <div class="stats">
