@@ -98,7 +98,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-moulinado-mod-1",
   "nombre": "GORRO Moulinado Mod 1",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 10,
   "stock_ilimitado": false,
@@ -114,7 +114,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-moulinado-mod-2",
   "nombre": "GORRO Moulinado Mod 2",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 3,
   "stock_ilimitado": false,
@@ -130,7 +130,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-moulinado-mod-3",
   "nombre": "GORRO Moulinado Mod 3",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 3,
   "stock_ilimitado": false,
@@ -146,7 +146,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-moulinado-mod-4",
   "nombre": "GORRO Moulinado Mod 4",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 12,
   "stock_ilimitado": false,
@@ -162,7 +162,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-moulinado-mod-5",
   "nombre": "GORRO Moulinado Mod 5",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 19,
   "stock_ilimitado": false,
@@ -178,7 +178,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-azul-francia",
   "nombre": "GORRO Rocky Hamburg AZUL FRANCIA",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -194,7 +194,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-verde-agua",
   "nombre": "GORRO Rocky Hamburg VERDE AGUA",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -210,7 +210,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-azul-marino",
   "nombre": "GORRO Rocky Hamburg AZUL MARINO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -226,7 +226,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-negro",
   "nombre": "GORRO Rocky Hamburg NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -242,7 +242,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-rojo",
   "nombre": "GORRO Rocky Hamburg ROJO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -258,7 +258,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-gris",
   "nombre": "GORRO Rocky Hamburg GRIS",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -274,7 +274,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-mostaza",
   "nombre": "GORRO Rocky Hamburg MOSTAZA",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -290,7 +290,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-verde-ingles",
   "nombre": "GORRO Rocky Hamburg VERDE INGLÉS",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -306,7 +306,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky-con-parche/gorro-rocky-hamburg-beige",
   "nombre": "GORRO Rocky Hamburg BEIGE",
-  "precio_proveedor": null,
+  "precio_proveedor": 1500,
   "stock_disponible": true,
   "stock_cantidad": 5,
   "stock_ilimitado": false,
@@ -322,7 +322,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-morley-horizontal-cpompon-rojo",
   "nombre": "GORRO Morley horizontal c/pompón ROJO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 19,
   "stock_ilimitado": false,
@@ -338,7 +338,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-morley-horizontal-cpompon-beige",
   "nombre": "GORRO Morley horizontal c/pompón BEIGE",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 19,
   "stock_ilimitado": false,
@@ -354,7 +354,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-morley-horizontal-cpompon-negro",
   "nombre": "GORRO Morley horizontal c/pompón NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 17,
   "stock_ilimitado": false,
@@ -370,7 +370,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-morley-horizontal-cpompon-gris",
   "nombre": "GORRO Morley horizontal c/pompón GRIS",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 9,
   "stock_ilimitado": false,
@@ -386,7 +386,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-morley-horizontal-cpompon-crema",
   "nombre": "GORRO Morley horizontal c/pompón CREMA",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 11,
   "stock_ilimitado": false,
@@ -402,7 +402,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-balcarse-cpompon-negro",
   "nombre": "GORRO Balcarse c/pompón NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 11,
   "stock_ilimitado": false,
@@ -418,7 +418,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-balcarse-cpompon-crema",
   "nombre": "GORRO Balcarse c/pompón CREMA",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 11,
   "stock_ilimitado": false,
@@ -434,7 +434,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/con-pompon/gorro-balcarse-cpompon-rojo",
   "nombre": "GORRO Balcarse c/pompón ROJO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 11,
   "stock_ilimitado": false,
@@ -450,7 +450,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-jimmy-gris",
   "nombre": "GORRO Jimmy GRIS",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 18,
   "stock_ilimitado": false,
@@ -466,7 +466,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-jimmy-negro",
   "nombre": "GORRO Jimmy NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 19,
   "stock_ilimitado": false,
@@ -482,7 +482,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-jimmy-azul-francia",
   "nombre": "GORRO Jimmy AZUL FRANCIA",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 14,
   "stock_ilimitado": false,
@@ -498,7 +498,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-jimmy-crudo",
   "nombre": "GORRO Jimmy CRUDO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 19,
   "stock_ilimitado": false,
@@ -514,7 +514,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/tejido/gorro-jimmy-rojo",
   "nombre": "GORRO Jimmy ROJO",
-  "precio_proveedor": null,
+  "precio_proveedor": 1400,
   "stock_disponible": true,
   "stock_cantidad": 24,
   "stock_ilimitado": false,
@@ -530,7 +530,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky/gorro-rayado-gri-clarobordo",
   "nombre": "GORRO Rayado GRI CLARO/BORDO",
-  "precio_proveedor": null,
+  "precio_proveedor": 900,
   "stock_disponible": true,
   "stock_cantidad": 13,
   "stock_ilimitado": false,
@@ -546,7 +546,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky/gorro-rayado-azulnegro",
   "nombre": "GORRO Rayado AZUL/NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 900,
   "stock_disponible": true,
   "stock_cantidad": 13,
   "stock_ilimitado": false,
@@ -562,7 +562,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky/gorro-rayado-con-puno-blanconegro",
   "nombre": "GORRO Rayado con Puño BLANCO/NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 900,
   "stock_disponible": true,
   "stock_cantidad": 84,
   "stock_ilimitado": false,
@@ -578,7 +578,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky/gorro-rayado-con-puno-gris-oscuronegro",
   "nombre": "GORRO Rayado con Puño GRIS OSCURO/NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 900,
   "stock_disponible": true,
   "stock_cantidad": 75,
   "stock_ilimitado": false,
@@ -594,7 +594,7 @@
  {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/gorros/rocky/gorro-rayado-con-puno-gris-claronegro",
   "nombre": "GORRO Rayado con Puño GRIS CLARO/NEGRO",
-  "precio_proveedor": null,
+  "precio_proveedor": 900,
   "stock_disponible": true,
   "stock_cantidad": 87,
   "stock_ilimitado": false,
@@ -1777,7 +1777,7 @@
   "nombre": "AFA, Curva, Ripstop Mod 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/adfcc5ac50118e70401560e98dcfb514f40371ead54899609f3233967016cdc4320487.jpg",
   "categorias": [
@@ -1793,7 +1793,7 @@
   "nombre": "AFA, Curva, Ripstop Mod 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0c70123e5a367663fc6f1f181fe4ebb0557c1b5e9db3fe3e6ef6414e2179a214320487.jpg",
   "categorias": [
@@ -2608,7 +2608,7 @@
   "nombre": "LACOSTE FLEX Mod 14",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/bbd6f72bb025cace00a13dfcee855b70d5e0cce9f3f9addaafe79d5c27807d46320487.jpg",
   "categorias": [
@@ -3306,1138 +3306,6 @@
    "gorras",
    "futbol",
    "boca"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca/boca-10",
-  "nombre": "BOCA 10",
-  "precio_proveedor": 4900,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fce472b88596241a092357513ad09a3665a87f41c429b3c67e89eee1f1cc7946320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "boca"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca/boca-16",
-  "nombre": "BOCA 16",
-  "precio_proveedor": 4900,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3bbbe6cea9105de313f944e4e274122514a7945a23b0caeab5f436efb837609b320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "boca"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca/boca-6",
-  "nombre": "BOCA 6",
-  "precio_proveedor": 4900,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7bae23bd25559859434022810101b4d2f2e69c345524781e7b8e9aab94582065320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "boca"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca/boca-1",
-  "nombre": "BOCA 1",
-  "precio_proveedor": 4900,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8dc13d5c72b9ad39866df1f437e31e2d5f4fc6bae93fe3365064b7285af1d393320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "boca"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-33",
-  "nombre": "CHICAGO THE FINALS 33",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/12a97044bf3534ab10cd2c205b52f19049782163c817f830b34e8707534b0d8e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-32",
-  "nombre": "CHICAGO THE FINALS 32",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/95ec2d4ab51b3fb8e06ed28881405323d9a7fd5b4392f20327c0bf7d14b70f89320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-31",
-  "nombre": "CHICAGO THE FINALS 31",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/773d5fee5c6cb411097be6bfc608646fc50eb9c417b537adbb3f88e2c4b70858320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-30",
-  "nombre": "CHICAGO THE FINALS 30",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ef9dd45fc50da1a95686295bae8d0b975b3141b7d9ad1ceb3e7ce5da65c7afa9320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-29",
-  "nombre": "CHICAGO THE FINALS 29",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/87de27f019cba17135b455a4eba6eafc960562bd9c794b4b3c2bf31da85109be320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-28",
-  "nombre": "CHICAGO THE FINALS 28",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/71149e62674e7512f822674661d236b7f7c7c0761ba986c740fdb9fb98f1db79320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-27",
-  "nombre": "CHICAGO THE FINALS 27",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e71d564016a0280677fb233cac0b032256ca0a553d22288df970ca40aaca7492320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-26",
-  "nombre": "CHICAGO THE FINALS 26",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/de28ddfc95a30e3fd1143ec3faa62c17bcfff9b9259257e9d5418762d27d149f320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-25",
-  "nombre": "CHICAGO THE FINALS 25",
-  "precio_proveedor": 8023,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/48d4b7f0cdcbd5beb9355cc6516ab67e09ffc6ad8b3e0751a5fc8e530f557cdc320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-24",
-  "nombre": "CHICAGO THE FINALS 24",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 7,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3faca928966266ee2b9e037701bfda6c037f0ae199e38d8449012501875120c6320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-23",
-  "nombre": "CHICAGO THE FINALS 23",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 9,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/669688e3f49b06e8257211ee469f7530c57eb17c4b887eae44841e5df26f1c27320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-21",
-  "nombre": "CHICAGO THE FINALS 21",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 7,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a60504802781b3a043691bfa3c8d9443c7aded40def43441862e0c84a963d21d320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-20",
-  "nombre": "CHICAGO THE FINALS 20",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/df5a2ca7e40e96df3338182b138ec2f91ff1ed6146d125fb82f0f7a4e8c30ecb320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-19",
-  "nombre": "CHICAGO THE FINALS 19",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 11,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a747aa942086fc6ee3cc6316a73d2365555f513e2eb33208413dadd038e1cfda320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-18",
-  "nombre": "CHICAGO THE FINALS 18",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 11,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9d864a91f1099b0ba494d365e68978722ab47c86b675dc2b5333c2bebb6a24a2320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-17",
-  "nombre": "CHICAGO THE FINALS 17",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 9,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c4adf4aa585d7d99f335898dd86994ccd8b7ad4805967c79638be0711dcb8fba320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-15",
-  "nombre": "CHICAGO THE FINALS 15",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 8,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/52f540056fc2092468b0c1c02162889ce5bdc1dcd6a518686acc11e2c1c10c0c320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-14",
-  "nombre": "CHICAGO THE FINALS 14",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 9,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0384eb07487663cd373c6dce4af31dd5fa7a2e59a0e2cc6b50ce30e3bb2711f3320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-13",
-  "nombre": "CHICAGO THE FINALS 13",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7ddefc6ddde41626d9e5cbb4d6c5b0606d3965a9d080f4401c1eb82139c500fe320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-12",
-  "nombre": "CHICAGO THE FINALS 12",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 7,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dda73fe43498d1c139550c829d2491a8a555b79af720c0d09a8f2f20a8758b09320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-10",
-  "nombre": "CHICAGO THE FINALS 10",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b04fa156663fc917949ae7dd8583574240932ab67f5040a62f66b02c500a4204320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-9",
-  "nombre": "CHICAGO THE FINALS 9",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ab409fa7a84c1347a5275e0ddbd2003f181cad266745c050bb2c639e42d99f2c320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-8",
-  "nombre": "CHICAGO THE FINALS 8",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 7,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2dcc2d2232494bf17416a874c3f6fefbb0e6d1975dd9e716c2da7f9a13fbcd22320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-7",
-  "nombre": "CHICAGO THE FINALS 7",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ccb8a3d2e25ec231d1fac14aafd3963fe69c66a4c0beda7ecf8491a153fec760320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-6",
-  "nombre": "CHICAGO THE FINALS 6",
-  "precio_proveedor": 8023,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6f0097bbdfc4850952d64b30a94acf9a5464f7119f98471c41d9464d36a428a8320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-4",
-  "nombre": "CHICAGO THE FINALS 4",
-  "precio_proveedor": 8023,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/16ce9bb45ab78ac28980277a63187e108d0f7a3de6c0fe135adf35da4a182240320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-2",
-  "nombre": "CHICAGO THE FINALS 2",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 8,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cb1f83ab24e9c8c447eab8fd8bea645cf41bb4dc5c76e4ea9f2eb23d3c047107320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-1",
-  "nombre": "CHICAGO THE FINALS 1",
-  "precio_proveedor": 8023,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ad65c329ab3a5eb4d6210baad29aa2e36c3eecc371fb058e821372b7506c2ef7320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "chicago-the-finals"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-27",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 27",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3060420744d764b089cd814302223860346b70ba26910c17c4ad3b8af5df4517320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-26",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 26",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6679120375dc431cbf0991c70f2a7ab2dd776adc0e85cddc89d4a5e101da8863320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-25",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 25",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5cf250526dd2b3e17481f91572c07ef3a60e122b34ae1d2540cf289db8dc860320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-24",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 24",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/16be4456784ff5f59f48c16038c35243dbd31798226277136767ce3e3bcc26f1320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-22",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 22",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d7e9a524d70456c2db4236063fb3c985941bf5c30c3bb50368a8505462be6ccf320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-21",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 21",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/67f528d0144e61e500900daecc39272f684de1b4f22b1bfd000f1cf15d406b40320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-20",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 20",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1f29eabddf71ae6ce70ec9d8f3ea65691034b0e52b7ac27dad0b21c389d8de17320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-19",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 19",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2485def240e66b00bbb6f48572f32b775cb9a8022f1dcb9345d8c399c89877a9320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-17",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 17",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/959cd21c2e3777d21e337ba42948fa1e62ff5f476295eb4f8ac4ef600c1eb694320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-15",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 15",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/48474fa6c11e9757174c32eab15d1970f26c2733c6a7cf1ea3de2e984a95edef320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-14",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 14",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/53e5c597dbd4da2f52fe752aa4ce8dd274362e67ed5a950da606e7686ee13c15320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-13",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 13",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ed44558797ef0da4a85d27a12958fa52b4e0efbdd0d664fed9b23336212effde320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-12",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 12",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/92afdaac064239491bbebe4b12461f1c9c600a7e66e9dc7624a42ae81d8c3029320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-11",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 11",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c9530caf7af8ec4597464fe645ec688408eb81af447de25ad2c8bd0efc32620d320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-10",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 10",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2964d6ad740405df6d84e6a43776816a6f74191d4fe1f2f9e332ce382d11f05b320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-9",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 9",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4e7922c84b47158b3ad562f06b225133cc4f5c15110af78c43e54685f0c0bcaf320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-8",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 8",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ba88597cc7b3faf7bf8cfcb9747ff33b56d4482f0801ca2dc73e63ecccf62d29320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-3",
-  "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 3",
-  "precio_proveedor": 7875,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e0f7ad00847290f4a097270069133a2063de0898646d8a9afffbf4edef3e319f320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "nba"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/honda-1-auto",
-  "nombre": "HONDA 1 (auto)",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f20d6e9111a1ebea1b28242289bf5a1bb310433df3f06e83ae68c8f4e203fa63320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/chevrolet-1",
-  "nombre": "CHEVROLET 1",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f4a9c8d50831b1ca84cc7b2d64ae774ef8b0a86ea9e47a61f4cd700cf213091b320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-mostaza",
-  "nombre": "NY (BOLA) Mostaza",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/98cbdb4b2d820e7b9d8d014eb571b317e3f064c75b2c3f9ebdc257cfbacd67cf320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-rojo",
-  "nombre": "NY (BOLA) Rojo",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/04cb548fb18cf237d5d9eefe77fb0801f5597ade51a0a62d16d3a3041625f52f320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-verde-agua",
-  "nombre": "NY (BOLA) Verde Agua",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/904a4daff65b4f39eb9f18c977c71c74232031d8fe02252133ce2567c90019ef320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-celeste",
-  "nombre": "NY (BOLA) Celeste",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69bc975a2b823d27dc42b7157e1ea081eb818da8482b6531c8b0c4dd5c1ea08d320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-rosa",
-  "nombre": "NY (BOLA) Rosa",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6d0886580e31c94c0b2c7ea036bb67b8c4838f852298a53dc8f4a52316c3d91f320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-beige-oscuro",
-  "nombre": "NY (BOLA) Beige Oscuro",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2e798dd93642410c06b1e782343e4cc6dc8b5ef181a04ef25003dd885d31b63a320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/renault-1",
-  "nombre": "RENAULT 1",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/71fbc5221b171b4ea62152917a839058a43dcc3e408c8535388cbf738bc171d6320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/peugeot-1",
-  "nombre": "PEUGEOT 1",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/13e8228c60cdb61608000cd9ce8bb914e80c12478c1eb56c663a459a0387ede8320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/honda-2-auto",
-  "nombre": "HONDA 2 (auto)",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0e8791967366c4a31bd47194c4c70cfab9343a907e4c74e2d520aa7287b40b55320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/honda-3-auto",
-  "nombre": "HONDA 3 (auto)",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7e92ab1088167010c4b4e6b1d63c0e56111dd650dfa51b69efabaca3722a4083320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/bmw-1",
-  "nombre": "BMW 1",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/92e1ff751b1572f8fc1472f15532c3dcbfd273ad574b8c5e10e062a2c4d3b414320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-14-boton-blanco",
-  "nombre": "BOCA 14, botón blanco",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 14,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d3c0baf9ecdf4b57bc8b07e85443733ebaf370be311f7df67d25f46880963fff320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-14-boton-negro",
-  "nombre": "BOCA 14, botón negro",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3eeac5f0712cba30cbab8be06c11cfc42bad313a4b59d3a51d92c4be38c487d5320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/g5-modelo-2",
-  "nombre": "G5 Modelo 2",
-  "precio_proveedor": 20000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/367d7ddac7ce0e97802c095034be163443f039fecf4c5e035a5a6e403f2cba62320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/g5-modelo-3",
-  "nombre": "G5 Modelo 3",
-  "precio_proveedor": 20000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3aac7f8827f1b819c2d2c2d222d24dc7d76338d2c5cb7dc428a730035f167abb320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/g5-modelo-5",
-  "nombre": "G5 Modelo 5",
-  "precio_proveedor": 20000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/25df50cdad8699fb3354560829f9ec4556f8681d9cf8d73e41f941dab990fce6320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa/txc-modelo-16",
-  "nombre": "TXC Modelo 16",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f8c008aa36dc6e3f3840adb08aecd56f14aaa33d9db75bd515e556230fea0178320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "marca-ropa"
   ],
   "categoria_principal": "gorras"
  }
