@@ -1188,7 +1188,7 @@
   "nombre": "AFA Plana Holográfica Mod 13",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7cff8531635d59b80e2e738fae60a80fc82bf26e87842741e219c76ec5182412320487.jpg",
   "categorias": [
@@ -1205,7 +1205,7 @@
   "nombre": "AFA Plana Holográfica Mod 12",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ea506e50f32ebee3f155077fc6df8faa22d2d6182604a6f6d163eac2119ca3db320487.jpg",
   "categorias": [
@@ -1256,7 +1256,7 @@
   "nombre": "AFA Plana Holográfica Mod 9",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/81edde2619573b13be1cdcbfd4363084cc4fee084dfa6c8b66cbfb566ae01877320487.jpg",
   "categorias": [
@@ -1760,8 +1760,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/afa-curva-ripstop-mod-1",
   "nombre": "AFA, Curva, Ripstop Mod 1",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/adfcc5ac50118e70401560e98dcfb514f40371ead54899609f3233967016cdc4320487.jpg",
   "categorias": [
@@ -1792,8 +1792,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/afa-curva-ripstop-mod-3",
   "nombre": "AFA, Curva, Ripstop Mod 3",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c48e4011442f96a198466f8b4bd928c58b2be44719284e553f6982508817eb38320487.jpg",
   "categorias": [
@@ -1809,7 +1809,7 @@
   "nombre": "AFA, Curva, Ripstop Mod 4",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/878e71ee82497817d54da0f1dba7aeffaeb362420897fdaa60dbcd1b07fb8b27320487.jpg",
   "categorias": [
@@ -4453,22 +4453,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-7-visera-plana",
-  "nombre": "BOCA 7, Visera Plana",
-  "precio_proveedor": 6300,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8813acaaa64403a84d075a346bba0120ffd295ec84b2644ba0b81c9c1df6fb2b320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/yamaha-8",
   "nombre": "YAMAHA 8",
   "precio_proveedor": 6300,
@@ -5352,8 +5336,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/volkswagen-1",
   "nombre": "VOLKSWAGEN 1",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/28253028feae3dd3b742648a3eb7dde3e970a801bb3e035703467bd5619ead5e320487.jpg",
   "categorias": [
@@ -7971,8 +7955,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-13",
   "nombre": "BOCA 13",
   "precio_proveedor": 6300,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/66a50ee9495e669a459fcdee106c265cd4fa28b0e70d01e803e9af32ca47a7e0320487.jpg",
   "categorias": [
@@ -10142,8 +10126,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/invierno/adulto/guantes/moto/guante-moto-camuflado-3",
   "nombre": "Guante MOTO Camuflado 3",
   "precio_proveedor": 5250,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f179051564fa603933bfe9e560902ad8c8ef96288a9a81276efde4ab8c74b54a320487.jpg",
   "categorias": [
