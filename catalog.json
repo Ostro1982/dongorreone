@@ -1307,7 +1307,7 @@
   "nombre": "AFA Plana Holográfica Mod 5",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/306de49a9f741ba0bd9bcf889398a3ccf119f90f63557fe2ab6e74a0f6853be4320487.jpg",
   "categorias": [
@@ -1792,7 +1792,7 @@
   "nombre": "AFA, Plana, Ripstop Mod 3",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c8667aac49995588c3913417d15804a4cea09ca006b5912098da99d9a7d06261320487.jpg",
   "categorias": [
@@ -1909,8 +1909,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-6",
   "nombre": "AFA Trucker, Mod 6",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/986ae6eaeec6b1c78b9cafd71ce8a64a9dd81fe0f1a384ec9122f5f9f6d3b35a320487.jpg",
   "categorias": [
@@ -2218,7 +2218,7 @@
   "nombre": "CHICAGO THE FINALS 35",
   "precio_proveedor": 8023,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c35d4587314dfd5ce693e8922a325c03cbcd4a5a3dd3a5e1910f907301417ac3320487.jpg",
   "categorias": [
@@ -5448,7 +5448,7 @@
   "nombre": "YAMAHA 4",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/efa9b264a94070e49595e4605f775bdd3404112d7904ed870494e8b9e1a4bcf0320487.jpg",
   "categorias": [
@@ -5624,7 +5624,7 @@
   "nombre": "HONDA 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e506d3d7d8bea17af9e6b12ba8046e74e956cf041b39654cf9722a4fdb0c9182320487.jpg",
   "categorias": [
@@ -5801,8 +5801,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/plana-flex-jordan-gris-claro-aplique-grande",
   "nombre": "Plana Flex, JORDAN GRIS CLARO aplique grande",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4cde50489f79b19ebc5a4bdb8c3a260b34ab43265d8aa9105a7615c82875d586320487.jpg",
   "categorias": [
@@ -5916,7 +5916,7 @@
   "nombre": "Black Company, visera CURVA, FLEX, modelo 11",
   "precio_proveedor": 6700,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d7350c91c6e923e14505e5aa324e7f5364950ced8aadb019fbab673fb9de5126320487.jpg",
   "categorias": [
@@ -5947,8 +5947,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/black-company/black-company-visera-curva-flex-modelo-9",
   "nombre": "Black Company, visera CURVA, FLEX, modelo 9",
   "precio_proveedor": 6700,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cd6fd6cb8e79edb94922b2efae6ea2d46fa020fb866524382860f7df04f11d90320487.jpg",
   "categorias": [
@@ -6712,7 +6712,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, OAKLAND A&#039;S NEGRO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b5cdac8f91ea90767354c1be9f5fb22eed8b94b4d5e2c7617a8a2f697e77b78c320487.jpg",
   "categorias": [
@@ -6856,7 +6856,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, BOSTON CELTICS GRIS",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7def26aeb38a55905fda208a18b6f5ee376273bbd51b864ab71d592e3cbe4d81320487.jpg",
   "categorias": [
@@ -7032,7 +7032,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, NY YANKEES GRIS / NEGRO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2655721c76a8cb776a26b2b5cef25a113bdfd57cfeb8983c067b35f2325eb63d320487.jpg",
   "categorias": [
@@ -14749,342 +14749,6 @@
    "adulto",
    "gorras",
    "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-gajos-v",
-  "nombre": "Poliéster LISA 6 Gajos V",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 37,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/73dbc4ea856636aced23b7de69c7cbceacd36a30a3adee632e5d5a7a1e25cce2320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-6-gajos",
-  "nombre": "FLEX 6 Gajos",
-  "precio_proveedor": 4200,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/60d0ee500569fd7edd904084f01887f5bf4794978382caa39243184f84c67c43320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-5-gajos",
-  "nombre": "FLEX 5 Gajos",
-  "precio_proveedor": 4200,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5e9cbb79d44b33956bfbda97238d898aafba8b5a0a60eac8dabd70ff1c5c9057320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/plana-camuflada",
-  "nombre": "Plana CAMUFLADA",
-  "precio_proveedor": 3255,
-  "stock_disponible": true,
-  "stock_cantidad": 234,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ef302d4aef901dd698bc984e39cbb3e4281186392e0106a72156de2852c39beb320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "planas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/plana-jean",
-  "nombre": "Plana JEAN",
-  "precio_proveedor": 6405,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/35b315559bd31b9ab5470d05fc4cb4785b57eeac9af68bb9aa136e6ee1a349f5320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "planas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/plana-urbana",
-  "nombre": "Plana URBANA",
-  "precio_proveedor": 2100,
-  "stock_disponible": true,
-  "stock_cantidad": 274,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fb52d21363f21ba1c4e55f0a48b4d8c1cdcd485ecacee3150252af2ee3c3d597320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "planas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-avengers",
-  "nombre": "Poliéster  AVENGERS",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 96,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/517520ac12b37d7a0ce132f1f3aa6cb38602b9d3439ce4faf8a6688582898901320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-batman",
-  "nombre": "Poliéster  BATMAN",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 7,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a22752d22198501409d243668ecd2e5d9afd81af191c12a2514cd000c0f6a112320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-dragon-ball",
-  "nombre": "Poliéster  DRAGON BALL",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 33,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d926b7ca818fa7a3d06f13ac5356ffb141ab450449e5f3713d5fd70b6b482eca320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-frozen",
-  "nombre": "Poliéster  FROZEN",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 12,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/370e5f17ce5118f1fb427998d71604ef2a66d3d713c549090733c48992ab4745320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-futbol",
-  "nombre": "Poliéster FÚTBOL",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 33,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4d36c51c06431d6c2440360f4dc7c04b22931b21cae7db6cbabd8ccd9a3ce794320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-huggy-wuggy",
-  "nombre": "Poliéster HUGGY WUGGY",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 11,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3f39cf6c4ec8274be8ba95ef57e0af3d57defd812bb996abf3ec36c81c5fb76f320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-lol",
-  "nombre": "Poliéster LOL",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 10,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8180c18e6008520ab9ca99a8193304c2d210aef647913f7561e03987f75ed309320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-naruto",
-  "nombre": "Poliéster NARUTO",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 25,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d7393c36a43f7c49b63c953bcba377052f716fe55e8cf4b1804caeb28fd13fb9320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-spider-man",
-  "nombre": "Poliéster SPIDER-MAN",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5f6ba5a13ff6269fdd263a85df1a56143f093e56fcc4148d43a870128de27a0320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/poliester-venom",
-  "nombre": "Poliéster  VENOM",
-  "precio_proveedor": 3360,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9c28222e4326490d1a6df466ab22bc0e52e2ca7ae87ec7096a7f07eb8159d0f8320487.png",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-jaspeada",
-  "nombre": "Trucker GOMA ESPUMA JASPEADA",
-  "precio_proveedor": 3045,
-  "stock_disponible": true,
-  "stock_cantidad": 47,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/befb4f7e6595662d5e0c55b1ae6de691970f03c27b70ee11db570f6708014122320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-bicolor",
-  "nombre": "Trucker GOMA ESPUMA BICOLOR",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4bef1d279a444de6e90198f7a32dcef9214fb2894df18c11b77e04eb64da9cd1320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-lisa",
-  "nombre": "Trucker GOMA ESPUMA LISA",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 39,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/54a93289832cb9749027ed65fa3f804b2b9855be526611ec06cb35bd86c10947320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor",
-  "nombre": "Trucker ALGODÓN BICOLOR",
-  "precio_proveedor": 2835,
-  "stock_disponible": true,
-  "stock_cantidad": 28,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/053203173a9b75c23966457d20f2de3c63fa91a7350a22b2b280e42a9cace529320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-combinada",
-  "nombre": "Vintage Combinada",
-  "precio_proveedor": 5250,
-  "stock_disponible": true,
-  "stock_cantidad": 45,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3fe9d123469f11e5b35a1388ae3df048ec8f419833440224e0ee12e00962325b320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage-lisas"
   ],
   "categoria_principal": "gorras"
  }
