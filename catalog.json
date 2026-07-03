@@ -1,5 +1,21 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/nacional-1",
+  "nombre": "Nacional 1",
+  "precio_proveedor": 6300,
+  "stock_disponible": true,
+  "stock_cantidad": 9,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/90fa40b5bb361b6570fae20b9b4958b6b41b2e8b0ea8a2f3fb6ab99260afbc88320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "auto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-54",
   "nombre": "AFA Trucker, Mod 54",
   "precio_proveedor": 6300,
@@ -4852,7 +4868,7 @@
   "nombre": "PEUGEOT 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/13e8228c60cdb61608000cd9ce8bb914e80c12478c1eb56c663a459a0387ede8320487.jpg",
   "categorias": [
@@ -8365,7 +8381,7 @@
   "nombre": "Vintage Lisa PARDO",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 312,
+  "stock_cantidad": 282,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/86261d508418ada3aa851fa9712d5acc3cd7d78d2f76664fbea35278e3215798320487.jpg",
   "categorias": [
@@ -14120,7 +14136,7 @@
   "nombre": "FIAT 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/765c882ce15c42ac18c2103405211018c3458d880e451ce09828e98029e25936320487.jpg",
   "categorias": [
@@ -14248,7 +14264,7 @@
   "nombre": "Vintage Lisa ROJO",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 13,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/774325b2806f6812e6cf130353212f7735844142f1cff72999db7d4c6dd3888c320487.jpg",
   "categorias": [
@@ -14264,7 +14280,7 @@
   "nombre": "Vintage Lisa BORDO",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 149,
+  "stock_cantidad": 119,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b78161f45a5e870c0e3ff52d64d77d18415ce0bb98272256aa847127d0745890320487.jpg",
   "categorias": [
@@ -14360,7 +14376,7 @@
   "nombre": "Vintage Lisa VERDE",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 221,
+  "stock_cantidad": 191,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/207f06e32e65c5127c3c99edb1c255ffb2e8c7de13209ded67c00d7713fbb909320487.jpg",
   "categorias": [
@@ -14408,7 +14424,7 @@
   "nombre": "Vintage Lisa TURQUESA",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 86,
+  "stock_cantidad": 81,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/88b0fabf057fd9ea0de015b332d8cf050b7efb4d67dc8adfee3e5f3a3356b78b320487.jpg",
   "categorias": [
@@ -14440,7 +14456,7 @@
   "nombre": "Vintage Lisa AZUL JEAN",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 208,
+  "stock_cantidad": 204,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
@@ -14472,7 +14488,7 @@
   "nombre": "Vintage Lisa NEGRO",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 573,
+  "stock_cantidad": 543,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
