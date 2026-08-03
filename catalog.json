@@ -313,7 +313,7 @@
   "nombre": "FOX, Plana, Mod 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fba9b66ad52eb8106eee6cd8307aad872fb025d2896729b956cf8cb22984ef6f320487.jpg",
   "categorias": [
@@ -330,7 +330,7 @@
   "nombre": "FOX, Plana, Mod 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9fa954b7f50d0cbd8ee6c254f30f65f47a0ccd90557e84ae35440b33ab08ab70320487.jpg",
   "categorias": [
@@ -364,7 +364,7 @@
   "nombre": "RED BULL, Plana, Mod 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e54987a25b41e67f2225b5e79fe2ac3a01d71e5a3a4132edaa343c47633bcd78320487.jpg",
   "categorias": [
@@ -568,7 +568,7 @@
   "nombre": "NIKE, Plana, Ripstop Mod 11",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/14a8fc7d30203333a19e13f82c9b6e860ee2d13d27ee52a539203f0fa1ba31c7320487.jpg",
   "categorias": [
@@ -2074,7 +2074,7 @@
   "nombre": "NY, Plana, Cerrada mod 5",
   "precio_proveedor": 7800,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/95268aa44cf9b49a3c00b03dfdaea0914706e0610f45f20db123e8a6a9f9f0bb320487.jpg",
   "categorias": [
@@ -2091,7 +2091,7 @@
   "nombre": "NY, Plana, Cerrada mod 3",
   "precio_proveedor": 7800,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7b1d7fbb6667c246d3f2becf7db4954acfaf54212f277431a250d4a0ffb2d83c320487.jpg",
   "categorias": [
@@ -2125,7 +2125,7 @@
   "nombre": "NY, Plana, Cerrada mod 1",
   "precio_proveedor": 7800,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dd0cf622fa706571ecf8686a561119b8c0a05a891007ed63c00571fce5a7a8e7320487.jpg",
   "categorias": [
@@ -2176,7 +2176,7 @@
   "nombre": "L A, Plana, Cerrada mod 2",
   "precio_proveedor": 7800,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7b915ceb694bff94ec0903eff47378a39f6b1e751b0ca07c7640962228a3ac1e320487.jpg",
   "categorias": [
@@ -2542,7 +2542,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 15",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ec352c985590d66c382c4940cfe44c57df8e80a232937346d1281e727a20aed5320487.jpg",
   "categorias": [
@@ -2606,7 +2606,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 11",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3d0b42f07ac86267dd76a8fd03f4b3462f8f6061c5ed31adc6c99605b732c581320487.jpg",
   "categorias": [
@@ -2654,7 +2654,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 7",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a58ac301c482f196b340328bbbab947212a35e969668ef8453a5fa2f21f70565320487.jpg",
   "categorias": [
@@ -2686,7 +2686,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 5",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2ae303b5ce39bbd13f21b66dcc37394bf0c429598026fe9444fc31daea5a941320487.jpg",
   "categorias": [
@@ -2766,7 +2766,7 @@
   "nombre": "AFA, Curva, Ripstop Mod 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0c70123e5a367663fc6f1f181fe4ebb0557c1b5e9db3fe3e6ef6414e2179a214320487.jpg",
   "categorias": [
@@ -3813,7 +3813,7 @@
   "nombre": "BUBBLE GUM Mod 6",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/32b98b8c8960398e93fd8f51cbab49592931fc67a2f7c33335b14c6aff298fa3320487.jpg",
   "categorias": [
@@ -4968,7 +4968,7 @@
   "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 11",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c9530caf7af8ec4597464fe645ec688408eb81af447de25ad2c8bd0efc32620d320487.jpg",
   "categorias": [
@@ -4985,7 +4985,7 @@
   "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 10",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2964d6ad740405df6d84e6a43776816a6f74191d4fe1f2f9e332ce382d11f05b320487.jpg",
   "categorias": [
@@ -5102,7 +5102,7 @@
   "nombre": "NY (BOLA) Rojo",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/04cb548fb18cf237d5d9eefe77fb0801f5597ade51a0a62d16d3a3041625f52f320487.jpg",
   "categorias": [
@@ -5170,7 +5170,7 @@
   "nombre": "NY (BOLA) Beige Oscuro",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2e798dd93642410c06b1e782343e4cc6dc8b5ef181a04ef25003dd885d31b63a320487.jpg",
   "categorias": [
@@ -5674,7 +5674,7 @@
   "nombre": "NY bordado chico Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8f33f3be75b5ffd72107e2b49374a3b14fa3d96192633f970cbc9eb663b55564320487.jpg",
   "categorias": [
@@ -5787,7 +5787,7 @@
   "nombre": "TOMMY NEGRO Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/835fcf2595da096277aede26281af2a473b53cf51cfd95f6e3db4522bbb41c9b320487.jpg",
   "categorias": [
@@ -6576,7 +6576,7 @@
   "nombre": "KTM 6",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 17,
+  "stock_cantidad": 16,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/72ba3d102f4059c44ad10d84e1e74308d8c2df790bc76ec51d1d59d901c9adc5320487.jpg",
   "categorias": [
@@ -6787,7 +6787,7 @@
   "nombre": "CERRADA Atrás, Plana, NY Empire Estate CELESTE JEAN",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cafeb3f2ba14c26d78d66782fdd3f86b1b30626cb0cdaa90072d8ff2cbdfa48e320487.jpg",
   "categorias": [
@@ -6870,8 +6870,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-13",
   "nombre": "NY CHAMPIONS 1996 MOD 13",
   "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/00d5b4b7c45b7d3b3701b9a959a476c62244cb4cdd52804149d9e4837e7f5b85320487.jpg",
   "categorias": [
@@ -8249,7 +8249,7 @@
   "nombre": "ALPINESTARS 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/868f60e58140590dd484eb0e9fe0f78ea9ec74bc864c7169a868c5cdb936177d320487.jpg",
   "categorias": [
@@ -8721,7 +8721,7 @@
   "nombre": "ESTILO CICLISTA Mod. 8",
   "precio_proveedor": 6510,
   "stock_disponible": true,
-  "stock_cantidad": 25,
+  "stock_cantidad": 24,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4bfbeaafe271fe08c95a0e0f9f6d17d77fe07600b0379e6a9e02e076592c0689320487.jpg",
   "categorias": [
@@ -8857,7 +8857,7 @@
   "nombre": "ESTILO CICLISTA Mod. 16",
   "precio_proveedor": 6510,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a9c6a3fa7792c7a8be87060faf617be10e591dc916091717095f5fa2bec15c38320487.jpg",
   "categorias": [
@@ -13798,7 +13798,7 @@
   "nombre": "CERRADA Atrás, Plana, CAVALIERS NBA",
   "precio_proveedor": 6930,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a8c590289836a297717b27bef74d0ff9fa811eb58f7d93cb478f752de755e96d320487.jpg",
   "categorias": [
@@ -14654,7 +14654,7 @@
   "nombre": "NY aplique BORDO",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5aae0aedaed0d3df1a4a6be517cfadddaa3e6fbdea1035e4102f773395c26bb320487.jpg",
   "categorias": [
