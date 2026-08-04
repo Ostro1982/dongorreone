@@ -6850,142 +6850,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-14",
-  "nombre": "NY CHAMPIONS 1996 MOD 14",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/641c9e1cf3e0ec2225bba59aaf58c992716381e3cff7f1549a5a547df20d3b2e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-13",
-  "nombre": "NY CHAMPIONS 1996 MOD 13",
-  "precio_proveedor": 6510,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/00d5b4b7c45b7d3b3701b9a959a476c62244cb4cdd52804149d9e4837e7f5b85320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-11",
-  "nombre": "NY CHAMPIONS 1996 MOD 11",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/15b4d2b6db38a41ddf135ef49691e9b751542c04b5f14f391e9a77ca49d3050d320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-10",
-  "nombre": "NY CHAMPIONS 1996 MOD 10",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2aa8ec75c0397c901d18ee9872fd1404c75b6dc5b3d53c598269dd51d64884ed320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-6",
-  "nombre": "NY CHAMPIONS 1996 MOD 6",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d66d4b51cb0a53eb911dce65545f2f7c4112281aebcc9d3c9b57f80783151134320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-5",
-  "nombre": "NY CHAMPIONS 1996 MOD 5",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/890bbe0e3771509a060f98e7625339dc828bd2786faae8aae6ea4c6d2356506c320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-4",
-  "nombre": "NY CHAMPIONS 1996 MOD 4",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6e246dc6d4ed4b4c56a3fc0884dfe7192047c4c2d830feb1ca17a2d2bcf5fda5320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-champions-1996-mod-3",
-  "nombre": "NY CHAMPIONS 1996 MOD 3",
-  "precio_proveedor": 6510,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ea8dcfdcd1e697c0d79fb4be1b4fe53dd97d076e49a6d702afa03763cb8f4678320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/vintage/vintage-infantil-negro",
   "nombre": "VINTAGE Infantil NEGRO",
   "precio_proveedor": 4300,
@@ -12369,22 +12233,6 @@
   "categoria_principal": "cuello"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-violeta-oscuro",
-  "nombre": "Vintage Lisa VIOLETA OSCURO",
-  "precio_proveedor": 5250,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0f2ce9ff054b3b5e8544c0d411f0cde5f3425674e49b4323b630ebeb8e74f25e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage-lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/mercedes-benz-7",
   "nombre": "MERCEDES BENZ 7",
   "precio_proveedor": 6300,
@@ -14443,22 +14291,6 @@
   "stock_cantidad": 203,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage-lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-violeta",
-  "nombre": "Vintage Lisa VIOLETA",
-  "precio_proveedor": 5250,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b9a9ffde881b2c9843f5b3a81f8d77bd100d3d91004b05007399cfc60edd3b1f320487.jpg",
   "categorias": [
    "verano",
    "adulto",
