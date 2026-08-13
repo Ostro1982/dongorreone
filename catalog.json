@@ -36,7 +36,7 @@
   "nombre": "BASEBALL Mod 10",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c634ed7bc2ff2a1b3cca11a763466a88e34a84391d116f2bea6e3ae420e0274d320487.jpg",
   "categorias": [
@@ -70,7 +70,7 @@
   "nombre": "BASEBALL Mod 8",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fa32ef4c025f3efcb17607ffd7435fcee971e59938b876f47bb07f1402a22bbe320487.jpg",
   "categorias": [
@@ -87,7 +87,7 @@
   "nombre": "BASEBALL Mod 7",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b8bc63ce26706579cafd98f1dc47a77bae1d7500b1165deb7417c93ae4aec64c320487.jpg",
   "categorias": [
@@ -103,8 +103,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/baseball/baseball-mod-6",
   "nombre": "BASEBALL Mod 6",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ca32d3d00c449c21f8e2c9a4795d8374cec1dd030ba2554c74e474923997ef0d320487.jpg",
   "categorias": [
@@ -137,8 +137,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/baseball/baseball-mod-4",
   "nombre": "BASEBALL Mod 4",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/58443c01f6651026586f97fa65009a415ed1f5168cd318ab897c81a516b18a88320487.jpg",
   "categorias": [
@@ -382,7 +382,7 @@
   "nombre": "CHICAGO THE FINALS 63",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/57697f3530545ebf5cae1c14c699472c87f0f1eda9f685f3c6395d3a7dc99827320487.jpg",
   "categorias": [
@@ -414,7 +414,7 @@
   "nombre": "CHICAGO THE FINALS 61",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/21341089167e8bbdcf9f04902cc9a615a3ccc905989f617e5eb0dac0ada88f2a320487.jpg",
   "categorias": [
@@ -430,7 +430,7 @@
   "nombre": "CHICAGO THE FINALS 60",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/57b4ebe84575a3d33bf0426e684ee69855628e0846c3b44de8587db3387e6a4b320487.jpg",
   "categorias": [
@@ -446,7 +446,7 @@
   "nombre": "CHICAGO THE FINALS 59",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/596518f4d859f9da9e81b1a8bd3ea2a34085b3c66a137a623d1c1d6b4dcad98c320487.jpg",
   "categorias": [
@@ -462,7 +462,7 @@
   "nombre": "CHICAGO THE FINALS 58",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/adfa4daa35c4aded3f88412b0b009aae9ab7eacebb2e6a7685209d9681680d5a320487.jpg",
   "categorias": [
@@ -478,7 +478,7 @@
   "nombre": "CHICAGO THE FINALS 57",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/baeeaab5d52abf77bbf7f952e3be88021fc69be5ff94c884aceb57ca7792d537320487.jpg",
   "categorias": [
@@ -510,7 +510,7 @@
   "nombre": "CHICAGO THE FINALS 54",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f7a35599d84f4a2dcfb0da7000592cba86e4e9275b805f9907dca2e5dbfb5e8a320487.jpg",
   "categorias": [
@@ -542,7 +542,7 @@
   "nombre": "CHICAGO THE FINALS 52",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7472644bea33f758c79062f0d75f46012529fd2e521224a6ea066f81912c6625320487.jpg",
   "categorias": [
@@ -759,8 +759,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa/lacoste/lacoste-corte-japones-abrojo-verde",
   "nombre": "LACOSTE, Corte Japonés, Abrojo, VERDE",
   "precio_proveedor": 6300,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2fb5d048b6e051ef840ec1055c6c3d44d79a1cb993c51e72550f2de1d900c218320487.jpg",
   "categorias": [
@@ -879,7 +879,7 @@
   "nombre": "LACOSTE, Ripstop, Aerobille Mod 3",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e57bdca76b5c76afdafe923a32fd6ae285f9b366ce094a44ea2290755463c907320487.jpg",
   "categorias": [
@@ -913,7 +913,7 @@
   "nombre": "LACOSTE, Ripstop, Aerobille Mod 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/91a95c85dd7323424d684b74d5986243f28890c316683b53a47b1cd5fd0ca9b1320487.jpg",
   "categorias": [
@@ -947,7 +947,7 @@
   "nombre": "NIKE, Plana, Ripstop Mod 10",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2b201f8d92651ab040f5529f5c514261378953765b4467003f86738eec907b63320487.jpg",
   "categorias": [
@@ -1150,7 +1150,7 @@
   "nombre": "AFA Trucker, Mod 53",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8036339b37fb3ca650e0cd1dac8f131fcc94365bbb25785250a7c18d5d243ea1320487.jpg",
   "categorias": [
@@ -1167,7 +1167,7 @@
   "nombre": "AFA Trucker, Mod 52",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cea9a4cfcbf2b3b11a6e7a13c6b2f1f6a905ebabd4955ae70f91852a70810b2c320487.jpg",
   "categorias": [
@@ -1184,7 +1184,7 @@
   "nombre": "AFA Trucker, Mod 51",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b7a9b29f7a81d37a93dc8fcf822156c2c82c587eaa593b127254f0c851919f78320487.jpg",
   "categorias": [
@@ -1201,7 +1201,7 @@
   "nombre": "AFA Trucker, Mod 50",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 12,
+  "stock_cantidad": 13,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f3a101ce637938c1cf58414f1c80d6eff4e449ac000dee2e31f6299a2d6e19e6320487.jpg",
   "categorias": [
@@ -1218,7 +1218,7 @@
   "nombre": "AFA Trucker, Mod 49",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/245a36f89039c45e206b8aee284f8d3786a3b9481b115a279d3ac667ce20208c320487.jpg",
   "categorias": [
@@ -1252,7 +1252,7 @@
   "nombre": "AFA Trucker, Mod 45",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 12,
+  "stock_cantidad": 13,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d4fa94f83d2fb6e5a45c365bd81a7024fc912e08777eff662481316a090dd01a320487.jpg",
   "categorias": [
@@ -1371,7 +1371,7 @@
   "nombre": "AFA Trucker, Mod 38",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 12,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e44448fca220820cea0c092438869fe177fe0ffe6ea53055e3e327cc1befbae7320487.jpg",
   "categorias": [
@@ -1388,7 +1388,7 @@
   "nombre": "AFA Trucker, Mod 37",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5da2b6966358face99f6d32854fb049ebc3f78a92c2de54efb239ac23087c1ce320487.jpg",
   "categorias": [
@@ -1937,7 +1937,7 @@
   "nombre": "AFA Curva Holográfica Mod 19",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/860afc8242e40105b4033f3f7765f50022fd65ad7c3efff635ef2437618b1bf7320487.jpg",
   "categorias": [
@@ -1954,7 +1954,7 @@
   "nombre": "AFA Curva Holográfica Mod 18",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/892d6988b61d68c1c25313258144b5746fc314250b9d37ec1ad640f32a2d38aa320487.jpg",
   "categorias": [
@@ -1971,7 +1971,7 @@
   "nombre": "AFA Curva Holográfica Mod 16",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/904e91d2228cad24084ed849632adcc248a8f09191eb06038a24bc07cd7e90d6320487.jpg",
   "categorias": [
@@ -2005,7 +2005,7 @@
   "nombre": "AFA Curva Holográfica Mod 11",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/76797a74c96d901be214340c4cc03634b0a04471220ee82bed02f222b2aa8649320487.jpg",
   "categorias": [
@@ -2137,6 +2137,23 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/holografica/afa-curva-holografica-mod-2",
+  "nombre": "AFA Curva Holográfica Mod 2",
+  "precio_proveedor": 8000,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6276fed4fd6ff874ca3eb6217e1e4c589c403641f5e9832b422d3e4b3c4aa516320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "afa",
+   "holografica"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-plana-cerrada-mod-6",
   "nombre": "NY, Plana, Cerrada mod 6",
   "precio_proveedor": 7800,
@@ -2157,8 +2174,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-plana-cerrada-mod-5",
   "nombre": "NY, Plana, Cerrada mod 5",
   "precio_proveedor": 7800,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/95268aa44cf9b49a3c00b03dfdaea0914706e0610f45f20db123e8a6a9f9f0bb320487.jpg",
   "categorias": [
@@ -2192,7 +2209,7 @@
   "nombre": "NY, Plana, Cerrada mod 2",
   "precio_proveedor": 7800,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/908f512d33a407bc0295d9bb3c1fd1eb55dd171a5f77c6e9df0fcb2208a916fc320487.jpg",
   "categorias": [
@@ -2226,7 +2243,7 @@
   "nombre": "L A (dodgers) Plana, Cerrada mod 4",
   "precio_proveedor": 7800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/65b774424f6b5b9f5371fdc987f57df430602606a0b970ec5e38eff4a325d82c320487.jpg",
   "categorias": [
@@ -2242,8 +2259,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/l-a-plana-cerrada-mod-3",
   "nombre": "L A, Plana, Cerrada mod 3",
   "precio_proveedor": 7800,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8f3bdf693049225a24eb733e6932e1437bc161ba6d986167d03dd0740e79a079320487.jpg",
   "categorias": [
@@ -2294,7 +2311,7 @@
   "nombre": "AFA Plana Holográfica Mod 13",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7cff8531635d59b80e2e738fae60a80fc82bf26e87842741e219c76ec5182412320487.jpg",
   "categorias": [
@@ -2311,7 +2328,7 @@
   "nombre": "AFA Plana Holográfica Mod 11",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/70bc49af60c1831b7b8e9fc009262e86bc22bdc487b02561a6ce2c93f9245eea320487.jpg",
   "categorias": [
@@ -2328,7 +2345,7 @@
   "nombre": "AFA Plana Holográfica Mod 10",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/118b8ef8391b7f76302d74278bc650b262209594b82be0a48309d4fa87a87be4320487.jpg",
   "categorias": [
@@ -2345,7 +2362,7 @@
   "nombre": "AFA Plana Holográfica Mod 9",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/81edde2619573b13be1cdcbfd4363084cc4fee084dfa6c8b66cbfb566ae01877320487.jpg",
   "categorias": [
@@ -2413,7 +2430,7 @@
   "nombre": "AFA Plana Holográfica Mod 5",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/306de49a9f741ba0bd9bcf889398a3ccf119f90f63557fe2ab6e74a0f6853be4320487.jpg",
   "categorias": [
@@ -2460,6 +2477,23 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/holografica/afa-plana-holografica-mod-2",
+  "nombre": "AFA Plana Holográfica Mod 2",
+  "precio_proveedor": 8000,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/46f04fb9d3228ce268eee36da0824cfd9d809bf8ff720f40a057204f749033cd320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "afa",
+   "holografica"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/holografica/afa-plana-holografica-mod-1",
   "nombre": "AFA Plana Holográfica Mod 1",
   "precio_proveedor": 8000,
@@ -2480,8 +2514,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/black-company/black-company-plana-corte-japones-modelo-26",
   "nombre": "Black Company, PLANA, Corte japonés modelo 26",
   "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/782cb2370fb3809f6c12dd9e6b4fc2bcdf70fe8d71c82ec3cc393ba12a4b1d37320487.jpg",
   "categorias": [
@@ -2529,7 +2563,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 20",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fbc35e2d4752af85d126d842f8ba9784a468b1663f6490040a0d4a0b82aa4be5320487.jpg",
   "categorias": [
@@ -2577,7 +2611,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 17",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9268de28a79772c3ab2becd1eb133e2f33eaba1dc7f1e2dc625cf952c3067fed320487.jpg",
   "categorias": [
@@ -2593,7 +2627,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 16",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4f11798f9b636d7dcf445da3bcb922e1cc2befe081ba02ab27337cdcbc401b52320487.jpg",
   "categorias": [
@@ -2785,7 +2819,7 @@
   "nombre": "Black Company, PLANA, Corte japonés modelo 3",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1366111dc2dbc1476e90271b286ded2d59aa3bcb6de1ab0a3bd7dddedccbe53b320487.jpg",
   "categorias": [
@@ -2833,7 +2867,7 @@
   "nombre": "AFA, Curva, Ripstop Mod 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0c70123e5a367663fc6f1f181fe4ebb0557c1b5e9db3fe3e6ef6414e2179a214320487.jpg",
   "categorias": [
@@ -2865,7 +2899,7 @@
   "nombre": "AFA, Plana, Ripstop Mod 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a7b092006b9fce952ba1fc631c4bdb80c2d021c31ccc9f1e5173e7528d718af3320487.jpg",
   "categorias": [
@@ -2948,7 +2982,7 @@
   "nombre": "AFA Trucker, Mod 28",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d4a631a97db8fe8e62cb1f1a4b3c645faf97e629c9bc00557ec0dd98bf5ab280320487.jpg",
   "categorias": [
@@ -2982,7 +3016,7 @@
   "nombre": "AFA Trucker, Mod 26",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/711eeb66a040d771dc62ae3979863623ecfd488d96f0d3fe2dcb0fa8c3aa6455320487.jpg",
   "categorias": [
@@ -2999,7 +3033,7 @@
   "nombre": "AFA Trucker, Mod 22",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/72b0498aee90cacfdc3ad693c2af2fb2f54d4fe35c7334c678ee7e5f375e40b1320487.jpg",
   "categorias": [
@@ -3118,7 +3152,7 @@
   "nombre": "AFA Trucker, Mod 12",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/48ee1ea9652af97c1d5cf4bb741d3eadf5893fd6e271b95e3b9b150466f2e89e320487.jpg",
   "categorias": [
@@ -3169,7 +3203,7 @@
   "nombre": "AFA Trucker, Mod 9",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a863ba657554abb4ff86df71f1e8127ecdf1571e96bd504dbd66b63dbd23d98f320487.jpg",
   "categorias": [
@@ -3237,7 +3271,7 @@
   "nombre": "AFA Trucker, Mod 4",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2e27b3cbeb89f8241f919265d9eb39dcb127b0357769bc522ba6996eae3c606320487.jpg",
   "categorias": [
@@ -3271,7 +3305,7 @@
   "nombre": "AFA Trucker, Mod 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a6399120b69107b67bd34a0c391f7e6db78c3c148880daef87f5ca740923e3fe320487.jpg",
   "categorias": [
@@ -3288,7 +3322,7 @@
   "nombre": "CHICAGO THE FINALS 48",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/adcd8ba28c959f073af8fff525bbcfd78a6c68796eed446d97fb80a54dd161fa320487.jpg",
   "categorias": [
@@ -3448,7 +3482,7 @@
   "nombre": "CHICAGO THE FINALS 36",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/085d554f0d8a61b49caec919f386e98a345ded3e8d7508244ad1c08a3d835bfe320487.jpg",
   "categorias": [
@@ -3700,7 +3734,7 @@
   "nombre": "WB BASKET Mod 1",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/49f0e39f262f16c46c6b1ed62f7f6bdec170d4641affc0009b0602bd78b66505320487.jpg",
   "categorias": [
@@ -3923,8 +3957,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista-mod-67",
   "nombre": "ESTILO CICLISTA Mod. 67",
   "precio_proveedor": 6300,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c990ff448fb6b0faf58596c4247b91d8be149a481f25f86c29ef3c715fe8f40f320487.jpg",
   "categorias": [
@@ -4392,7 +4426,7 @@
   "nombre": "CHICAGO THE FINALS 33",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/12a97044bf3534ab10cd2c205b52f19049782163c817f830b34e8707534b0d8e320487.jpg",
   "categorias": [
@@ -4520,7 +4554,7 @@
   "nombre": "CHICAGO THE FINALS 23",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/669688e3f49b06e8257211ee469f7530c57eb17c4b887eae44841e5df26f1c27320487.jpg",
   "categorias": [
@@ -4552,7 +4586,7 @@
   "nombre": "CHICAGO THE FINALS 21",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a60504802781b3a043691bfa3c8d9443c7aded40def43441862e0c84a963d21d320487.jpg",
   "categorias": [
@@ -4600,7 +4634,7 @@
   "nombre": "CHICAGO THE FINALS 18",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9d864a91f1099b0ba494d365e68978722ab47c86b675dc2b5333c2bebb6a24a2320487.jpg",
   "categorias": [
@@ -4728,7 +4762,7 @@
   "nombre": "CHICAGO THE FINALS 8",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2dcc2d2232494bf17416a874c3f6fefbb0e6d1975dd9e716c2da7f9a13fbcd22320487.jpg",
   "categorias": [
@@ -4928,8 +4962,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-13",
   "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 13",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ed44558797ef0da4a85d27a12958fa52b4e0efbdd0d664fed9b23336212effde320487.jpg",
   "categorias": [
@@ -4946,7 +4980,7 @@
   "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 12",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/92afdaac064239491bbebe4b12461f1c9c600a7e66e9dc7624a42ae81d8c3029320487.jpg",
   "categorias": [
@@ -4962,8 +4996,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/nba-plana-cerrada-4-bordados-mod-11",
   "nombre": "NBA, Plana, Cerrada (4 bordados) Mod. 11",
   "precio_proveedor": 8000,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c9530caf7af8ec4597464fe645ec688408eb81af447de25ad2c8bd0efc32620d320487.jpg",
   "categorias": [
@@ -5047,7 +5081,7 @@
   "nombre": "NY (BOLA) Mostaza",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/98cbdb4b2d820e7b9d8d014eb571b317e3f064c75b2c3f9ebdc257cfbacd67cf320487.jpg",
   "categorias": [
@@ -5097,8 +5131,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-rosa",
   "nombre": "NY (BOLA) Rosa",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6d0886580e31c94c0b2c7ea036bb67b8c4838f852298a53dc8f4a52316c3d91f320487.jpg",
   "categorias": [
@@ -5180,7 +5214,7 @@
   "nombre": "G5 Modelo 2",
   "precio_proveedor": 20000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/367d7ddac7ce0e97802c095034be163443f039fecf4c5e035a5a6e403f2cba62320487.jpg",
   "categorias": [
@@ -5212,7 +5246,7 @@
   "nombre": "G5 Modelo 5",
   "precio_proveedor": 20000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/25df50cdad8699fb3354560829f9ec4556f8681d9cf8d73e41f941dab990fce6320487.jpg",
   "categorias": [
@@ -5279,7 +5313,7 @@
   "nombre": "TXC Modelo 19",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/93884f38dd3473bf5876dba454d3849ef94a409cf86c988b119912a8f818b365320487.jpg",
   "categorias": [
@@ -5929,7 +5963,7 @@
   "nombre": "RED BULL 3",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c72bc0ed723e6ac2a8a6aea2fb3af26cc4df46f11bbecfc0b00c230fa9417849320487.jpg",
   "categorias": [
@@ -6088,8 +6122,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/yamaha-6",
   "nombre": "YAMAHA 6",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/188baf77bd7c79d3c567db8528d11d0802bf5de41be8bb1b797174b4f1106732320487.jpg",
   "categorias": [
@@ -6136,8 +6170,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/yamaha-3",
   "nombre": "YAMAHA 3",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0a67d168d1577deb0f0100dfa2774730827ae94f7b064d8f7425d140e2d5bb7e320487.jpg",
   "categorias": [
@@ -6184,8 +6218,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/honda-13",
   "nombre": "HONDA 13",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d16929f5b700af47206509299559391ec46e787dd4b5d782951124eeede7ff93320487.jpg",
   "categorias": [
@@ -6216,8 +6250,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/honda-11",
   "nombre": "HONDA 11",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dc9d040d5dcd025cb7ffdf1b40cd7b3dd0277396ddb4cf8ed6b4ca561e2b08e1320487.jpg",
   "categorias": [
@@ -6313,7 +6347,7 @@
   "nombre": "HARLEY DAVIDSON 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8e1e31fd5097d10ee4618b6deb0611843b86cea5c991b34bf1d3e0d071d383f9320487.jpg",
   "categorias": [
@@ -6361,7 +6395,7 @@
   "nombre": "KTM 6",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 16,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/72ba3d102f4059c44ad10d84e1e74308d8c2df790bc76ec51d1d59d901c9adc5320487.jpg",
   "categorias": [
@@ -6428,7 +6462,7 @@
   "nombre": "GOLDEN STATE WARRIOR Holográfica Plana, Modelo 24",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/45d573cf7e25638a26d699eefac829dda760d38b2d9ffb30fbfad6e767fdcddd320487.jpg",
   "categorias": [
@@ -6508,7 +6542,7 @@
   "nombre": "Black Company, visera CURVA, FLEX, modelo 11",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d7350c91c6e923e14505e5aa324e7f5364950ced8aadb019fbab673fb9de5126320487.jpg",
   "categorias": [
@@ -6572,7 +6606,7 @@
   "nombre": "CERRADA Atrás, Plana, NY Empire Estate CELESTE JEAN",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cafeb3f2ba14c26d78d66782fdd3f86b1b30626cb0cdaa90072d8ff2cbdfa48e320487.jpg",
   "categorias": [
@@ -6718,8 +6752,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-algodon-gabardina-negro",
   "nombre": "TRUCKER Infantil Algodón Gabardina NEGRO",
   "precio_proveedor": 4300,
-  "stock_disponible": true,
-  "stock_cantidad": 13,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6a8f1205c036f3613d077ead2266c1ec4cd24e0f1cdb16b2755ef97f6e71d92c320487.jpg",
   "categorias": [
@@ -6734,8 +6768,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-algodon-gabardina-azul-marino",
   "nombre": "TRUCKER Infantil Algodón Gabardina AZUL MARINO",
   "precio_proveedor": 4300,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4553966430a158e94fc6b5d1dad337f7ed7caefe30570c667ba1265e5de15b3f320487.jpg",
   "categorias": [
@@ -6751,7 +6785,7 @@
   "nombre": "TRUCKER Infantil Algodón Gabardina CELESTE",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 11,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9025e14630f185f24a9f418523109e2fc599096fdab2120294127fa1c15951e7320487.jpg",
   "categorias": [
@@ -6767,7 +6801,7 @@
   "nombre": "TRUCKER Infantil Algodón Gabardina FUCSIA",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 28,
+  "stock_cantidad": 25,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fa1bd697e4422b081fe91cd73d436f9b1af6c5f2ce50b7899e833ba7962250ad320487.jpg",
   "categorias": [
@@ -6783,7 +6817,7 @@
   "nombre": "TRUCKER Infantil Algodón Gabardina ROSA",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 30,
+  "stock_cantidad": 27,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dea0dda510dfb2ef01084782d2c8db46d42af4780888a270f86445f092795d48320487.jpg",
   "categorias": [
@@ -6799,7 +6833,7 @@
   "nombre": "TRUCKER Infantil Algodón Gabardina  BEIGE",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69ce545facc69d86c3080c21c97ba8db750ef56db402ad1c7d24cffcba5a9261320487.jpg",
   "categorias": [
@@ -6814,8 +6848,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/gabardina/gabardina-infantil-negro",
   "nombre": "GABARDINA Infantil NEGRO",
   "precio_proveedor": 4300,
-  "stock_disponible": true,
-  "stock_cantidad": 18,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ee403969a99102e20a013df3fda004cf82250c8b4bbe07f03b7eae92c7515e94320487.jpg",
   "categorias": [
@@ -6831,7 +6865,7 @@
   "nombre": "GABARDINA Infantil AZUL PETRÓLEO",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 20,
+  "stock_cantidad": 17,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5c8caf33502616bd3cb0f1659d1c32fdb1aeacbfd01c324fb3e85879b7f78ccb320487.jpg",
   "categorias": [
@@ -6847,7 +6881,7 @@
   "nombre": "GABARDINA Infantil VERDE AGUA",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 20,
+  "stock_cantidad": 17,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69722fa9d4b6ec9f25a6aec5c496fa010957a3dd6d41d09aa6bba6af9cf69faf320487.jpg",
   "categorias": [
@@ -6863,7 +6897,7 @@
   "nombre": "GABARDINA Infantil CORAL",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 35,
+  "stock_cantidad": 32,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/773a7d1d8ed487a527648669e7381cc41cb7d9bfae1256ee2624ad5b8d76e255320487.jpg",
   "categorias": [
@@ -6879,7 +6913,7 @@
   "nombre": "GABARDINA Infantil ROSA",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 35,
+  "stock_cantidad": 32,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/76d9c051ce732bbd6437a7c39487df8f108abb0bebdae249f99fe202ab0dbe63320487.jpg",
   "categorias": [
@@ -6895,7 +6929,7 @@
   "nombre": "GABARDINA Infantil BEIGE",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fa709c81e534a2315e407c5a75114b36b87a368c015955d52ab2566ca85bcefb320487.jpg",
   "categorias": [
@@ -6911,7 +6945,7 @@
   "nombre": "GABARDINA Infantil AZUL FRANCIA",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 35,
+  "stock_cantidad": 32,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b912ca2b124b4ae6aeed5e3fa90cb694818a485305df9bc9d43ce4abc222ec94320487.jpg",
   "categorias": [
@@ -6927,7 +6961,7 @@
   "nombre": "GABARDINA Infantil MARRÓN",
   "precio_proveedor": 4300,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5c9e8eca4523f7989f9d964a17649ac606cf6780c8c58a08a2de1403f4cd0409320487.jpg",
   "categorias": [
@@ -7039,7 +7073,7 @@
   "nombre": "CERRADA Atrás, Plana Flex, LA AZUL FRANCIA c/Blanco",
   "precio_proveedor": 6600,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/790f2d33fdb88a331f046ca626ac87dc08e0d301e9a0f490a90cfadf7d8d22bf320487.jpg",
   "categorias": [
@@ -7135,7 +7169,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, BOSTON RED SOX AZUL",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/143a37c34587645f7bbf187c3bb6649a55b342eb3f4f67997adf91251f8eb432320487.jpg",
   "categorias": [
@@ -7199,7 +7233,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, BOSTON CELTICS GRIS",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7def26aeb38a55905fda208a18b6f5ee376273bbd51b864ab71d592e3cbe4d81320487.jpg",
   "categorias": [
@@ -7231,7 +7265,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, WARRIORS AZUL / AMARILLO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/bfa7aa46b2f32defd21b0794b650b8a9d4a8b2a7a5fde59c3ec2443628d6ec15320487.jpg",
   "categorias": [
@@ -7247,7 +7281,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, OAKLAND A&#039;S BLANCO / VERDE",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/011d26f81f9e3c29edaa864af66eb14a8aef9dcf72821fdc1ec2d661618b1964320487.jpg",
   "categorias": [
@@ -7279,7 +7313,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, HORNETS CELESTE / VIOLETA",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cc592e898602af70915881e9b4876a7179a7a4be1c2f93e2691380863e4007d1320487.jpg",
   "categorias": [
@@ -7327,7 +7361,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, LAKERS VIOLETA / BLANCO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e161907e50cb1cd49dee5ddedc5068538d99a4c2f22e45c7e64af74b84d8378a320487.jpg",
   "categorias": [
@@ -7343,7 +7377,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, L A BLANCO / AZUL",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/692fbe88af98ccda3bf90e0f8fda9b016408b457131f7fb4bf44c5e9e87cf24c320487.jpg",
   "categorias": [
@@ -7359,7 +7393,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, NY / LA DODGERS AZUL",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2af31b1aff2060f8635137e00953b2f8384f733ca523a16e5c259287aa07f883320487.jpg",
   "categorias": [
@@ -7375,7 +7409,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, NY YANKEES GRIS / NEGRO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2655721c76a8cb776a26b2b5cef25a113bdfd57cfeb8983c067b35f2325eb63d320487.jpg",
   "categorias": [
@@ -7535,7 +7569,7 @@
   "nombre": "TRUCKER Full Gamuza NEGRO",
   "precio_proveedor": 5418,
   "stock_disponible": true,
-  "stock_cantidad": 21,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d74206fb913b436ec4ca04f1663796e92691cfa1dd2224a2a983ece833d8712e320487.jpg",
   "categorias": [
@@ -7551,7 +7585,7 @@
   "nombre": "TRUCKER Full Gamuza BEIGE",
   "precio_proveedor": 5418,
   "stock_disponible": true,
-  "stock_cantidad": 17,
+  "stock_cantidad": 11,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1bf9fc1de5d57d27491eff72bd432518c3cdc4857cf4a798f92517188932689d320487.jpg",
   "categorias": [
@@ -7567,7 +7601,7 @@
   "nombre": "TRUCKER Full Gamuza MARRÓN",
   "precio_proveedor": 5418,
   "stock_disponible": true,
-  "stock_cantidad": 17,
+  "stock_cantidad": 11,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dc5c243986ecc7f7568698365488d07742a94e74a315b224d8c66b62a10f0520320487.jpg",
   "categorias": [
@@ -7583,7 +7617,7 @@
   "nombre": "TRUCKER Full Gamuza VERDE",
   "precio_proveedor": 5418,
   "stock_disponible": true,
-  "stock_cantidad": 15,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dd0a092ea2b02e93d0a57bfb12be7a72b4f70295a63efd51bd37363b42ea9699320487.jpg",
   "categorias": [
@@ -7599,7 +7633,7 @@
   "nombre": "TRUCKER Full Gamuza GRIS",
   "precio_proveedor": 5418,
   "stock_disponible": true,
-  "stock_cantidad": 19,
+  "stock_cantidad": 13,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0fe80e4019fc8597a18cc8b9948a4c37260c376ff639bca706142eb7245d3cd0320487.jpg",
   "categorias": [
@@ -7615,7 +7649,7 @@
   "nombre": "TRUCKER Full Gamuza AZUL",
   "precio_proveedor": 5418,
   "stock_disponible": true,
-  "stock_cantidad": 18,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3ca7590fb3b6c330d26ee28ddd97f01f7d95a621b8891b84381ca634ab1d788d320487.jpg",
   "categorias": [
@@ -7850,7 +7884,7 @@
   "nombre": "ALPINESTARS 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c1c8aac5d7a21fe8166f49b5eb1aa8cdd1a5ae1252137a12e20500834bcc893b320487.jpg",
   "categorias": [
@@ -7881,8 +7915,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/kawasaki-1",
   "nombre": "KAWASAKI 1",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7c95c794f2b84cb7b0be9241541bdce78121785eb7d72f85967587168f9b8327320487.jpg",
   "categorias": [
@@ -8026,8 +8060,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-12",
   "nombre": "BOCA 12",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/39f07e48845ec4a4f53034bf46e0857acd3efc21709107b7a8d8bdcda6514e46320487.jpg",
   "categorias": [
@@ -8139,7 +8173,7 @@
   "nombre": "KTM 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8a3fd4ed6f3080ad9ee20226979cd04c5199d66b348975f5c6394ca437ccb501320487.jpg",
   "categorias": [
@@ -8647,8 +8681,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ferrari-11",
   "nombre": "FERRARI 11",
   "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9580b2a8405581d4c705e8ca4d20bc46606240de64269ad7482cd2083bca587f320487.jpg",
   "categorias": [
@@ -8728,7 +8762,7 @@
   "nombre": "CERRADA Atrás, Plana, HORNETS 1",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/aa59aa06daf65296f01f90bb6dc5ab96ebbb181d14d036897a88a01e89358b43320487.jpg",
   "categorias": [
@@ -8743,8 +8777,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/cerradas-atras/cerrada-atras-plana-celtics-1",
   "nombre": "CERRADA Atrás, Plana, CELTICS 1",
   "precio_proveedor": 7875,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d699d52f494e9e2a0d8bc098a11abf621900028e38c1d1fb4d84d9cf2249234c320487.jpg",
   "categorias": [
@@ -13497,7 +13531,7 @@
   "nombre": "VOLVO 2",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/70d38b5e65a442523ece1161ddc3a73ececad7ed2184beaec55a49001766c418320487.jpg",
   "categorias": [
@@ -13561,7 +13595,7 @@
   "nombre": "46 ROSSI 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 11,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1c8fd98f308b371f61cceae9ab695047a3126990a6afe0f1e8656243bf07e464320487.jpg",
   "categorias": [
@@ -13705,7 +13739,7 @@
   "nombre": "Vintage Lisa VERDE",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 186,
+  "stock_cantidad": 176,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/207f06e32e65c5127c3c99edb1c255ffb2e8c7de13209ded67c00d7713fbb909320487.jpg",
   "categorias": [
@@ -13785,7 +13819,7 @@
   "nombre": "Vintage Lisa AZUL JEAN",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 199,
+  "stock_cantidad": 149,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
@@ -13801,7 +13835,7 @@
   "nombre": "Vintage Lisa NEGRO",
   "precio_proveedor": 5250,
   "stock_disponible": true,
-  "stock_cantidad": 533,
+  "stock_cantidad": 490,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
@@ -14033,7 +14067,7 @@
   "nombre": "Gabardina Bebé LOVE",
   "precio_proveedor": 2047.5,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 15,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/33db596944deb6bd78d67e262ced869e2b78fd344f056f13db9c69991a4472ac320487.jpg",
   "categorias": [
@@ -14097,7 +14131,7 @@
   "nombre": "Gabardina Bebé MICKEY",
   "precio_proveedor": 1995,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/eccf240298965a6c3c4c0a99a5ce017acea0cd781d059aecb699c6bea6726873320487.jpg",
   "categorias": [
