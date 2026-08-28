@@ -1,5 +1,709 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-gris",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles GRIS",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e38b871e67243d30a5decbbf28bb7eaa91abb760c7b5fdf0395bdb1646941fb5320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-fucsia",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles FUCSIA",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5af69152afd2a269845ed1701d60236373dcfeb37b386be04f7f882a5ff78dc8320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-bordo",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles BORDO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 26,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1068c7a7e91d843a786e445628a3b9af86af813a034751a40e9de5449b669e85320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-azul-marino",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles AZUL MARINO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a80ffd100375ee4897b8e3c954e36f834fcb3e8043f39618ce6830b52cb9735c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-azul-francia",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles AZUL FRANCIA",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/53eeda28469dc89c6893d7ecb3929dfb5560ed2f817b093327aad3f28cb3b07d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-blanco",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles BLANCO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8338320a6f6270e2e42f8e1dade83a75c610fc582805e6fddd960b127e102fdb320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-negro",
+  "nombre": "TRUCKER Goma Espuma, 5 Paneles NEGRO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c34f25423545f9de5185add48be9e6c615e7d9fdd5bc37d49e25829b6c41445a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-5-paneles-con-hebilla-gris",
+  "nombre": "FLEX 5 Paneles, con hebilla GRIS",
+  "precio_proveedor": 4200,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ea556d4e67e43f0d5edaad0c08068fc74e8ef5fbb75ccae59d198ac66444f062320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-5-paneles-con-hebilla-azul",
+  "nombre": "FLEX 5 Paneles, con hebilla AZUL",
+  "precio_proveedor": 4200,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d244e50d349e5a117220617e8e26da3bb20e7ba8c89c3e5b6c93fd2078691a9d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-6-paneles-con-hebilla-azul",
+  "nombre": "FLEX 6 Paneles, con hebilla AZUL",
+  "precio_proveedor": 4200,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/18fdf89152d137cba0e86bcc45564fa0528626a5b35d2f9098aa221397dd52f0320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-6-paneles-con-hebilla-blanco",
+  "nombre": "FLEX 6 Paneles, con hebilla BLANCO",
+  "precio_proveedor": 4200,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/08e7cd718b4551b9186ba140a5afa46ece294720cb6b7394cc83b600727e80a4320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-6-paneles-con-hebilla-negro",
+  "nombre": "FLEX 6 Paneles, con hebilla NEGRO",
+  "precio_proveedor": 4200,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/08eb4840d938d4859630c88bdb24ccb6076f0b71cf36e182aa5d618b11827125320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor-5-paneles-marronocre",
+  "nombre": "TRUCKER Algodón Bicolor, 5 Paneles MARRÓN/OCRE",
+  "precio_proveedor": 2835,
+  "stock_disponible": true,
+  "stock_cantidad": 10,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/484d7393c85b492a1584959d123b6f17208401ec37de1840e5636ec4354a64cf320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor-5-paneles-negroocre",
+  "nombre": "TRUCKER Algodón Bicolor, 5 Paneles NEGRO/OCRE",
+  "precio_proveedor": 2835,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/98f71afce475e548ad369f67eaf6a2dcdd66923d4ae40a9c116325e3e4cf9b9d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor-5-paneles-negroblanco",
+  "nombre": "TRUCKER Algodón Bicolor, 5 Paneles NEGRO/BLANCO",
+  "precio_proveedor": 2835,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f42a74ab7a3a0d00b6745a5f030fe886b4d115ee37d0ba24378263623c099951320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor-5-paneles-blancocamuflado",
+  "nombre": "TRUCKER Algodón Bicolor, 5 Paneles BLANCO/CAMUFLADO",
+  "precio_proveedor": 2835,
+  "stock_disponible": true,
+  "stock_cantidad": 9,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3fb460caf2f9de9d04ca6d25075d8bbfcce1b7b84bfa73e6150962648874e90c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor-5-paneles-fucsianegro",
+  "nombre": "TRUCKER Algodón Bicolor, 5 Paneles FUCSIA/NEGRO",
+  "precio_proveedor": 2835,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2ea31b6156750425e22628daf9d391b972059e0f61eec72350192e32c0ca1f4d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-negro",
+  "nombre": "Poliéster Lisa, 5 Paneles, con Velcro NEGRO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 6,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a0c31ba2873a55db536b23c461899c8171294f0e6dc46125fdb7037513168779320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-azul-marino",
+  "nombre": "Poliéster Lisa, 5 Paneles, con Velcro AZUL MARINO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dbfa0f1ef90b0ea89f47a2adff3731ec2bd5048b99c2038f6f9f799e2561284e320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-azul",
+  "nombre": "Poliéster Lisa, 5 Paneles, con Velcro AZUL",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4198de39701068b4769915a1af37700f3b962b3d9c3c1fe76a45747f26459100320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-rojo",
+  "nombre": "Poliéster Lisa, 5 Paneles, con Velcro ROJO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0ff20675150117b8176ea4113889313b3c6df901799a88c2d75ea264dd6b3b62320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-rosa",
+  "nombre": "Poliéster Lisa, 5 Paneles, con Velcro ROSA",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b1e347ec120d271e4271a5b1ea70936deec712af2c2e076941a8e0c286ded7ba320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-amarillo",
+  "nombre": "Poliéster Lisa, 5 Paneles, con Velcro AMARILLO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 7,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0cb90d6b2106d976bf8a6139dcd5b981bdc3bb548c7309a6bd470e777d5b3c09320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-velcro-verde-oscuro",
+  "nombre": "Poliéster Lisa, 6 Paneles, con Velcro VERDE OSCURO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 9,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/499d1ac0e5736a7f19649b11d5ba1fcbaedbbdd4c6ec33c07c4bbb8ad400409d320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-velcro-lima",
+  "nombre": "Poliéster Lisa, 6 Paneles, con Velcro LIMA",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 19,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d58b05566ea2e0ddbb5cafd630b9a26306e00541a3f3b96bf0da48e3ce2396a8320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-velcro-marron",
+  "nombre": "Poliéster Lisa, 6 Paneles, con Velcro MARRÓN",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/da63630eb4811c297af6ac50a0e4efabf3b1de8acc249730e1727dbfffa662b6320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-velcro-blanco",
+  "nombre": "Poliéster Lisa, 6 Paneles, con Velcro BLANCO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5cf0a63746e9e4a034bdc98cc836510d24ef2c31a1d45bc6b85fe81d8d543ef320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-velcro-negro",
+  "nombre": "Poliéster Lisa, 6 Paneles, con Velcro NEGRO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/287865d402a37f0cb74b345dce1b7f53ff790aa2802a0355c53f6e9a069c36ff320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-hebilla-verde",
+  "nombre": "Poliéster Lisa, 6 Paneles, con hebilla VERDE",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 17,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5e1a27729ff5a4982da422e1a8d7d110e9d2700d4d5fcc1038728f6c5e06c333320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-hebilla-rojo",
+  "nombre": "Poliéster Lisa, 6 Paneles, con hebilla ROJO",
+  "precio_proveedor": 2625,
+  "stock_disponible": true,
+  "stock_cantidad": 10,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6f5376275c362a5eda44e08ba9954a03c2bf9308777f71f0789ec852691bbb58320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-negro",
+  "nombre": "Gabardina Esmerilada NEGRO",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 101,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/af5003d36e569c914b5e31254203d00a4b04a4f4b4307f6066055af9c662d15b320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-gris",
+  "nombre": "Gabardina Esmerilada GRIS",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/90bac2a2331b3048aea2c54f0e7e699ca29a24ff4e9622ef99516c903d48cff8320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-verde",
+  "nombre": "Gabardina Esmerilada VERDE",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4c67e3a9016b0b01cd0cc36b3066a5c0befa461a7aa680852f63683e39b8acc4320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-verde-oscuro",
+  "nombre": "Gabardina Esmerilada VERDE OSCURO",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c7ca8b9490b2e04708694dc84833e9275d1a5697877def10145a29634b611081320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-rosa",
+  "nombre": "Gabardina Esmerilada ROSA",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5f030c1b450661c5ab526b47dfbf0955fc7eac0f6a4c7e0931c6183d54b86904320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-naranja",
+  "nombre": "Gabardina Esmerilada NARANJA",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2de9c8364d7a2e6991f0de3ebd50491e6ec253abde93dfc98e3260271cd5158d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-mostaza",
+  "nombre": "Gabardina Esmerilada MOSTAZA",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8335d72a7fbf6d4e1647fdf1fa4d69963d1dd6b2894798d0f4d562097213f0a7320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-azul-marino",
+  "nombre": "Gabardina Esmerilada AZUL MARINO",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/02422c1ae5547436aba376337080b46019ee687925369cfbb436cab13b4cbec6320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/gabardina-esmerilada-azul",
+  "nombre": "Gabardina Esmerilada AZUL",
+  "precio_proveedor": 6090,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2e9bb95338f26b9f434e900a6bc1671c0c2b2a05e6c32b5d292ebcd0d562695320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-combinada-grisnegro",
+  "nombre": "Poliéster Combinada GRIS/NEGRO",
+  "precio_proveedor": 2467.5,
+  "stock_disponible": true,
+  "stock_cantidad": 16,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1773f02940660049189e202de03445adb7cd82dcd3388b0d315bae193cc9c1ac320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-combinada-azulrojo",
+  "nombre": "Poliéster Combinada AZUL/ROJO",
+  "precio_proveedor": 2467.5,
+  "stock_disponible": true,
+  "stock_cantidad": 18,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e5dfacefccc368b91bab07b35e79e4693af5624e32f80c8b2e88f3f91f68f399320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/plana-lisa-6-paneles-negro",
+  "nombre": "PLANA Lisa 6 Paneles NEGRO",
+  "precio_proveedor": 5250,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d182c30652e3f94e714b78a72083c51cef79fc6a7a39fbf0a1be5e6fdc606b49320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/plana-lisa-6-paneles-fucia",
+  "nombre": "PLANA Lisa 6 Paneles FUCIA",
+  "precio_proveedor": 5250,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4a256af92bb977b24c6c0376821b7dc5dd49e170268ac9ccd3a79a32cd1800d1320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/plana-lisa-6-paneles-fucianegro",
+  "nombre": "PLANA Lisa 6 Paneles FUCIA/NEGRO",
+  "precio_proveedor": 5250,
+  "stock_disponible": true,
+  "stock_cantidad": 7,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d722a7e5459d37f14d35b0c1cb43fc4b8e47d22e83132f7fa36f9fbaad94c891320487.png",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-circulo",
   "nombre": "NY, New Era, círculo",
   "precio_proveedor": 6500,
@@ -105,7 +809,7 @@
   "nombre": "PORSCHE 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9f7a74c3a19994b35e2b5add122e038a092b6655f5e62b715cd474d49b3c8838320487.jpg",
   "categorias": [
@@ -170,7 +874,7 @@
   "nombre": "ALPINESTARS 4",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1a7b20392a0e821aceb2f6edf30ca2d836ce249a68d0f94c95559b0705eebd10320487.jpg",
   "categorias": [
@@ -186,7 +890,7 @@
   "nombre": "ALPINESTARS 3",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/57003af04221c0810753412551898abbf5dfcefc4ee34d0a889f2cb12f126e99320487.jpg",
   "categorias": [
@@ -585,8 +1289,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/gucci/gucci-mod-10",
   "nombre": "GUCCI Mod 10",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cc17f90aa9d858d18adc98e982262105205532e3a4fbb6aaed0cb5d61f584b20320487.jpg",
   "categorias": [
@@ -618,7 +1322,7 @@
   "nombre": "GUCCI Mod 8",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f2b3aefe456df4809cd1c87a9bf6eb81aec8d271ce2464eb26e3081bf9aac139320487.jpg",
   "categorias": [
@@ -698,7 +1402,7 @@
   "nombre": "GUCCI Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e4336f0ec3c147e87069d23a9133bb4863c0e2960e74614bcd4384387afcaa89320487.jpg",
   "categorias": [
@@ -730,7 +1434,7 @@
   "nombre": "GUCCI Mod 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c12cebd7643998a15dd7eed114078ff86fa604c2f59d52e0d3f6884c5d21b07e320487.jpg",
   "categorias": [
@@ -778,7 +1482,7 @@
   "nombre": "CHICAGO THE FINALS 61",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/21341089167e8bbdcf9f04902cc9a615a3ccc905989f617e5eb0dac0ada88f2a320487.jpg",
   "categorias": [
@@ -4671,7 +5375,7 @@
   "nombre": "CHICAGO THE FINALS 7",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ccb8a3d2e25ec231d1fac14aafd3963fe69c66a4c0beda7ecf8491a153fec760320487.jpg",
   "categorias": [
@@ -4890,7 +5594,7 @@
   "nombre": "NY (BOLA) Mostaza",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/98cbdb4b2d820e7b9d8d014eb571b317e3f064c75b2c3f9ebdc257cfbacd67cf320487.jpg",
   "categorias": [
@@ -4907,7 +5611,7 @@
   "nombre": "NY (BOLA) Verde Agua",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/904a4daff65b4f39eb9f18c977c71c74232031d8fe02252133ce2567c90019ef320487.jpg",
   "categorias": [
@@ -4927,6 +5631,23 @@
   "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69bc975a2b823d27dc42b7157e1ea081eb818da8482b6531c8b0c4dd5c1ea08d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-crema",
+  "nombre": "NY (BOLA)  Crema",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fc0faad230fb51234c9d4fd590100ab6f917c6ca722b723e438a8834fb17184e320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -5183,22 +5904,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/cerradas-atras/cerrada-atras-plana-ny-world-series-verdeblanco",
-  "nombre": "CERRADA Atrás, Plana, NY World Series Verde/Blanco",
-  "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/02247489454cafc7a65910f0110db4f0d41232de416e2920153232febdf7fca2320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "cerradas-atras"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/holograficas/ny-holografica-plana-modelo-25",
   "nombre": "NY Holográfica Plana, Modelo 25",
   "precio_proveedor": 8000,
@@ -5446,7 +6151,7 @@
   "nombre": "NIKE NEGRO Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/452ffb058783692eb9b1788ceff05d9fc49b23a86182628c475468ec1ddf057c320487.jpg",
   "categorias": [
@@ -5638,7 +6343,7 @@
   "nombre": "TOYOTA 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/11161b623a854fd4d388764c3ba213e5d9926c8a15529b34ca13f13586d67149320487.jpg",
   "categorias": [
@@ -5974,7 +6679,7 @@
   "nombre": "Plana Flex, JORDAN NEGRO aplique grande",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c900b0a38235299d1bc58d5c52e74d1bca84c9de97162162682023c05f08b6ab320487.jpg",
   "categorias": [
@@ -5991,7 +6696,7 @@
   "nombre": "Plana Flex, JORDAN MOSTAZA aplique grande",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e35a31239dd8457b5c36fc6c21c63e5b864b875ee1b61a9c7c2224dec9eaf2c4320487.jpg",
   "categorias": [
@@ -6138,7 +6843,7 @@
   "nombre": "Black Company, visera CURVA, FLEX, modelo 8",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/12ce405bdc1a68c659662031a8fa82fffd5775224db4a67460612be4acb44b6c320487.jpg",
   "categorias": [
@@ -7227,6 +7932,23 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/jordan-visera-plana-encastre-con-aplique-grande-negro",
+  "nombre": "JORDAN, visera PLANA, ENCASTRE con aplique grande NEGRO",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a2a2b5462db136999c2a068cd938c9c869b41734b7266269f16f9fa6b8256c25320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "jordan"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nba/warriors-nba-2",
   "nombre": "WARRIORS NBA 2",
   "precio_proveedor": 6300,
@@ -7361,6 +8083,23 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-york-blanco-cnegro",
+  "nombre": "NY, New York, BLANCO c/Negro",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 6,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/084cc92a9977c71d64e8368225484e8cb086063e29746e274aa68f025d6fdff8320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa/tommy/tommy-mostaza",
   "nombre": "TOMMY Mostaza",
   "precio_proveedor": 6500,
@@ -7472,6 +8211,23 @@
    "adulto",
    "gorras",
    "futbol"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-47-con-rotura-blanco-cblanco",
+  "nombre": "NY, 47, con rotura, BLANCO c/blanco",
+  "precio_proveedor": 6300,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1b7a410ffdc44787124c81f4f025b2912be80ef842569283616996f1672f68cb320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
   ],
   "categoria_principal": "gorras"
  },
@@ -7601,6 +8357,22 @@
    "adulto",
    "gorras",
    "futbol"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ferrari-4",
+  "nombre": "FERRARI 4",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/215dc7aca4064344504fd229113d64323af59f4fa731b56a63f53ed96c0cc72f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "auto"
   ],
   "categoria_principal": "gorras"
  },
@@ -8178,34 +8950,18 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/nike-visera-plana-azul",
-  "nombre": "NIKE, visera PLANA AZUL",
-  "precio_proveedor": 6300,
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ferrari-10a",
+  "nombre": "FERRARI  10a",
+  "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/54ef13cb493c784b1ff0255a28ef4539570980c510342351a49fbdada37db5c3320487.jpg",
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/02f922c93c2593356dd1d7c94193155abd0fd0dbec82004bab81ed22c39e9acd320487.jpg",
   "categorias": [
    "verano",
    "adulto",
    "gorras",
-   "planas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/nike-visera-plana-gris",
-  "nombre": "NIKE, visera PLANA GRIS",
-  "precio_proveedor": 6300,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ec5c9a02de52d485942250b09e7ea28ed7cae659f384089d56f16a07e5020ceb320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "planas"
+   "auto"
   ],
   "categoria_principal": "gorras"
  },
@@ -9055,7 +9811,7 @@
   "nombre": "NIKE (letras) hebilla MOSTAZA con Negro",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4ec8925128f1a7fe40b70f1dcaa4e8542af68746a12ca82acbbbd98442aae4df320487.jpg",
   "categorias": [
@@ -9072,7 +9828,7 @@
   "nombre": "NIKE (letras) hebilla AZUL con Negro",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/22d427b2f394b34a769820583a0724164e4724cd29c388b728cb0ff4f3f4100d320487.jpg",
   "categorias": [
@@ -11046,7 +11802,7 @@
   "nombre": "NY, 47, MOSTAZA con Blanco",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 23,
+  "stock_cantidad": 21,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0e27994a6d7d04d9be493ef6502caf87968dd1157a32dfb7ebcd4b6eeb0f2be5320487.jpg",
   "categorias": [
@@ -11327,6 +12083,22 @@
    "adulto",
    "gorras",
    "vintage-lisas"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/mercedes-benz-8",
+  "nombre": "MERCEDES BENZ 8",
+  "precio_proveedor": 6300,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/262c95f153412efc2e306eef76ffd6310ab5a83883bb1576932243d87e0e1543320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "auto"
   ],
   "categoria_principal": "gorras"
  },
@@ -13415,6 +14187,23 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-plana-aplique-grande-mostaza",
+  "nombre": "NIKE, PLANA, aplique grande MOSTAZA",
+  "precio_proveedor": 6300,
+  "stock_disponible": true,
+  "stock_cantidad": 16,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0fd95e427709ee02a3c4fc5d0b78535daa548a7bb157b49b8a4e3330a8ca7e4c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-plana-aplique-grande-azul",
   "nombre": "NIKE, PLANA, aplique grande AZUL",
   "precio_proveedor": 6300,
@@ -13519,7 +14308,7 @@
   "nombre": "NY ROTURA MOSTAZA",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a66790e86d3b9f819a6cf8071a333f772ed51cbc54118f2afeb1bdaa9ff13e77320487.jpg",
   "categorias": [
@@ -13569,7 +14358,7 @@
   "nombre": "NY aplique MOSTAZA con blanco",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 18,
+  "stock_cantidad": 17,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ccf7194756b99e3fb22259db7e57fcd9b6761efb2817657398bcaa77ec33fb54320487.jpg",
   "categorias": [
@@ -13936,38 +14725,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-combinada",
-  "nombre": "Poliéster COMBINADA",
-  "precio_proveedor": 2467.5,
-  "stock_disponible": true,
-  "stock_cantidad": 34,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2cddf363f7116e5bbcb6431d835b10badade5eb50862ed390c1530dc9a6d382e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/plana-lisa",
-  "nombre": "Plana LISA",
-  "precio_proveedor": 5250,
-  "stock_disponible": true,
-  "stock_cantidad": 15,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f50e23122f77ca699400d6d25f325c667959680c7e463fc97bf93dad17ea4330320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "planas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/gabardina-infantil-hello-kitty",
   "nombre": "Gabardina Infantil HELLO KITTY",
   "precio_proveedor": 3832.5,
@@ -14138,102 +14895,6 @@
   "categorias": [
    "verano",
    "infantil-bebe",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/esmerilada-lisa",
-  "nombre": "Esmerilada LISA",
-  "precio_proveedor": 6090,
-  "stock_disponible": true,
-  "stock_cantidad": 121,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/02793820d52587ad97188f9feb14f13868688a38ca206de16a98bb4dc8745b47320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-gajos",
-  "nombre": "Poliéster LISA 6 Gajos",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 27,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3ebb2d7de839c03bf388d05884b5cc679307d88063a2d26527baae079ea48ac0320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-gajos-v",
-  "nombre": "Poliéster LISA 5 Gajos V",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 29,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5fa49d62fc5f841791395296d73694a255fb408e7f190f8dc6326443d7797b8e320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-gajos-v",
-  "nombre": "Poliéster LISA 6 Gajos V",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 37,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/73dbc4ea856636aced23b7de69c7cbceacd36a30a3adee632e5d5a7a1e25cce2320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-6-gajos",
-  "nombre": "FLEX 6 Gajos",
-  "precio_proveedor": 4200,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/60d0ee500569fd7edd904084f01887f5bf4794978382caa39243184f84c67c43320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/flex-5-gajos",
-  "nombre": "FLEX 5 Gajos",
-  "precio_proveedor": 4200,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5e9cbb79d44b33956bfbda97238d898aafba8b5a0a60eac8dabd70ff1c5c9057320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
    "gorras",
    "lisas"
   ],
@@ -14455,54 +15116,6 @@
   "stock_cantidad": 47,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/befb4f7e6595662d5e0c55b1ae6de691970f03c27b70ee11db570f6708014122320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-bicolor",
-  "nombre": "Trucker GOMA ESPUMA BICOLOR",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 6,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4bef1d279a444de6e90198f7a32dcef9214fb2894df18c11b77e04eb64da9cd1320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-lisa",
-  "nombre": "Trucker GOMA ESPUMA LISA",
-  "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 39,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/54a93289832cb9749027ed65fa3f804b2b9855be526611ec06cb35bd86c10947320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-algodon-bicolor",
-  "nombre": "Trucker ALGODÓN BICOLOR",
-  "precio_proveedor": 2835,
-  "stock_disponible": true,
-  "stock_cantidad": 28,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/053203173a9b75c23966457d20f2de3c63fa91a7350a22b2b280e42a9cace529320487.png",
   "categorias": [
    "verano",
    "adulto",
