@@ -1,5 +1,117 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-jean-5-paneles-azul",
+  "nombre": "TRUCKER Jean, 5 Paneles AZUL",
+  "precio_proveedor": 5500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f52e57e3e1d21f32e650d204a96a40217c3d7552d53b71260ab3359d71511d50320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-jean-5-paneles-negro",
+  "nombre": "TRUCKER Jean, 5 Paneles NEGRO",
+  "precio_proveedor": 5500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7263e53bb19be89ab5ce656800f08cce38ac138f98ecdcad64edf654a5c0a67f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-gamuzaeco-cuero-terracota",
+  "nombre": "TRUCKER Gamuza/Eco-Cuero TERRACOTA",
+  "precio_proveedor": 6000,
+  "stock_disponible": true,
+  "stock_cantidad": 9,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/204a9d48f50cfa9223f7f156abc556a63457dea9aaacca93dedd8f72581908de320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-eco-cuerogabardina-crema",
+  "nombre": "TRUCKER Eco-Cuero/Gabardina CREMA",
+  "precio_proveedor": 6000,
+  "stock_disponible": true,
+  "stock_cantidad": 7,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e2e4b9065b57d76084c5051af2914281c0fd1761804abc44b2b93102286bd545320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-eco-cuerogamuza-marron-claro",
+  "nombre": "TRUCKER Eco-Cuero/Gamuza MARRÓN CLARO",
+  "precio_proveedor": 6000,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dd097643cfb76774d07cd36431c678be092bfc03c7209ed42e3352a924b37177320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-eco-cuerogamuza-marron-oscuro",
+  "nombre": "TRUCKER Eco-Cuero/Gamuza MARRÓN OSCURO",
+  "precio_proveedor": 6000,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0faab274ac1c5d1b0b3954cc26d2c2ce24962f5dbdfcc2b196502821ad7fc187320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-eco-cuerogamuza-negro",
+  "nombre": "TRUCKER Eco-Cuero/Gamuza NEGRO",
+  "precio_proveedor": 6000,
+  "stock_disponible": true,
+  "stock_cantidad": 14,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c987d578dc5f69a5cde7f89d088a34241246d48b9779c1ca4261e2e98dec4baf320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-gris",
   "nombre": "TRUCKER Goma Espuma, 5 Paneles GRIS",
   "precio_proveedor": 2625,
