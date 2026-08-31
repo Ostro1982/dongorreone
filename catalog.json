@@ -1417,8 +1417,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/gucci/gucci-mod-9",
   "nombre": "GUCCI Mod 9",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cc0719db1fa89181873d85679d68898c902eab97c4d6ce8a5845132f29d38218320487.jpg",
   "categorias": [
@@ -1514,7 +1514,7 @@
   "nombre": "GUCCI Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e4336f0ec3c147e87069d23a9133bb4863c0e2960e74614bcd4384387afcaa89320487.jpg",
   "categorias": [
@@ -1689,8 +1689,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-53",
   "nombre": "CHICAGO THE FINALS 53",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c6d97f514d9962d901a3cdeb92914bc79c778acc1e9d1defbe5e0ae778fe9aed320487.jpg",
   "categorias": [
@@ -1706,7 +1706,7 @@
   "nombre": "CHICAGO THE FINALS 52",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7472644bea33f758c79062f0d75f46012529fd2e521224a6ea066f81912c6625320487.jpg",
   "categorias": [
@@ -2094,7 +2094,7 @@
   "nombre": "NIKE, Plana, Ripstop Mod 8",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/06f76ee690243e3e3eb5dbb0e5347f0264a3677d7571f970c4656a03877eadfa320487.jpg",
   "categorias": [
@@ -3168,8 +3168,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/holografica/afa-curva-holografica-mod-5",
   "nombre": "AFA Curva Holográfica Mod 5",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4eb83373a1672dc45edca5bcb9c93412f842c82478ea41c74a81642cf4155a17320487.jpg",
   "categorias": [
@@ -3474,8 +3474,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/black-company/black-company-plana-corte-japones-modelo-22",
   "nombre": "Black Company, PLANA, Corte japonés modelo 22",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/50addc763f4b9c3785703f6d7e97b802c6ee7defe17f1d512e342a4d359fe052320487.jpg",
   "categorias": [
@@ -3490,8 +3490,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/black-company/black-company-plana-corte-japones-modelo-19",
   "nombre": "Black Company, PLANA, Corte japonés modelo 19",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b5cccd17fe0acf5241cd98efce9668582c31cc1781939fecb00878512a4f2fde320487.jpg",
   "categorias": [
@@ -3506,8 +3506,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/black-company/black-company-plana-corte-japones-modelo-17",
   "nombre": "Black Company, PLANA, Corte japonés modelo 17",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9268de28a79772c3ab2becd1eb133e2f33eaba1dc7f1e2dc625cf952c3067fed320487.jpg",
   "categorias": [
@@ -3619,7 +3619,7 @@
   "nombre": "AFA, Curva, Ripstop Mod 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0c70123e5a367663fc6f1f181fe4ebb0557c1b5e9db3fe3e6ef6414e2179a214320487.jpg",
   "categorias": [
@@ -3699,7 +3699,7 @@
   "nombre": "AFA Cerrada, Plana, Mod 4",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9aa979de33776efc79e66a936b2eb57713cf31018d946ab4bcf1728eae32cdd5320487.jpg",
   "categorias": [
@@ -5100,7 +5100,7 @@
   "nombre": "BOCA 4",
   "precio_proveedor": 4900,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d2650416d235ca42405aedfe552c832647d17a906c2e3e7552ea8cbb2e4c8338320487.jpg",
   "categorias": [
@@ -5263,7 +5263,7 @@
   "nombre": "CHICAGO THE FINALS 24",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3faca928966266ee2b9e037701bfda6c037f0ae199e38d8449012501875120c6320487.jpg",
   "categorias": [
@@ -5279,7 +5279,7 @@
   "nombre": "CHICAGO THE FINALS 23",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/669688e3f49b06e8257211ee469f7530c57eb17c4b887eae44841e5df26f1c27320487.jpg",
   "categorias": [
@@ -5295,7 +5295,7 @@
   "nombre": "CHICAGO THE FINALS 21",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a60504802781b3a043691bfa3c8d9443c7aded40def43441862e0c84a963d21d320487.jpg",
   "categorias": [
@@ -5343,7 +5343,7 @@
   "nombre": "CHICAGO THE FINALS 18",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9d864a91f1099b0ba494d365e68978722ab47c86b675dc2b5333c2bebb6a24a2320487.jpg",
   "categorias": [
@@ -5486,8 +5486,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-7",
   "nombre": "CHICAGO THE FINALS 7",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ccb8a3d2e25ec231d1fac14aafd3963fe69c66a4c0beda7ecf8491a153fec760320487.jpg",
   "categorias": [
@@ -5502,8 +5502,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-3",
   "nombre": "CHICAGO THE FINALS 3",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f9a92552a3ea7f081d39f4a330326a189eece9530204e40eff3730c39abc3458320487.jpg",
   "categorias": [
@@ -6824,8 +6824,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/plana-flex-jordan-gris-claro-aplique-grande",
   "nombre": "Plana Flex, JORDAN GRIS CLARO aplique grande",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4cde50489f79b19ebc5a4bdb8c3a260b34ab43265d8aa9105a7615c82875d586320487.jpg",
   "categorias": [
@@ -8047,8 +8047,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/jordan-visera-plana-encastre-con-aplique-grande-negro",
   "nombre": "JORDAN, visera PLANA, ENCASTRE con aplique grande NEGRO",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a2a2b5462db136999c2a068cd938c9c869b41734b7266269f16f9fa6b8256c25320487.jpg",
   "categorias": [
@@ -8675,7 +8675,7 @@
   "nombre": "ESTILO CICLISTA Mod. 7",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 48,
+  "stock_cantidad": 45,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5ec2f052ef1f7282600e5d4d45695a95fab875f29c6ad709b7e89118028251c320487.jpg",
   "categorias": [
@@ -8692,7 +8692,7 @@
   "nombre": "ESTILO CICLISTA Mod. 8",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 20,
+  "stock_cantidad": 17,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4bfbeaafe271fe08c95a0e0f9f6d17d77fe07600b0379e6a9e02e076592c0689320487.jpg",
   "categorias": [
@@ -14486,8 +14486,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/jordan-con-aplique-rosa",
   "nombre": "JORDAN con aplique ROSA",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4c2b6646040e5a64c1b74b2f0022cda7ac24e26099c40552ee1cf87fa8751877320487.jpg",
   "categorias": [
