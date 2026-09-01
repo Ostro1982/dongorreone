@@ -83,8 +83,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-eco-cuerogamuza-marron-oscuro",
   "nombre": "TRUCKER Eco-Cuero/Gamuza MARRÓN OSCURO",
   "precio_proveedor": 6000,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0faab274ac1c5d1b0b3954cc26d2c2ce24962f5dbdfcc2b196502821ad7fc187320487.jpg",
   "categorias": [
@@ -1610,7 +1610,7 @@
   "nombre": "CHICAGO THE FINALS 60",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/57b4ebe84575a3d33bf0426e684ee69855628e0846c3b44de8587db3387e6a4b320487.jpg",
   "categorias": [
@@ -3698,8 +3698,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/cerrada/afa-cerrada-plana-mod-4",
   "nombre": "AFA Cerrada, Plana, Mod 4",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9aa979de33776efc79e66a936b2eb57713cf31018d946ab4bcf1728eae32cdd5320487.jpg",
   "categorias": [
@@ -6455,7 +6455,7 @@
   "nombre": "TOYOTA 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/11161b623a854fd4d388764c3ba213e5d9926c8a15529b34ca13f13586d67149320487.jpg",
   "categorias": [
@@ -8444,8 +8444,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-13",
   "nombre": "BOCA 13",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/66a50ee9495e669a459fcdee106c265cd4fa28b0e70d01e803e9af32ca47a7e0320487.jpg",
   "categorias": [
@@ -8460,8 +8460,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/boca-14",
   "nombre": "BOCA 14",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b4a6d021660d551a27384ea22edd10accad7814e903bd35fb5830034117fbad4320487.jpg",
   "categorias": [
