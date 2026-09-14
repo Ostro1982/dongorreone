@@ -3567,7 +3567,7 @@
   "nombre": "AFA Trucker, Mod 47",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 15,
+  "stock_cantidad": 14,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/10f724c5ff5fb11072295862a5f151a03d7ed4504a2280873da23d826191eb16320487.jpg",
   "categorias": [
@@ -3584,7 +3584,7 @@
   "nombre": "AFA Trucker, Mod 45",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d4fa94f83d2fb6e5a45c365bd81a7024fc912e08777eff662481316a090dd01a320487.jpg",
   "categorias": [
@@ -3601,7 +3601,7 @@
   "nombre": "AFA Trucker, Mod 44",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/99a93898078951d5df8c97317a6d560fc1d47c369e2d1aa6932784004082f4f6320487.jpg",
   "categorias": [
@@ -3618,7 +3618,7 @@
   "nombre": "AFA Trucker, Mod 43",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 15,
+  "stock_cantidad": 14,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/db8b90e6e9c661d9aa27a8c9d82875469fdc7747ecf7abdb4c8ec411f1039317320487.jpg",
   "categorias": [
@@ -3635,7 +3635,7 @@
   "nombre": "AFA Trucker, Mod 42",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 19,
+  "stock_cantidad": 18,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ef6e5e8522f004632c065f800ea61d6a5ee4334d805c61ef5ec2377ab72b0c16320487.jpg",
   "categorias": [
@@ -3652,7 +3652,7 @@
   "nombre": "AFA Trucker, Mod 41",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4dd69d19097a537a5fba95d9fd87c417d3c926529b2d4362c7a92f64e5243de1320487.jpg",
   "categorias": [
@@ -3669,7 +3669,7 @@
   "nombre": "AFA Trucker, Mod 40",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c20eab84c0fef49a81039f0a48e9ecf66759448ec6604d87bf24cbd90de6c3d1320487.jpg",
   "categorias": [
@@ -3686,7 +3686,7 @@
   "nombre": "AFA Trucker, Mod 39",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6688e6625ac1a0cd1b1f035bcf0e73385d46886640c47ba1ef498e1225cc9ea3320487.jpg",
   "categorias": [
@@ -3703,7 +3703,7 @@
   "nombre": "AFA Trucker, Mod 38",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e44448fca220820cea0c092438869fe177fe0ffe6ea53055e3e327cc1befbae7320487.jpg",
   "categorias": [
@@ -3720,7 +3720,7 @@
   "nombre": "AFA Trucker, Mod 37",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5da2b6966358face99f6d32854fb049ebc3f78a92c2de54efb239ac23087c1ce320487.jpg",
   "categorias": [
@@ -3737,7 +3737,7 @@
   "nombre": "AFA Trucker, Mod 36",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f756f11d7e45ee7222f6dc0233d303916a5dcce399c6d8f3c7f788b97062ecb9320487.jpg",
   "categorias": [
@@ -3754,7 +3754,7 @@
   "nombre": "AFA Trucker, Mod 35",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 13,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/291db64c15f31643f29778417f7017585127281fc885319eadadb5771d65439d320487.jpg",
   "categorias": [
@@ -5276,7 +5276,7 @@
   "nombre": "AFA Trucker, Mod 4",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2e27b3cbeb89f8241f919265d9eb39dcb127b0357769bc522ba6996eae3c606320487.jpg",
   "categorias": [
