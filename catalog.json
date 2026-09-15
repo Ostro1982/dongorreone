@@ -36,7 +36,7 @@
   "nombre": "Made in mato 22",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a0d6718f5ff589a42a51e7b4ed5ff456e81e89ddeadba80c6891c6003a2001e2320487.jpg",
   "categorias": [
@@ -84,7 +84,7 @@
   "nombre": "Made in mato 19",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9097df1aca48b9aa4bf6b7387d330b2d524a7d2e85fdbe002c654c44e225764c320487.jpg",
   "categorias": [
@@ -100,7 +100,7 @@
   "nombre": "Made in mato 18",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ce6790ec2996b24384a71fb8e7e77263569cb9f0149b9881055edb945559e4dd320487.jpg",
   "categorias": [
@@ -148,7 +148,7 @@
   "nombre": "Made in mato 15",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/31a9fa20441c5b889767720f0aa3865b8c7616a458a39e1b904e14c465350892320487.jpg",
   "categorias": [
@@ -164,7 +164,7 @@
   "nombre": "Made in mato 14",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8d3fddaa4f64fa839ab53b0c9a4e5fad61a41cc99c1e4d57ae2fc1e649ea735a320487.jpg",
   "categorias": [
@@ -372,7 +372,7 @@
   "nombre": "NY MARRÓN vinilo Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/99ade2ad7e1f4e6cffb5e6adf877e6bea649ee3b8aa0e05cfbf85e5ee755b2af320487.jpg",
   "categorias": [
@@ -389,7 +389,7 @@
   "nombre": "NY NEGRO aplique Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1b1c3aea3afe9f9bff2459343cd71ae135cf8072855342d5f51fcc35037bb95c320487.jpg",
   "categorias": [
@@ -406,7 +406,7 @@
   "nombre": "NY MARRÓN aplique Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3d9334d65ab5644b39ff6bf4540db2c23acddd094efc78cc4f07b2488d8a00eb320487.jpg",
   "categorias": [
@@ -827,7 +827,7 @@
   "nombre": "TXC Modelo 7",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6794a6ec373ee5df9e2960b8aa1a9107e9e33ca75992983fe33836f29e0e217a320487.jpg",
   "categorias": [
@@ -895,7 +895,7 @@
   "nombre": "TXC Modelo 11",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/16bf2d4427bf0f7848c953178cac48acff1d9469993e5612f785af128b265549320487.jpg",
   "categorias": [
@@ -2960,7 +2960,7 @@
   "nombre": "CHICAGO THE FINALS 56",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b92bd6ec6b0b9627741c7c86337fb2b0779791dd08f6b15935ca09a8eef40f46320487.jpg",
   "categorias": [
@@ -3703,7 +3703,7 @@
   "nombre": "AFA Trucker, Mod 38",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e44448fca220820cea0c092438869fe177fe0ffe6ea53055e3e327cc1befbae7320487.jpg",
   "categorias": [
@@ -4626,7 +4626,7 @@
   "nombre": "AFA Plana Holográfica Mod 5",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/306de49a9f741ba0bd9bcf889398a3ccf119f90f63557fe2ab6e74a0f6853be4320487.jpg",
   "categorias": [
@@ -4643,7 +4643,7 @@
   "nombre": "AFA Plana Holográfica Mod 4",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1560522b38a12daff5c2b21a1c640a6a906dbbfdcd597e96bcd02c603970ea96320487.jpg",
   "categorias": [
@@ -5038,7 +5038,7 @@
   "nombre": "AFA Trucker, Mod 22",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/72b0498aee90cacfdc3ad693c2af2fb2f54d4fe35c7334c678ee7e5f375e40b1320487.jpg",
   "categorias": [
@@ -5391,7 +5391,7 @@
   "nombre": "CHICAGO THE FINALS 42",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ca3f7a18651dee89b84558d755db149522d4edaa91b38da4d31322b4638d099f320487.jpg",
   "categorias": [
@@ -5471,7 +5471,7 @@
   "nombre": "CHICAGO THE FINALS 37",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0c3d781c21306a392670ff11bd531ee3ac663e98e2e9605a2e35b9c41494c7e6320487.jpg",
   "categorias": [
@@ -6434,7 +6434,7 @@
   "nombre": "CHICAGO THE FINALS 27",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e71d564016a0280677fb233cac0b032256ca0a553d22288df970ca40aaca7492320487.jpg",
   "categorias": [
@@ -6530,7 +6530,7 @@
   "nombre": "CHICAGO THE FINALS 19",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a747aa942086fc6ee3cc6316a73d2365555f513e2eb33208413dadd038e1cfda320487.jpg",
   "categorias": [
@@ -6674,7 +6674,7 @@
   "nombre": "CHICAGO THE FINALS 8",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2dcc2d2232494bf17416a874c3f6fefbb0e6d1975dd9e716c2da7f9a13fbcd22320487.jpg",
   "categorias": [
@@ -7576,8 +7576,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/adidas/adidas-marron-coleccion-especial",
   "nombre": "ADIDAS MARRÓN Colección Especial",
   "precio_proveedor": 3500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f2e727f7d380714740ae0db6c7a81042babe01ddb7134243522513b4806873cd320487.jpg",
   "categorias": [
@@ -7876,7 +7876,7 @@
   "nombre": "BMW 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b25b59c0c1c4f9be10552cb577e5061c89a057b5d760539413a93e0d71a7665f320487.jpg",
   "categorias": [
@@ -8228,7 +8228,7 @@
   "nombre": "KTM 6",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/72ba3d102f4059c44ad10d84e1e74308d8c2df790bc76ec51d1d59d901c9adc5320487.jpg",
   "categorias": [
@@ -9738,7 +9738,7 @@
   "nombre": "MADE IN MATO 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/38a766d6bd600e5419a3ec6f5ff674439aeffabf4161704fe736879c24df7c7f320487.jpg",
   "categorias": [
@@ -15410,7 +15410,7 @@
   "nombre": "CATERPILLAR 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/df3337fcfafb2328e5a01f1eead0873f3f884dd1ae817e474d4ad74ccdf99149320487.jpg",
   "categorias": [
@@ -15490,7 +15490,7 @@
   "nombre": "VOLVO 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/70d38b5e65a442523ece1161ddc3a73ececad7ed2184beaec55a49001766c418320487.jpg",
   "categorias": [
@@ -15794,7 +15794,7 @@
   "nombre": "Vintage Lisa NEGRO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 295,
+  "stock_cantidad": 262,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
