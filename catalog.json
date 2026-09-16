@@ -4,7 +4,7 @@
   "nombre": "Made in mato 24",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/eb2f92b48f07fd662cd04b18b3818141118972be487d4150f9a4cc8a1da8fce5320487.jpg",
   "categorias": [
@@ -36,7 +36,7 @@
   "nombre": "Made in mato 22",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a0d6718f5ff589a42a51e7b4ed5ff456e81e89ddeadba80c6891c6003a2001e2320487.jpg",
   "categorias": [
@@ -52,7 +52,7 @@
   "nombre": "Made in mato 21",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/02180b3be205018a9ea4186042e1fa15af61ec0c2b72ce3bc0b58bc1fea24d3b320487.jpg",
   "categorias": [
@@ -84,7 +84,7 @@
   "nombre": "Made in mato 19",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9097df1aca48b9aa4bf6b7387d330b2d524a7d2e85fdbe002c654c44e225764c320487.jpg",
   "categorias": [
@@ -164,7 +164,7 @@
   "nombre": "Made in mato 14",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8d3fddaa4f64fa839ab53b0c9a4e5fad61a41cc99c1e4d57ae2fc1e649ea735a320487.jpg",
   "categorias": [
@@ -276,7 +276,7 @@
   "nombre": "MADE IN MATO 7",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e5bdbf78dcb2c4670eeff5a6420dc672c27d77fcd1ed831784ac942c3c0f8ad7320487.jpg",
   "categorias": [
@@ -440,7 +440,7 @@
   "nombre": "NY NEGRO Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fecdf48d1b972afda06b82c0afbe396add8adee74b4c48de7792e5bb03170f44320487.jpg",
   "categorias": [
@@ -474,7 +474,7 @@
   "nombre": "NY CELESTE Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/726bcfa164a29cfeccf7efea984bf7abca1ba3f9265cbd403223d04231103932320487.jpg",
   "categorias": [
@@ -559,7 +559,7 @@
   "nombre": "JORDAN VERDE Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1cd7a96baffe87643f9842c2298367cbee754d746af10690d3a70023a47d9330320487.jpg",
   "categorias": [
@@ -759,7 +759,7 @@
   "nombre": "TXC Modelo 3",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/65ee49ee8af78a8d2f555d628ab1d0cc47c15010cdc54301d744d4f27624dd5a320487.jpg",
   "categorias": [
@@ -827,7 +827,7 @@
   "nombre": "TXC Modelo 7",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6794a6ec373ee5df9e2960b8aa1a9107e9e33ca75992983fe33836f29e0e217a320487.jpg",
   "categorias": [
@@ -878,7 +878,7 @@
   "nombre": "TXC Modelo 10",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/21939ac4daac26adc9affcd6c5b5aeabd042e8327ed414ce24ca920a5e6a94ee320487.jpg",
   "categorias": [
@@ -1235,7 +1235,7 @@
   "nombre": "NY NBA, Plana, Cerrada, Flex NEGRO c/BLANCO",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3a59069e0044c806560ad661bf4fbd7e67f016dbc6fb215c750f991764c6eaa2320487.jpg",
   "categorias": [
@@ -1690,7 +1690,7 @@
   "nombre": "TRUCKER Algodón Bicolor, 5 Paneles BLANCO/CAMUFLADO",
   "precio_proveedor": 3700,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3fb460caf2f9de9d04ca6d25075d8bbfcce1b7b84bfa73e6150962648874e90c320487.jpg",
   "categorias": [
@@ -1722,7 +1722,7 @@
   "nombre": "Poliéster Lisa, 5 Paneles, con Velcro NEGRO",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a0c31ba2873a55db536b23c461899c8171294f0e6dc46125fdb7037513168779320487.png",
   "categorias": [
@@ -1737,8 +1737,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-5-paneles-con-velcro-azul-marino",
   "nombre": "Poliéster Lisa, 5 Paneles, con Velcro AZUL MARINO",
   "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dbfa0f1ef90b0ea89f47a2adff3731ec2bd5048b99c2038f6f9f799e2561284e320487.jpg",
   "categorias": [
@@ -2188,7 +2188,7 @@
   "nombre": "NIKE, Just Do IT Legacy91",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b58bf6c10ac9046e70e4ca48e6991e0c4ab5d128be5ad00daefa169e38390afd320487.jpg",
   "categorias": [
@@ -2222,7 +2222,7 @@
   "nombre": "AYRTON SENNA 2",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e0313024b3d8d8bd188e1132db3a707c92d164693b84a9b2db403dc8d4145beb320487.jpg",
   "categorias": [
@@ -2255,7 +2255,7 @@
   "nombre": "PORSCHE 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9f7a74c3a19994b35e2b5add122e038a092b6655f5e62b715cd474d49b3c8838320487.jpg",
   "categorias": [
@@ -2288,7 +2288,7 @@
   "nombre": "RED BULL 2 moto",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0021d1ae32717cb6832ed939081d690435ffd82aec432cd35e31bedcfda5362d320487.jpg",
   "categorias": [
@@ -2352,7 +2352,7 @@
   "nombre": "DUCATI 5",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8e4d1ad5a61c73f981bbdd716f1d1123399256374e1bc74a62dd7d9af9acbccc320487.jpg",
   "categorias": [
@@ -2518,7 +2518,7 @@
   "nombre": "BASEBALL Mod 11",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9b21301450ca89839bf4ff0f83fa46addd3bfc9a173dc301bef4353aae1eb4a0320487.jpg",
   "categorias": [
@@ -2601,7 +2601,7 @@
   "nombre": "BASEBALL Mod 8",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fa32ef4c025f3efcb17607ffd7435fcee971e59938b876f47bb07f1402a22bbe320487.jpg",
   "categorias": [
@@ -2912,7 +2912,7 @@
   "nombre": "CHICAGO THE FINALS 60",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/57b4ebe84575a3d33bf0426e684ee69855628e0846c3b44de8587db3387e6a4b320487.jpg",
   "categorias": [
@@ -3211,7 +3211,7 @@
   "nombre": "LACOSTE, Corte Japonés, Abrojo, AZUL c/negro",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/98d57c7137380802c9bd5dc66bdabd1f71a4e9430c1db03dd23f5e63cdc750d3320487.jpg",
   "categorias": [
@@ -4388,7 +4388,7 @@
   "nombre": "AFA Curva Holográfica Mod 8",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/975116d1821a2eaff0951e904afa770ff116bf3af42fb29861dfd4c48d777a4d320487.jpg",
   "categorias": [
@@ -4506,8 +4506,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/holografica/afa-plana-holografica-mod-13",
   "nombre": "AFA Plana Holográfica Mod 13",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7cff8531635d59b80e2e738fae60a80fc82bf26e87842741e219c76ec5182412320487.jpg",
   "categorias": [
@@ -5519,7 +5519,7 @@
   "nombre": "LACOSTE FLEX Mod 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/08c1544a16762246b873d498fc1c26306dcfd7fc1bd1748b591fbd358d4e0b56320487.jpg",
   "categorias": [
@@ -5587,7 +5587,7 @@
   "nombre": "LACOSTE FLEX Mod 6",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/445ae14cb882252397b756861e40c579cde21050a3f555e5fbd17095cd01d100320487.jpg",
   "categorias": [
@@ -5638,7 +5638,7 @@
   "nombre": "LACOSTE FLEX Mod 9",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d38e84ad9156fdfba6e4b268a73a643b86fb77e595118ca92c03a07bf76cff7d320487.jpg",
   "categorias": [
@@ -5740,7 +5740,7 @@
   "nombre": "LACOSTE FLEX Mod 16",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/44eaae786e83eae0df8e90b777ee2bdfdb6127757c4371e4bd1d186bce34c58e320487.jpg",
   "categorias": [
@@ -7025,7 +7025,7 @@
   "nombre": "RED BULL 4 moto",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0d7632c8bda30363e48d78c1fee79b2d948a19c46127979534863ae0fd35888b320487.jpg",
   "categorias": [
@@ -7041,7 +7041,7 @@
   "nombre": "KTM 7",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3831a1d2803450677546a6c490d1b4ce1ba6d3bc139e63999192f1f14b8a7ee4320487.jpg",
   "categorias": [
@@ -7192,7 +7192,7 @@
   "nombre": "CHEVROLET 4",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/aadcee796ffcfbf224f8ff7c6734b33fab98ceba81c3f12f408b7e0aeb88c01e320487.jpg",
   "categorias": [
@@ -7780,7 +7780,7 @@
   "nombre": "FERRARI 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6718cb8579201d8fbb8523d5dc7a8aa169f586312b444c845697af20f8cde742320487.jpg",
   "categorias": [
@@ -7796,7 +7796,7 @@
   "nombre": "FERRARI 2",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f9b66d36b8cdeac869928b4fb3be7e70f8ed35ebef23d213c7bb9fbf142ffc43320487.jpg",
   "categorias": [
@@ -7812,7 +7812,7 @@
   "nombre": "MERCEDES BENZ 3",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/22200f97c6bc7cfc61e8c3ba65e72f0b84cc1b536e40ecafaf3e60aa832692cc320487.jpg",
   "categorias": [
@@ -7860,7 +7860,7 @@
   "nombre": "RED BULL 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c72bc0ed723e6ac2a8a6aea2fb3af26cc4df46f11bbecfc0b00c230fa9417849320487.jpg",
   "categorias": [
@@ -8116,7 +8116,7 @@
   "nombre": "HONDA 12",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9b4317dbb69d7226c29062b745687c2c8a0a800719e7ae3dd0c424f5f53b1a52320487.jpg",
   "categorias": [
@@ -8131,8 +8131,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/honda-9",
   "nombre": "HONDA 9",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/16102d9fe0e0f7b6ea47b7246a78fd098462fb280597c2c9aac996c6267989ed320487.jpg",
   "categorias": [
@@ -8557,7 +8557,7 @@
   "nombre": "NY, New Era, BEIGE LINO c/COBRE",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b58b8f0d440631282619d67ec26f69e53972323c9977f928995bf716dbdbbb24320487.jpg",
   "categorias": [
@@ -8574,7 +8574,7 @@
   "nombre": "NY, New Era, BEIGE c/BEIGE",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dd95b1d84523a5885942205446ade11191d1327fb7ab3d45aeaa90f15aede8dc320487.jpg",
   "categorias": [
@@ -8591,7 +8591,7 @@
   "nombre": "NY, New Era, NEGRO c/NEGRO",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4895353d644022441c5d01582250491e7a5f50d611c3150bdcdf0702e21437a4320487.jpg",
   "categorias": [
@@ -8608,7 +8608,7 @@
   "nombre": "NY, New Era, NEGRO c/BLANCO",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/056df69b9b66f0c19f4d8dcbd39d860a8252975cc710864a5917f1c5f09aae46320487.jpg",
   "categorias": [
@@ -8659,7 +8659,7 @@
   "nombre": "NY, New Era, AZUL MARINO c/BLANCO",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/38b746eebc975ae049f93dca3e43f64c52e8cd3a05275995983d10e231e7efbe320487.jpg",
   "categorias": [
@@ -10032,7 +10032,7 @@
   "nombre": "Vintage Lisa PARDO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 339,
+  "stock_cantidad": 334,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/86261d508418ada3aa851fa9712d5acc3cd7d78d2f76664fbea35278e3215798320487.jpg",
   "categorias": [
@@ -10605,7 +10605,7 @@
   "nombre": "FERRARI  10a",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/02f922c93c2593356dd1d7c94193155abd0fd0dbec82004bab81ed22c39e9acd320487.jpg",
   "categorias": [
@@ -13726,7 +13726,7 @@
   "nombre": "Vintage Lisa CAQUI",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 41,
+  "stock_cantidad": 35,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
@@ -15473,8 +15473,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/fiat-1",
   "nombre": "FIAT 1",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/765c882ce15c42ac18c2103405211018c3458d880e451ce09828e98029e25936320487.jpg",
   "categorias": [
@@ -15490,7 +15490,7 @@
   "nombre": "VOLVO 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/70d38b5e65a442523ece1161ddc3a73ececad7ed2184beaec55a49001766c418320487.jpg",
   "categorias": [
@@ -15586,7 +15586,7 @@
   "nombre": "Vintage Lisa BORDO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 109,
+  "stock_cantidad": 98,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b78161f45a5e870c0e3ff52d64d77d18415ce0bb98272256aa847127d0745890320487.jpg",
   "categorias": [
@@ -15602,7 +15602,7 @@
   "nombre": "Vintage Lisa MARRÓN CLARO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 344,
+  "stock_cantidad": 334,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/726bc0f703d4fe9aada354d6e41332fcacc842e7c13c81f81ea8eb526ce382fe320487.jpg",
   "categorias": [
@@ -15650,7 +15650,7 @@
   "nombre": "Vintage Lisa NARANJA",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 32,
+  "stock_cantidad": 31,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2aae7ddd2018a82e2550e3d308cb3ef6f8c0e3b991a3fa06ee798c1f539fff11320487.jpg",
   "categorias": [
@@ -15682,7 +15682,7 @@
   "nombre": "Vintage Lisa VERDE",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1062,
+  "stock_cantidad": 1054,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/207f06e32e65c5127c3c99edb1c255ffb2e8c7de13209ded67c00d7713fbb909320487.jpg",
   "categorias": [
@@ -15698,7 +15698,7 @@
   "nombre": "Vintage Lisa VERDE PASTO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 238,
+  "stock_cantidad": 227,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5c1e6d0de0528ee17acf2b9ccaee08563ee051ec267b310f7b14a9fedee9f2b6320487.jpg",
   "categorias": [
@@ -15714,7 +15714,7 @@
   "nombre": "Vintage Lisa VERDE AGUA",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 92,
+  "stock_cantidad": 90,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/efe59022db339f3f63f64e6cf0be426713e0bd3c868ca40624df6fa0bd16f681320487.jpg",
   "categorias": [
@@ -15730,7 +15730,7 @@
   "nombre": "Vintage Lisa TURQUESA",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 77,
+  "stock_cantidad": 75,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/88b0fabf057fd9ea0de015b332d8cf050b7efb4d67dc8adfee3e5f3a3356b78b320487.jpg",
   "categorias": [
@@ -15746,7 +15746,7 @@
   "nombre": "Vintage Lisa CELESTE",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/95e187547dbff212b1ac0c6aa59fa60bcde59d44ce942bf33232690a30855c2c320487.jpg",
   "categorias": [
@@ -15762,7 +15762,7 @@
   "nombre": "Vintage Lisa AZUL JEAN",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 208,
+  "stock_cantidad": 203,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
@@ -15778,7 +15778,7 @@
   "nombre": "Vintage Lisa AZUL MARINO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 90,
+  "stock_cantidad": 87,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ecdd9928e4c1aa636883c648e0edd4cadbb2cc054ccf639e275ceae9d10969dc320487.jpg",
   "categorias": [
@@ -15794,7 +15794,7 @@
   "nombre": "Vintage Lisa NEGRO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 262,
+  "stock_cantidad": 247,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
@@ -15809,8 +15809,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-gris-oscuro",
   "nombre": "Vintage Lisa GRIS OSCURO",
   "precio_proveedor": 3600,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/727888dd93852897e9bb3fe7e000911f081a4fdf7b23cc97f34344aa23067c6a320487.jpg",
   "categorias": [
@@ -15826,7 +15826,7 @@
   "nombre": "Vintage Lisa GRIS CLARO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/143804253895e260b81a8f0457d63fafe4aef191fa9c41ddcbd3f968dc806105320487.jpg",
   "categorias": [
@@ -16763,7 +16763,7 @@
   "nombre": "Vintage Combinada",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 178,
+  "stock_cantidad": 164,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3fe9d123469f11e5b35a1388ae3df048ec8f419833440224e0ee12e00962325b320487.png",
   "categorias": [
