@@ -71,8 +71,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/barcelona-2-futbol-europeo",
   "nombre": "BARCELONA 2, Fútbol Europeo",
   "precio_proveedor": 6800,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d0429cd2e059e618e29d2f3fff55e2d63411c8e9119c04efa5d2585a8dd928de320487.jpg",
   "categorias": [
@@ -89,7 +89,7 @@
   "nombre": "BARCELONA 1, Fútbol Europeo",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5c7eb16f663654a8271f43f93dce6b313c7ad18ead8c2c272be5c991bc49c9ca320487.jpg",
   "categorias": [
@@ -106,7 +106,7 @@
   "nombre": "TOTTENHAM HOTSPUR, Fútbol Europeo",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/df16c16d427da7bd63cd2bbe550c36adb367c28bd80ed7058766923513693087320487.jpg",
   "categorias": [
@@ -123,7 +123,7 @@
   "nombre": "LIVERPOOL, Fútbol Europeo",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/42ec998149fd12209e98c210a40f533ea5246545514816e384d04bf3f89f5487320487.jpg",
   "categorias": [
@@ -140,7 +140,7 @@
   "nombre": "BAYERN MUNCHEN, Fútbol Europeo",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d13d4ce49de2573a1ed4f4629e4c4b82b63032aa3c01f4cffb3995d420f6a936320487.jpg",
   "categorias": [
@@ -157,7 +157,7 @@
   "nombre": "Fútbol Europeo, Arsenal",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7fb77a1a8d709419d393c2e78515ef9b2fcd921635781ed0475c09c01486fe90320487.jpg",
   "categorias": [
@@ -173,8 +173,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/futbol-europeo-inter-de-milan",
   "nombre": "Fútbol Europeo, Inter de Milán",
   "precio_proveedor": 6800,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/712f60386135c0e7135c0a42e1e3adbcf455223f81b5ffebf4fd3d3a8926d7f3320487.jpg",
   "categorias": [
@@ -191,7 +191,7 @@
   "nombre": "Fútbol Europeo, Sport Lisboa e Benfica",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/521bcd37227ef3f07617347a3fdd7521e14c350522bf55800194277c33665519320487.jpg",
   "categorias": [
@@ -208,7 +208,7 @@
   "nombre": "Fútbol Europeo, Borussia Dortmund",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5fa8bb1cdb399eefcbf94bd97a8dd1fbc31e36fe8a2d19dac6dfdb14c5f956de320487.jpg",
   "categorias": [
@@ -224,8 +224,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/futbol-europeo-manchester-united",
   "nombre": "Fútbol Europeo, Manchester United",
   "precio_proveedor": 6800,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/85686ff2c7deb604476c777ba0b5e45dec5273bc15c0934b8d08392fcc568da7320487.jpg",
   "categorias": [
@@ -276,7 +276,7 @@
   "nombre": "Fútbol Europeo, Manchester City 2",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/42a7d82d826f5c96f8825f633b5f5356daf3bfbc1a31d60c2bfaff8b60dc5959320487.jpg",
   "categorias": [
@@ -819,7 +819,7 @@
   "nombre": "NY, 47, Bicolor Mod 8",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6bdc3d7e005e398e197edb47aad23ede84a4e3102863d139082d7fcfacfa4aa8320487.jpg",
   "categorias": [
@@ -2015,8 +2015,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-nba-plana-cerrada-flex-gris-cblanco",
   "nombre": "LA NBA, Plana, Cerrada, Flex GRIS c/BLANCO",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0641b2fce06f8387d9bb1b440267c70f41c87ada9fec48e79a323df4657af372320487.jpg",
   "categorias": [
@@ -6364,7 +6364,7 @@
   "nombre": "WB BASKET Mod 6",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5be1ebefb3431b39620fd1c5374dea84f8e2e8162c48f6f6510b2e6cbfb0227f320487.jpg",
   "categorias": [
@@ -8394,7 +8394,7 @@
   "nombre": "NY, New Era, GRIS DENIM c/GRIS",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e15ef0b6733d2684c3e3abd6eb75ca8635777e1394084e98c36a91a3f474680e320487.jpg",
   "categorias": [
@@ -8604,8 +8604,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/cerrada-atras-plana-ny-empire-estate-celeste-jean",
   "nombre": "CERRADA Atrás, Plana, NY Empire Estate CELESTE JEAN",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cafeb3f2ba14c26d78d66782fdd3f86b1b30626cb0cdaa90072d8ff2cbdfa48e320487.jpg",
   "categorias": [
@@ -8690,7 +8690,7 @@
   "nombre": "VINTAGE Infantil NEGRO",
   "precio_proveedor": 3900,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/382526537e0732bdae73cf0688af37b835fe40c8ae9ff65066e9ab24f01347c2320487.jpg",
   "categorias": [
@@ -8738,7 +8738,7 @@
   "nombre": "VINTAGE Infantil AZUL MARINO",
   "precio_proveedor": 3900,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d6d0b9eb4e8eee18fc1fd91b401fd4fb620de5ceeba6f695709f169bf19d6cb3320487.jpg",
   "categorias": [
@@ -8770,7 +8770,7 @@
   "nombre": "VINTAGE Infantil MARRÓN",
   "precio_proveedor": 3900,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69f61cc9237931f51f27999b7062a1f2d72832fe7e7c5e7228d760700c91d48d320487.jpg",
   "categorias": [
@@ -13499,7 +13499,7 @@
   "nombre": "Vintage Lisa CAQUI",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 31,
+  "stock_cantidad": 30,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
