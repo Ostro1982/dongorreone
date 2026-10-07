@@ -68,23 +68,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/barcelona-2-futbol-europeo",
-  "nombre": "BARCELONA 2, Fútbol Europeo",
-  "precio_proveedor": 6800,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d0429cd2e059e618e29d2f3fff55e2d63411c8e9119c04efa5d2585a8dd928de320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "futbol-europeo"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/barcelona-1-futbol-europeo",
   "nombre": "BARCELONA 1, Fútbol Europeo",
   "precio_proveedor": 6800,
@@ -170,23 +153,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/futbol-europeo-inter-de-milan",
-  "nombre": "Fútbol Europeo, Inter de Milán",
-  "precio_proveedor": 6800,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/712f60386135c0e7135c0a42e1e3adbcf455223f81b5ffebf4fd3d3a8926d7f3320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "futbol-europeo"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/futbol-europeo-sport-lisboa-e-benfica",
   "nombre": "Fútbol Europeo, Sport Lisboa e Benfica",
   "precio_proveedor": 6800,
@@ -211,23 +177,6 @@
   "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5fa8bb1cdb399eefcbf94bd97a8dd1fbc31e36fe8a2d19dac6dfdb14c5f956de320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "futbol",
-   "futbol-europeo"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/futbol-europeo-manchester-united",
-  "nombre": "Fútbol Europeo, Manchester United",
-  "precio_proveedor": 6800,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/85686ff2c7deb604476c777ba0b5e45dec5273bc15c0934b8d08392fcc568da7320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -336,57 +285,6 @@
    "gorras",
    "futbol",
    "futbol-europeo"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-120",
-  "nombre": "ESTILO CICLISTA Mod. 120",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2eeb872079f74e8475b4c110b5b34b33ed786a303fc71b7c0579158dbb594030320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-119",
-  "nombre": "ESTILO CICLISTA Mod. 119",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4aaefaf97828aca17c4baeb88d333b52a0902c6aa5f2c0f8f64c6dd1b7d443b7320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-118",
-  "nombre": "ESTILO CICLISTA Mod. 118",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3a7ae289a6908598a6015290d77d22e5393a5e93b611b5cae9b286f0571bddeb320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
   ],
   "categoria_principal": "gorras"
  },
@@ -527,91 +425,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-109",
-  "nombre": "ESTILO CICLISTA Mod. 109",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/deb6476e165da54cf55bf63e78498dec751ed8e2574c8ff9fb708be5d86527e2320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-108",
-  "nombre": "ESTILO CICLISTA Mod. 108",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1e14e0ae22e4d4aba720535d7b1abb03c4df83dcfe2991097d582e22e6f468e1320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-107",
-  "nombre": "ESTILO CICLISTA Mod. 107",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/db0e0a451833596462dee4b82dfc6ffa410d5dfc862a30456af4238846a065de320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-106",
-  "nombre": "ESTILO CICLISTA Mod. 106",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cabf2f7b49ebe3082e20f0b057864d2c39c58173e95d06701b38efe0fa1f690d320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-105",
-  "nombre": "ESTILO CICLISTA Mod. 105",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9555f0d942001751ec301d91743f1f3804b35c8da595b0b2b979e79e3a6c4778320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-104",
   "nombre": "ESTILO CICLISTA Mod. 104",
   "precio_proveedor": 7500,
@@ -653,23 +466,6 @@
   "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c635814321b5848d4eab64fe280e45582b8f7fa4e79e23a18b48a8865593bcb4320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "estilo-ciclista"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-101",
-  "nombre": "ESTILO CICLISTA Mod. 101",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b05f0bf921ee9cf0ea132cda95f337ec2ab91f606f4d976a1751760914f6cdd4320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -7265,23 +7061,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-verde-agua",
-  "nombre": "NY (BOLA) Verde Agua",
-  "precio_proveedor": 6500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/904a4daff65b4f39eb9f18c977c71c74232031d8fe02252133ce2567c90019ef320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bola-celeste",
   "nombre": "NY (BOLA) Celeste",
   "precio_proveedor": 6500,
@@ -7478,22 +7257,6 @@
    "adulto",
    "gorras",
    "deportivas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/chevrolet-4",
-  "nombre": "CHEVROLET 4",
-  "precio_proveedor": 6500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/aadcee796ffcfbf224f8ff7c6734b33fab98ceba81c3f12f408b7e0aeb88c01e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "auto"
   ],
   "categoria_principal": "gorras"
  },
@@ -8597,23 +8360,6 @@
    "adulto",
    "gorras",
    "deportivas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/cerrada-atras-plana-ny-empire-estate-celeste-jean",
-  "nombre": "CERRADA Atrás, Plana, NY Empire Estate CELESTE JEAN",
-  "precio_proveedor": 8000,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cafeb3f2ba14c26d78d66782fdd3f86b1b30626cb0cdaa90072d8ff2cbdfa48e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
   ],
   "categoria_principal": "gorras"
  },
