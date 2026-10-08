@@ -1,5 +1,73 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-semicurva-mod-1",
+  "nombre": "NIKE, Semicurva, Mod 1",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 12,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3f231f80e46e3059c339aa96f4d36d834a8f36f4e79940a24636308ae7ccd7ab320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-semicurva-mod-2",
+  "nombre": "NIKE, Semicurva, Mod 2",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3bda69d9e750563c27c9fee92d2a2258249a14301f12ca701c47a1f93d8f818a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-semicurva-mod-3",
+  "nombre": "NIKE, Semicurva, Mod 3",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/084c75e57a79f95dd8df1eb813f4a3059db97e6f2264ec12606586c5f334bd40320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-semicurva-mod-4",
+  "nombre": "NIKE, Semicurva, Mod 4",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 6,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e44f9c4db9534272f53ab276f9745cf772730943015662929f8c107c6ab85ede320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/futbol/futbol-europeo/real-madrid-4-futbol-europeo",
   "nombre": "REAL MADRID 4, Fútbol Europeo",
   "precio_proveedor": 6800,
@@ -1808,23 +1876,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-nba-plana-cerrada-flex-gris-cblanco",
-  "nombre": "LA NBA, Plana, Cerrada, Flex GRIS c/BLANCO",
-  "precio_proveedor": 8000,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0641b2fce06f8387d9bb1b440267c70f41c87ada9fec48e79a323df4657af372320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "la"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/txc/txc-modelo-1",
   "nombre": "TXC Modelo 1",
   "precio_proveedor": 6000,
@@ -3347,9 +3398,60 @@
   "nombre": "GUCCI Mod 11",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e3bad4d4f1fa16c2e58967236e389173147f9a58bdefc768fa7bad8f1adba04b320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "gucci"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/gucci/gucci-mod-10",
+  "nombre": "GUCCI Mod 10",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 10,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cc17f90aa9d858d18adc98e982262105205532e3a4fbb6aaed0cb5d61f584b20320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "gucci"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/gucci/gucci-mod-9",
+  "nombre": "GUCCI Mod 9",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cc0719db1fa89181873d85679d68898c902eab97c4d6ce8a5845132f29d38218320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "gucci"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/gucci/gucci-mod-8",
+  "nombre": "GUCCI Mod 8",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f2b3aefe456df4809cd1c87a9bf6eb81aec8d271ce2464eb26e3081bf9aac139320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -3398,7 +3500,7 @@
   "nombre": "GUCCI Mod 5",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8ff955c9fa19cb665fa382e2ef70657e3474bd1604b2585f23b3f25d1e27c871320487.jpg",
   "categorias": [
@@ -3432,7 +3534,7 @@
   "nombre": "GUCCI Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e4336f0ec3c147e87069d23a9133bb4863c0e2960e74614bcd4384387afcaa89320487.jpg",
   "categorias": [
@@ -3466,7 +3568,7 @@
   "nombre": "GUCCI Mod 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c12cebd7643998a15dd7eed114078ff86fa604c2f59d52e0d3f6884c5d21b07e320487.jpg",
   "categorias": [
