@@ -276,7 +276,7 @@
   "nombre": "Fútbol Europeo, Chelsea 1",
   "precio_proveedor": 6800,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2d1eab9266c8043e2dee926ee7dea658380dcab1b890d52d7ce90d574a58373c320487.jpg",
   "categorias": [
@@ -361,7 +361,7 @@
   "nombre": "ESTILO CICLISTA Mod. 117",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3eba751096951efd2e65997b9180726ae3eb276469abfcc6012e630708501306320487.jpg",
   "categorias": [
@@ -395,7 +395,7 @@
   "nombre": "ESTILO CICLISTA Mod. 115",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d0f43051619315f6dfd5784712476500ef7f6ad435b998d6212040567059cd18320487.jpg",
   "categorias": [
@@ -446,7 +446,7 @@
   "nombre": "ESTILO CICLISTA Mod. 112",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8b84338f328e037fcff2d2b7bc776e42e6aa12965e9615715413de636f2cf07e320487.jpg",
   "categorias": [
@@ -513,8 +513,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-103",
   "nombre": "ESTILO CICLISTA Mod. 103",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2e93cb621a40d9bdd45f0b63c4160e544a3b999ca14723c18b26e7b171655c44320487.jpg",
   "categorias": [
@@ -582,7 +582,7 @@
   "nombre": "ESTILO CICLISTA Mod. 98",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9f88b8f99493272d6a2e39970ddd729815f32af25455c3b593730afa19107f21320487.jpg",
   "categorias": [
@@ -666,7 +666,7 @@
   "nombre": "NY, 47, Bicolor Mod 6",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/35ae46a55aea712a7d3084b5a86546d61a3591f70ba7d121b40cb3a4c491a92b320487.jpg",
   "categorias": [
@@ -732,7 +732,7 @@
   "nombre": "Black Company, Semicurva modelo 3",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/33e87aa200f4f62bbe1ab34ca3a17eda68cafbd9ee10d06c7ad13812f004c840320487.jpg",
   "categorias": [
@@ -1036,7 +1036,7 @@
   "nombre": "Black Company, Semicurva modelo 22",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/546df3c4530edc9a72fae75c42701f2f2a8d59da5b56c9040159508b7a68da37320487.jpg",
   "categorias": [
@@ -1224,22 +1224,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/fe/fe-5",
-  "nombre": "FÉ 5",
-  "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/809390540a5b443aefae64c235e1fbdf0e6879f21b56e9be18dbcb0a1c408519320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "fe"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/fe/fe-6",
   "nombre": "FÉ 6",
   "precio_proveedor": 6500,
@@ -1256,27 +1240,11 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/fe/fe-7",
-  "nombre": "FÉ 7",
-  "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/bd4ce90809d6a87e4cbc6da9e5db7a7fff6f8a87dc789742b3b7f6a5026e7798320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "fe"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/fe/fe-9",
   "nombre": "FÉ 9",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/60baf23b31be428779f323cae3d452edf330b98b8b5a6350fda0be41a9d57ecc320487.jpg",
   "categorias": [
@@ -1611,8 +1579,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-negro-aplique-coleccion-especial",
   "nombre": "NY NEGRO aplique Colección Especial",
   "precio_proveedor": 3500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1b1c3aea3afe9f9bff2459343cd71ae135cf8072855342d5f51fcc35037bb95c320487.jpg",
   "categorias": [
@@ -1629,7 +1597,7 @@
   "nombre": "NY MARRÓN aplique Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3d9334d65ab5644b39ff6bf4540db2c23acddd094efc78cc4f07b2488d8a00eb320487.jpg",
   "categorias": [
@@ -1798,7 +1766,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill NEGRO",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0b8f66d60af1bdbea0b37eb79e97a6f903a5cb29d8b3bc13c55c64fc6448e2dd320487.jpg",
   "categorias": [
@@ -1999,7 +1967,7 @@
   "nombre": "TXC Modelo 8",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a5b666bfc46b4305998efe8cad512bb28b0d4cb7b174e0fc865e7855ede5b177320487.jpg",
   "categorias": [
@@ -2110,6 +2078,22 @@
    "gorras",
    "marca-ropa-y-diseno",
    "txc"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny-new-era-beige-c-lino",
+  "nombre": "NY, New Era, BEIGE c/ Lino",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c396bd62bcdf42e25f8231c6238279a3dd823742fa79fdfbdff5cc5604e5ecdb320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas"
   ],
   "categoria_principal": "gorras"
  },
@@ -3568,7 +3552,7 @@
   "nombre": "GUCCI Mod 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c12cebd7643998a15dd7eed114078ff86fa604c2f59d52e0d3f6884c5d21b07e320487.jpg",
   "categorias": [
@@ -4291,7 +4275,7 @@
   "nombre": "AFA Trucker, Mod 37",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5da2b6966358face99f6d32854fb049ebc3f78a92c2de54efb239ac23087c1ce320487.jpg",
   "categorias": [
@@ -7216,7 +7200,7 @@
   "nombre": "BOCA 14, botón negro",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3eeac5f0712cba30cbab8be06c11cfc42bad313a4b59d3a51d92c4be38c487d5320487.jpg",
   "categorias": [
@@ -7920,8 +7904,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ferrari-2",
   "nombre": "FERRARI 2",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f9b66d36b8cdeac869928b4fb3be7e70f8ed35ebef23d213c7bb9fbf142ffc43320487.jpg",
   "categorias": [
@@ -8255,11 +8239,28 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-verde-cverde",
+  "nombre": "NY, New Era, VERDE c/Verde",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e74f63e3d753def862ecaf830e67a2494bd30d295c7988fadd78d6430b8c604c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-gris-denim-cgris",
   "nombre": "NY, New Era, GRIS DENIM c/GRIS",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e15ef0b6733d2684c3e3abd6eb75ca8635777e1394084e98c36a91a3f474680e320487.jpg",
   "categorias": [
@@ -8276,7 +8277,7 @@
   "nombre": "NY, New Era, AZUL FRANCIA c/BLANCO",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e6ede0fbc0fd63cb024b3392cb0effbedc815b4d1bf4a78e9638e09c36895529320487.jpg",
   "categorias": [
@@ -8487,9 +8488,43 @@
   "nombre": "NY, New Era, GRIS OSCURO c/BLANCO",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/34454ea38e64d278957b88db9d5bb43e488b3392a1e6a53f15071dc7ae8946c6320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-negro-cblanco",
+  "nombre": "NY, New Era, NEGRO c/BLANCO",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/056df69b9b66f0c19f4d8dcbd39d860a8252975cc710864a5917f1c5f09aae46320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-blanco-c-negro",
+  "nombre": "NY, New Era, BLANCO c/ Negro",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/60f204b9a07908e42fecfd041bbf42f01b321cb66356cf4040db84a97288acea320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -8524,6 +8559,40 @@
   "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7712c032d74c43fc70e37ba403773e0b6ddac22f8355195d650afb644519adf8320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-azul-oscuro-c-azul",
+  "nombre": "NY, New Era, AZUL OSCURO c/ Azul",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5539f55745cec75f0370ac158258ac4121ee76c2061f0e06d40244ea9b0bb8a5320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-azul-marino-cblanco",
+  "nombre": "NY, New Era, AZUL MARINO c/BLANCO",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 6,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/38b746eebc975ae049f93dca3e43f64c52e8cd3a05275995983d10e231e7efbe320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -10623,7 +10692,7 @@
   "nombre": "ESTILO CICLISTA Mod. 65",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2e2d5118fdfa5689edacb4b72def6593b3795dd96d0fedccbf583a5d8fc2c99320487.jpg",
   "categorias": [
@@ -10776,7 +10845,7 @@
   "nombre": "ESTILO CICLISTA Mod. 40",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/22a8cab7a468a524e17788113c4dc4b87f6f51480385b17de6400c2545c4cb9a320487.jpg",
   "categorias": [
@@ -12576,7 +12645,7 @@
   "nombre": "ESTILO CICLISTA Mod. 96",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f0772e0143a90ad12a6e66b30750420c36942408826324b2a65eb0f2fe1236ad320487.jpg",
   "categorias": [
@@ -15286,7 +15355,7 @@
   "nombre": "Vintage Lisa AZUL JEAN",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 199,
+  "stock_cantidad": 149,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
@@ -15302,7 +15371,7 @@
   "nombre": "Vintage Lisa AZUL MARINO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 87,
+  "stock_cantidad": 82,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ecdd9928e4c1aa636883c648e0edd4cadbb2cc054ccf639e275ceae9d10969dc320487.jpg",
   "categorias": [
