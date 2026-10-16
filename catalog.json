@@ -1,5 +1,311 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/rusty/rusty-tela-sarga-terracota",
+  "nombre": "RUSTY tela Sarga, TERRACOTA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cf1bf2f738fc5e95c3a396eb56d40f100710bc8582967429dc423ad5fa31d20c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "rusty"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/rusty/rusty-tela-sarga-celeste",
+  "nombre": "RUSTY tela Sarga, CELESTE",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ffd3f77e08406ee45521eb8ab07c8a7e82f1eb754a04184a0ec55b5336295cb9320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "rusty"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/rusty/rusty-tela-sarga-verde",
+  "nombre": "RUSTY tela Sarga, VERDE",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2d96cc5407b968a1496b3bb781258ef4ada1d7e36fabfc708fd760aed380e2cc320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "rusty"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/rusty/rusty-tela-sarga-negro",
+  "nombre": "RUSTY tela Sarga, NEGRO",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/753b1b5de01d1a19bc7905969408c0cccc02fc8b0d3d67e619456760a11a7d2f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "marca-ropa-y-diseno",
+   "rusty"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-gris",
+  "nombre": "LA, Los Ángeles, tela Sarga, GRIS",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2a27ec79f37539f125b0237ff66ec7cf99f2121cdf85b3b8cd70dfdc236d8080320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-rosa",
+  "nombre": "LA, Los Ángeles, tela Sarga, ROSA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2b76ff056ebea6dcb4eb5998b6b62ee2b6a5b02b583ae74cf10577c232deb566320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-terracota",
+  "nombre": "LA, Los Ángeles, tela Sarga, TERRACOTA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/12869b92935a743bf70ecc1e4031da2f8f811747af01fd3ba7836f21870c59f0320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-marron",
+  "nombre": "LA, Los Ángeles, tela Sarga, MARRÓN",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6d30ed99e7de41871a8652745912d47eb8d7494ec186492fde741a908e481af2320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-azul",
+  "nombre": "LA, Los Ángeles, tela Sarga, AZUL",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b3f33d1a53e97633ed71f7e5fd477b8343d5f721ae0cc2a422ead51123ea1503320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-crema",
+  "nombre": "LA, Los Ángeles, tela Sarga, CREMA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c09c1d05292564e2a7334d15448bd098a3aaf2b3a0fd28c5412f2949ba5bc693320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/la-los-angeles-tela-sarga-negro",
+  "nombre": "LA, Los Ángeles, tela Sarga, NEGRO",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d7892f9c9a4bc770e44c0a16c6c57e94ad5d53ac8da7d4956fcaadb3c85619ab320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-gris",
+  "nombre": "NY, Yankees, tela Sarga, GRIS",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a0109055e6d904850a43e4f5479992bf6548713de103371cc4dd167eeae8eaf0320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-rosa",
+  "nombre": "NY, Yankees, tela Sarga, ROSA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8cfeafab320eef7a0faae4e301cb13b4aee26d378abb757009a99d4bd014bee0320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-negro",
+  "nombre": "NY, Yankees, tela Sarga, NEGRO",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 16,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7b66e31d312dc33803273e594a73c0b3a602c2efbe824c7fe0a3549ced657c55320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-crema",
+  "nombre": "NY, Yankees, tela Sarga, CREMA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 8,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d368392732ad0e03b884cd479817d45c1ecf01b8fe173c63990a0ce5101236e0320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-marron",
+  "nombre": "NY, Yankees, tela Sarga, MARRÓN",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 6,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0ea309b823b707f3c33454db1a08e42daaa153066e6b207c893127fb540dfa7f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-celeste",
+  "nombre": "NY, Yankees, tela Sarga, CELESTE",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 6,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/06c9d9303236ba33ed9936c29df739a0decfa0f8a5c5be4cdbfc91231d6ab35b320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-yankees-tela-sarga-terracota",
+  "nombre": "NY, Yankees, tela Sarga, TERRACOTA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4244b88f7cc72604bbf6b2a3c0c11c1b3d6c956134f794280c3a4bc73553df2c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/la-supercap-premium-mod-2",
   "nombre": "LA Supercap Premium, Mod 2",
   "precio_proveedor": 8500,
@@ -4125,7 +4431,7 @@
   "nombre": "AFA Trucker, Mod 53",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8036339b37fb3ca650e0cd1dac8f131fcc94365bbb25785250a7c18d5d243ea1320487.jpg",
   "categorias": [
@@ -4142,7 +4448,7 @@
   "nombre": "AFA Trucker, Mod 52",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cea9a4cfcbf2b3b11a6e7a13c6b2f1f6a905ebabd4955ae70f91852a70810b2c320487.jpg",
   "categorias": [
@@ -4206,6 +4512,23 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-48",
+  "nombre": "AFA Trucker, Mod 48",
+  "precio_proveedor": 6300,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2a363d902c943c8de68233807e248881c6b25ad28e16f7bfb91802258eca1af9320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "afa",
+   "trucker"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-47",
   "nombre": "AFA Trucker, Mod 47",
   "precio_proveedor": 6300,
@@ -4227,7 +4550,7 @@
   "nombre": "AFA Trucker, Mod 45",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d4fa94f83d2fb6e5a45c365bd81a7024fc912e08777eff662481316a090dd01a320487.jpg",
   "categorias": [
@@ -4278,7 +4601,7 @@
   "nombre": "AFA Trucker, Mod 41",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4dd69d19097a537a5fba95d9fd87c417d3c926529b2d4362c7a92f64e5243de1320487.jpg",
   "categorias": [
@@ -4295,7 +4618,7 @@
   "nombre": "AFA Trucker, Mod 40",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c20eab84c0fef49a81039f0a48e9ecf66759448ec6604d87bf24cbd90de6c3d1320487.jpg",
   "categorias": [
@@ -4312,7 +4635,7 @@
   "nombre": "AFA Trucker, Mod 39",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6688e6625ac1a0cd1b1f035bcf0e73385d46886640c47ba1ef498e1225cc9ea3320487.jpg",
   "categorias": [
@@ -4329,7 +4652,7 @@
   "nombre": "AFA Trucker, Mod 38",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e44448fca220820cea0c092438869fe177fe0ffe6ea53055e3e327cc1befbae7320487.jpg",
   "categorias": [
@@ -4397,7 +4720,7 @@
   "nombre": "AFA Trucker, Mod 34",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1099db1d24410755291506b32b3bd8346c45d46a7bf5f6b3f25efb7c605d1c9c320487.jpg",
   "categorias": [
@@ -5481,7 +5804,7 @@
   "nombre": "AFA Trucker, Mod 31",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1c1dae1bc294a59baf19351c829e67ca5b36944654f91f6ca6b611f4d5d9d720320487.jpg",
   "categorias": [
@@ -5528,23 +5851,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-27",
-  "nombre": "AFA Trucker, Mod 27",
-  "precio_proveedor": 6300,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c44c7cb44a751c00e10c97746ac3bf7a63071a22697340e82897a6a9cd25482f320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "afa",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-26",
   "nombre": "AFA Trucker, Mod 26",
   "precio_proveedor": 6300,
@@ -5562,13 +5868,13 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-22",
-  "nombre": "AFA Trucker, Mod 22",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/afa/trucker/afa-trucker-mod-25",
+  "nombre": "AFA Trucker, Mod 25",
   "precio_proveedor": 6300,
   "stock_disponible": true,
   "stock_cantidad": 1,
   "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/72b0498aee90cacfdc3ad693c2af2fb2f54d4fe35c7334c678ee7e5f375e40b1320487.jpg",
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1ebbef9072e6020c139b5d5724431cd9bc9f80e732dfe1d49c05a1bc810f9151320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -5600,7 +5906,7 @@
   "nombre": "AFA Trucker, Mod 20",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b11cb09d196bb9a05749d5e5978cb9f2e26a2f7319ee220f9f4de9b0b2cc5389320487.jpg",
   "categorias": [
@@ -5685,7 +5991,7 @@
   "nombre": "AFA Trucker, Mod 12",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/48ee1ea9652af97c1d5cf4bb741d3eadf5893fd6e271b95e3b9b150466f2e89e320487.jpg",
   "categorias": [
@@ -5702,7 +6008,7 @@
   "nombre": "AFA Trucker, Mod 11",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c79df8a757e09a1b9003aaa24743af84780d9e21e867c1621c459ff8721dbeac320487.jpg",
   "categorias": [
@@ -5753,7 +6059,7 @@
   "nombre": "AFA Trucker, Mod 8",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1c9fd699ef29dfedf7cd9f3b5d8805295380793a35479e6103c8e2846f60e03a320487.jpg",
   "categorias": [
@@ -5770,7 +6076,7 @@
   "nombre": "AFA Trucker, Mod 7",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a498842862ebee4b755f16fd70ded8782f30965ec60365ff58fc888dbd12e714320487.jpg",
   "categorias": [
@@ -5787,7 +6093,7 @@
   "nombre": "AFA Trucker, Mod 6",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4d62af3807e3e181f6ef7de0dd0ef934d1e7dd7006a9e824ce9545999d1520be320487.jpg",
   "categorias": [
@@ -5804,7 +6110,7 @@
   "nombre": "AFA Trucker, Mod 4",
   "precio_proveedor": 6300,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2e27b3cbeb89f8241f919265d9eb39dcb127b0357769bc522ba6996eae3c606320487.jpg",
   "categorias": [
@@ -8512,7 +8818,7 @@
   "nombre": "NY, New Era, NEGRO c/BLANCO",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/056df69b9b66f0c19f4d8dcbd39d860a8252975cc710864a5917f1c5f09aae46320487.jpg",
   "categorias": [
