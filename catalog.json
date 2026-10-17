@@ -1,5 +1,453 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-41-visera-plana",
+  "nombre": "LAYNER&#039;S 41, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/303f2830d98e4af6be53c982797e893ed4e13e6e8c4917c89fffaed0bcd5a4e7320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-40-visera-plana",
+  "nombre": "LAYNER&#039;S 40, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c31b8e2a8a17a3613433625e9f8e51535a78b4c7284fb978df772e03d762bd58320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-39-visera-plana",
+  "nombre": "LAYNER&#039;S 39, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c28aa36ab0e46d0fde06d65000ac74445c766e8e532cc2fe35c419f53cbdc489320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-38-visera-plana",
+  "nombre": "LAYNER&#039;S 38, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ce636ede9135b06d901c17c57ee9cd5f8152e4387cd733dd941ce7d1cb6528c6320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-37-visera-plana",
+  "nombre": "LAYNER&#039;S 37, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3a5ba853be81cadab58b4517ff9042ad8c06fb4b59f53c17c8bc67afe82a4a5f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-36-visera-plana",
+  "nombre": "LAYNER&#039;S 36, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8e7a3cb5c783907c2437152091c0e0b8e47617f1b51fea58019ed387a7a3011a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-35-visera-plana",
+  "nombre": "LAYNER&#039;S 35, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d2bef9df40ab2bd2ba1cf3a851df0f77963444df95a007f0f81e63e5212c6fc5320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-34-visera-plana",
+  "nombre": "LAYNER&#039;S 34, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5988b70797901cf1e15c6f256a13b00f786f9b3350201453fec885fcb1c3e21320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-33-visera-plana",
+  "nombre": "LAYNER&#039;S 33, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4ee581e870c0ec83fbbca358771def8b9c405dc709fed1844c808650844432ec320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-32-visera-plana",
+  "nombre": "LAYNER&#039;S 32, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f26f2fc2148dd59a54c73b391be609129bde1bb0b58e248fa7578ef0635c604e320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-31-visera-plana",
+  "nombre": "LAYNER&#039;S 31, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/637a5cc3e3fc9480eda4c8a1db61623883cd4eabfd09e2772ce72460d4daf261320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-30-visera-plana",
+  "nombre": "LAYNER&#039;S 30, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b8f2005cfa7aa7a7b16ecb733f519038887d8ad0a6a8a5c7099cc1a42c314b20320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-29-visera-plana",
+  "nombre": "LAYNER&#039;S 29, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/65dc483d74d7fff98f0f4542c9f987469aa5c452f29f3beed1546fa95a008c18320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-28-visera-plana",
+  "nombre": "LAYNER&#039;S 28, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d4c27bd650d4de53c4c4651af700b87df7034708fd7f1dc8fd79311a9f55b594320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-27-visera-plana",
+  "nombre": "LAYNER&#039;S 27, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/da35a2fe93852562cff1f2146a872891562bb159665a4d60e8542d0314b4cd36320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-26-visera-plana",
+  "nombre": "LAYNER&#039;S 26, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7f3bc5f2a364366821eb03a570896c69a5fee570c6e4b5cb274eb045bf23432e320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-25-visera-plana",
+  "nombre": "LAYNER&#039;S 25, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3428da6372d93a6bd1d7dd0c13ad732704c507ea1cb5d98a23c9cb3f29b446af320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-24-visera-plana",
+  "nombre": "LAYNER&#039;S 24, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/84b18bc6a574a972ca6045e21ea0f398b37c93908b0625e7c7e1de0e57b3ed1b320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-23-visera-plana",
+  "nombre": "LAYNER&#039;S 23, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3ded9fcfeca0bfe684828f33374c545f6bf272d913f866b769c3f6eea2138e55320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-22-visera-plana",
+  "nombre": "LAYNER&#039;S 22, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6d76393337219a403f8312695967014bf680848b6cfd497f415fc1eb121ad12f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-21-visera-plana",
+  "nombre": "LAYNER&#039;S 21, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5ae3ae2cdd94040e79807afc93b39f02f7d5771417944c98f237baed0496aa28320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-20-visera-plana",
+  "nombre": "LAYNER&#039;S 20, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f4c9aeb7bb38eb226be832327203e06b1a019f0046acf3bbc6add7d876384feb320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-19-visera-plana",
+  "nombre": "LAYNER&#039;S 19, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/564d4e30cb1cef7636eecbd08c1e8c8e8121e4a9802b44bc7dbf2a9907897181320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-18-visera-plana",
+  "nombre": "LAYNER&#039;S 18, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f68af4f4cbb8545c27e9148b4dcd4fae81d3beab6d678f2aefce2a4f8aa1fe28320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-17-visera-plana",
+  "nombre": "LAYNER&#039;S 17, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/934d0375dbb2a1cabd35d5613263880deb52d229ce966233a4e025a99167fc03320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-16-visera-plana",
+  "nombre": "LAYNER&#039;S 16, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5f254ed0fb35f852b6911f8edbd26d33f323c4c64c0b40f637b9b7a06629177a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-15-visera-plana",
+  "nombre": "LAYNER&#039;S 15, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e33c294a2e94d0ea0f03caff2bd6c7fc5c660c8f872ed215734c9849f56d17fb320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-13-visera-plana",
+  "nombre": "LAYNER&#039;S 13, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f4d34c31dfcb539146ee6756f903c4a3ff7b10a384ae3b25f9eee4e3f94a08fc320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/rusty/rusty-tela-sarga-terracota",
   "nombre": "RUSTY tela Sarga, TERRACOTA",
   "precio_proveedor": 7500,
@@ -3117,7 +3565,7 @@
   "nombre": "Gabardina Esmerilada NEGRO",
   "precio_proveedor": 6090,
   "stock_disponible": true,
-  "stock_cantidad": 91,
+  "stock_cantidad": 82,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/af5003d36e569c914b5e31254203d00a4b04a4f4b4307f6066055af9c662d15b320487.jpg",
   "categorias": [
@@ -11171,25 +11619,9 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-15-visera-plana",
-  "nombre": "LAYNER&#039;S 15, visera PLANA",
-  "precio_proveedor": 6510,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f277b1d4a74084f99a0bb98432243734a2a123e2119eda1417e28a96018c0dda320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "layners"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-14-visera-plana",
   "nombre": "LAYNER&#039;S 14, visera PLANA",
-  "precio_proveedor": 6510,
+  "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 2,
   "stock_ilimitado": false,
@@ -11203,13 +11635,189 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-11-visera-plana",
+  "nombre": "LAYNER&#039;S 11, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/093ec2ad3c098625441c3ad85f6855c957afce85b1ad598c48ff8a933a3e1655320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-12-visera-plana",
   "nombre": "LAYNER&#039;S 12, visera PLANA",
-  "precio_proveedor": 6510,
+  "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/770614e792e27715cc106c0af1dd750d1f9709291ceefd9d2e430375c5cd19b8320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-10-visera-plana",
+  "nombre": "LAYNER&#039;S 10, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6b63b3602fb4960c236a296f212e8a91e7daf2418feafec0c2d3cc598d357b5e320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-9-visera-plana",
+  "nombre": "LAYNER&#039;S 9, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6826aae87d7570f9cdcb1e10fcac7a1ddf3aca35bd9ae0de6770d725b82f1d4a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-8-visera-plana",
+  "nombre": "LAYNER&#039;S 8, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a69f7552a6900b879cb427963ac089853ea5817e227e6006fbb44254669c0026320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-7-visera-plana",
+  "nombre": "LAYNER&#039;S 7, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a234cea5810239b16ea14bec3a3fa40e8e89c60e555d9968a4dc50635c7b32fd320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-6-visera-plana",
+  "nombre": "LAYNER&#039;S 6, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7e304ad0f27faba9acea6a134c2463c01763e0a98d63ba77957e0cf8bae79790320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-5-visera-plana",
+  "nombre": "LAYNER&#039;S 5, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d0c70e69debb1ad31d963208fb283d6bb940b5a636f71355d21c95566948556a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-4-visera-plana",
+  "nombre": "LAYNER&#039;S 4, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b925aa9e2ecf401828e67d0a24ba85880c3f728f5cb139cc39d6392385d5eea1320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-3-visera-plana",
+  "nombre": "LAYNER&#039;S 3, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fb6458b638b420cbfed8e19015fd24ba36acfd47dd4ed6bed4c068968912d2e6320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-2-visera-plana",
+  "nombre": "LAYNER&#039;S 2, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/51241ecaa2af7594b4803022785e67d894bc039b46a9e3ebcee6373ec3f0a33c320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "layners"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-1-visera-plana",
+  "nombre": "LAYNER&#039;S 1, visera PLANA",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a46bf28ead346d7aebbd9270bc1f6a08fa3399190b132b4bd722ab6efe1a07df320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -13712,7 +14320,7 @@
   "nombre": "Vintage Lisa CAQUI",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 23,
+  "stock_cantidad": 16,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
@@ -15491,7 +16099,7 @@
   "nombre": "Vintage Lisa MARRÓN CLARO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 324,
+  "stock_cantidad": 267,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/726bc0f703d4fe9aada354d6e41332fcacc842e7c13c81f81ea8eb526ce382fe320487.jpg",
   "categorias": [
@@ -15523,7 +16131,7 @@
   "nombre": "Vintage Lisa MOSTAZA",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 473,
+  "stock_cantidad": 495,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a70ccd9b8a22f9e3094bf138c420bf681fed1f5be49f54f0d80e1d5a27e2fbc6320487.jpg",
   "categorias": [
@@ -15686,22 +16294,6 @@
   "stock_cantidad": 113,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage-lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-gris-claro",
-  "nombre": "Vintage Lisa GRIS CLARO",
-  "precio_proveedor": 3600,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/143804253895e260b81a8f0457d63fafe4aef191fa9c41ddcbd3f968dc806105320487.jpg",
   "categorias": [
    "verano",
    "adulto",
