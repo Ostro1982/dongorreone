@@ -4,7 +4,7 @@
   "nombre": "LAYNER&#039;S 41, visera PLANA",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/303f2830d98e4af6be53c982797e893ed4e13e6e8c4917c89fffaed0bcd5a4e7320487.jpg",
   "categorias": [
@@ -151,22 +151,6 @@
   "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f26f2fc2148dd59a54c73b391be609129bde1bb0b58e248fa7578ef0635c604e320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "layners"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/layners-31-visera-plana",
-  "nombre": "LAYNER&#039;S 31, visera PLANA",
-  "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/637a5cc3e3fc9480eda4c8a1db61623883cd4eabfd09e2772ce72460d4daf261320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -520,7 +504,7 @@
   "nombre": "LA, Los Ángeles, tela Sarga, GRIS",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2a27ec79f37539f125b0237ff66ec7cf99f2121cdf85b3b8cd70dfdc236d8080320487.jpg",
   "categorias": [
@@ -673,7 +657,7 @@
   "nombre": "NY, Yankees, tela Sarga, NEGRO",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 16,
+  "stock_cantidad": 15,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7b66e31d312dc33803273e594a73c0b3a602c2efbe824c7fe0a3549ced657c55320487.jpg",
   "categorias": [
@@ -707,7 +691,7 @@
   "nombre": "NY, Yankees, tela Sarga, MARRÓN",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0ea309b823b707f3c33454db1a08e42daaa153066e6b207c893127fb540dfa7f320487.jpg",
   "categorias": [
@@ -2267,7 +2251,7 @@
   "nombre": "Made in mato 23",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/37636f44c8e6fcc515ac5a19b28841ea6991f0934544c52d8fe739e94c60fef8320487.jpg",
   "categorias": [
@@ -2315,7 +2299,7 @@
   "nombre": "Made in mato 16",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4512c8f368d476bab9d9d0f3949faed0b1a91b387d9507c08a30d55df9f0725e320487.jpg",
   "categorias": [
@@ -2379,7 +2363,7 @@
   "nombre": "MADE IN MATO 12",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5497f4b6c026b504fce0b381778501e60cd8f5dbce7d38fa301dbcfa61968c27320487.jpg",
   "categorias": [
@@ -8682,7 +8666,7 @@
   "nombre": "FERRARI 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6718cb8579201d8fbb8523d5dc7a8aa169f586312b444c845697af20f8cde742320487.jpg",
   "categorias": [
@@ -8698,7 +8682,7 @@
   "nombre": "MERCEDES BENZ 3",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/22200f97c6bc7cfc61e8c3ba65e72f0b84cc1b536e40ecafaf3e60aa832692cc320487.jpg",
   "categorias": [
@@ -8842,7 +8826,7 @@
   "nombre": "TRUCKER Infantil Marcas, Modelo 18",
   "precio_proveedor": 6100,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cbc9b5ebf0aa633edca0892bd098950a2cbf914b8b72aff8ab8b8194a331a560320487.jpg",
   "categorias": [
@@ -8874,7 +8858,7 @@
   "nombre": "TRUCKER Infantil Marcas, Modelo 1",
   "precio_proveedor": 6100,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7717f124c6af209705206364d143521638acffff310f2ebb81dad9d529b4b68d320487.jpg",
   "categorias": [
@@ -14320,7 +14304,7 @@
   "nombre": "Vintage Lisa CAQUI",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 16,
+  "stock_cantidad": 15,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
@@ -16115,7 +16099,7 @@
   "nombre": "Vintage Lisa CREMA",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1534,
+  "stock_cantidad": 1533,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d1f7385771c22a8332c3dbd2594077fc1abbdface8a004dea20f0f9176a14f36320487.jpg",
   "categorias": [
@@ -16163,7 +16147,7 @@
   "nombre": "Vintage Lisa VERDE OSCURO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 517,
+  "stock_cantidad": 516,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fd775ab661b7b77e4bd5fb3c9cf53aceb4e9701e28134adb8a91a56a9237ca90320487.jpg",
   "categorias": [
@@ -16179,7 +16163,7 @@
   "nombre": "Vintage Lisa VERDE",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1045,
+  "stock_cantidad": 1044,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/207f06e32e65c5127c3c99edb1c255ffb2e8c7de13209ded67c00d7713fbb909320487.jpg",
   "categorias": [
@@ -16259,7 +16243,7 @@
   "nombre": "Vintage Lisa AZUL JEAN",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 142,
+  "stock_cantidad": 141,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
@@ -16291,7 +16275,7 @@
   "nombre": "Vintage Lisa NEGRO",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 113,
+  "stock_cantidad": 112,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
@@ -16844,7 +16828,7 @@
   "nombre": "Gabardina Corte Army Infantil BEAUTY",
   "precio_proveedor": 4200,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/040e9598120e122a84a669a3c28be5aa1c886ce5ead61460dd9057cd01506b12320487.jpg",
   "categorias": [
@@ -16892,7 +16876,7 @@
   "nombre": "Gabardina Infantil PRETTY MUSIC",
   "precio_proveedor": 4200,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4f75c8dc1537debf8147ecf675a71a7664dbadf2846db2c70fe13f206b7e8385320487.jpg",
   "categorias": [
@@ -17228,7 +17212,7 @@
   "nombre": "Vintage Combinada",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 161,
+  "stock_cantidad": 160,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3fe9d123469f11e5b35a1388ae3df048ec8f419833440224e0ee12e00962325b320487.png",
   "categorias": [
