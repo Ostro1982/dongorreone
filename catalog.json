@@ -1,5 +1,190 @@
 [
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-gris-plateado-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Gris Plateado - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fd565ba6a0c50231d95fcf0eaaaec19f7ed435f88242b2f43bc2b8b1263d5507320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-negro-cblanco-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Negro c/blanco - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7ec183738f893f5d406d33d2badcdae2671b5491216bd935b483290543f34aa0320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-azul-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Azul - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2861972dec5b059045c9a90e98f6bdddd0817ea7f18366c37fb6ba0b25742a83320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-arena-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Arena - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a1fb8d5876bc5aba071c9242d8dce7f9e13e779557b7982a88f2d87007f54267320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-verde-ocre-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Verde Ocre - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/913ccc8845a2f5fd8ed237f21c3735c2f265f425ba92fe040af2430e7dc7eeed320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-negro-cnegro-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Negro c/negro - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c68ce4f099de1cf9a9f49da24232b1a7cf465a0f775f007abc34d7d1e8756cfb320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-blanco-por-mayor",
+  "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Blanco - Por Mayor",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a1aece1b417ec3167a97dddaf950fe756c1795019da08f72149c618f12e34808320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "nike"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-rosa-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Rosa Lisa Desgastada - Por Mayor",
+  "precio_proveedor": 3600,
+  "stock_disponible": true,
+  "stock_cantidad": 10,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7d00434b120d6089a637698e931b47800b6de4cf9de57f96f7ee1f9b406cd93f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "vintage"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-lila-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Lila Lisa Desgastada - Por Mayor",
+  "precio_proveedor": 3600,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/047cd059d66bac014c6071a1ab268bf6a7b8bdd86138a3eb8fbaaa775df4af8a320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "vintage"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/gorra-la-dodgers-cerrada-negro-cblanco",
+  "nombre": "Gorra LA Dodgers Cerrada Negro c/blanco",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69bd8c73790558c8e1346f92e52cf741bc101b9c6c64acacfe1ee9cebba78564320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "la"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-new-era-cerrada-negro-cnegro",
+  "nombre": "Gorra NY New Era Cerrada Negro c/negro",
+  "precio_proveedor": 7000,
+  "stock_disponible": true,
+  "stock_cantidad": 8,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/85a366e696af46a37eba847a006aeedf334b83c33e8dfcb5847a71d367873a74320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/the-farmer/gorra-the-farmer-trucker-mod-1",
   "nombre": "Gorra The Farmer Trucker Mod 1",
   "precio_proveedor": 8000,
@@ -865,7 +1050,7 @@
   "nombre": "NY, Yankees, tela Sarga, CREMA",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d368392732ad0e03b884cd479817d45c1ecf01b8fe173c63990a0ce5101236e0320487.jpg",
   "categorias": [
@@ -1493,8 +1678,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/estilo-ciclista/estilo-ciclista-mod-114",
   "nombre": "ESTILO CICLISTA Mod. 114",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/91f664f24069c9888255b8ffc4288d3e3e9d0e5f4e22127498d757b08c092632320487.jpg",
   "categorias": [
@@ -1681,7 +1866,7 @@
   "nombre": "Jordan Flex aplique chico modelo 5",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9c0c8ba489f277e23b5c0868d427369373fb0ffd7a136a23f8d7a1c0d7028556320487.jpg",
   "categorias": [
@@ -1748,8 +1933,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/jordan-flex-aplique-chico-modelo-1",
   "nombre": "Jordan Flex aplique chico modelo 1",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f3a5d7af2085ea8196fb14daf4f8f3969e4ed2b02e86499b23072be19e85702f320487.jpg",
   "categorias": [
@@ -2555,7 +2740,7 @@
   "nombre": "NY BORDO Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c664e9491167a65f0c4e79111b1d836d09fcd55a0473dd1d43df016ea9fbaf1b320487.jpg",
   "categorias": [
@@ -2589,7 +2774,7 @@
   "nombre": "NY MARRÓN Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fa31f494a28c3a1208285ad19d0bceeb82edf75e5d3869b0583ce8a185b4e7c2320487.jpg",
   "categorias": [
@@ -2606,7 +2791,7 @@
   "nombre": "JORDAN CELESTE Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/023facb7ede2584b88e5ab8017f28798f30a7744be59b2686bf9e75dbef307fa320487.jpg",
   "categorias": [
@@ -2673,7 +2858,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill BLANCO",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d980f1e16535fc3dc5a5949657486e496b0ed852caf98f885639c1295fa3d0c1320487.jpg",
   "categorias": [
@@ -3567,8 +3752,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ayrton-senna/ayrton-senna-5",
-  "nombre": "AYRTON SENNA 5",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ayrton-senna/gorra-auto-ayrton-senna-mod-5",
+  "nombre": "Gorra Auto Ayrton Senna Mod 5",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 4,
@@ -3584,8 +3769,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ayrton-senna-2",
-  "nombre": "AYRTON SENNA 2",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-ayrton-senna-mod-2",
+  "nombre": "Gorra Auto Ayrton Senna Mod 2",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 8,
@@ -3600,8 +3785,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/porsche/porsche-1",
-  "nombre": "PORSCHE 1",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/porsche/gorra-auto-porsche-mod-1",
+  "nombre": "Gorra Auto Porsche Mod 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -3617,8 +3802,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/red-bull-3-moto",
-  "nombre": "RED BULL 3 moto",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-red-bull-mod-3",
+  "nombre": "Gorra Moto Red Bull Mod 3",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -3633,8 +3818,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/alpinestars-4",
-  "nombre": "ALPINESTARS 4",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-alpinestars-mod-4",
+  "nombre": "Gorra Moto Alpinestars Mod 4",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -4353,8 +4538,42 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/red-bull/red-bull-plana-moto-5",
-  "nombre": "RED BULL, Plana, moto 5",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/fox/gorra-moto-fox-mod-2",
+  "nombre": "Gorra Moto FOX Mod 2",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 4,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cb624d861dc04eaae6123958d9d6ea548a7d438418dd4e0386aef901209f4ab7320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "moto",
+   "fox"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/fox/gorra-moto-fox-mod-1",
+  "nombre": "Gorra Moto FOX Mod 1",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0fc21ab51200ea947bc2b6e34b304678532edd00faefe59e89030e1b2d5bbf25320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "moto",
+   "fox"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/red-bull/gorra-moto-red-bull-plana-mod-5",
+  "nombre": "Gorra Moto Red Bull Plana Mod 5",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 4,
@@ -4364,7 +4583,7 @@
    "verano",
    "adulto",
    "gorras",
-   "auto",
+   "moto",
    "red-bull"
   ],
   "categoria_principal": "gorras"
@@ -4476,7 +4695,7 @@
   "nombre": "LACOSTE, Ripstop, Mod 4",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9613b195130d2af796837e43f8eafd7cac33795ef96142122e6b71147846fde8320487.jpg",
   "categorias": [
@@ -4591,8 +4810,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ayrton-senna-1",
-  "nombre": "AYRTON SENNA 1",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-ayrton-senna-mod-1",
+  "nombre": "Gorra Auto Ayrton Senna Mod 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 2,
@@ -6884,7 +7103,7 @@
   "nombre": "ESTILO CICLISTA Mod. 77",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a155c125f79af28b085c7d73acb06d8d4622565f4be24c0eb0ad4f948a0cc556320487.jpg",
   "categorias": [
@@ -7594,7 +7813,7 @@
   "nombre": "NY (BOLA) Celeste",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69bc975a2b823d27dc42b7157e1ea081eb818da8482b6531c8b0c4dd5c1ea08d320487.jpg",
   "categorias": [
@@ -7607,8 +7826,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/bmw-2",
-  "nombre": "BMW 2",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-bmw-mod-2",
+  "nombre": "Gorra Auto BMW Mod 2",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -7803,6 +8022,38 @@
    "gorras",
    "deportivas",
    "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-ford-mod-1",
+  "nombre": "Gorra Auto Ford Mod 1",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e0e2bf885c79b513765be6b16c4552f65d775f6ad775d534fc998d94821a7c1d320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "auto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/camion/gorra-camion-ford-mod-1",
+  "nombre": "Gorra Camión Ford Mod 1",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e122027bd3ba7fa86cce2dd040e59841323830c4276785a3137dd5137dd28b14320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "camion"
   ],
   "categoria_principal": "gorras"
  },
@@ -8163,7 +8414,7 @@
   "nombre": "ADIDAS NEGRO plumas Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1d2f9cbb5735280e2f8a93259318c426445a21ae4564e1746cec565bf00ad10b320487.jpg",
   "categorias": [
@@ -8346,8 +8597,40 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/bmw-4",
-  "nombre": "BMW 4",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/camion/gorra-camion-man",
+  "nombre": "Gorra Camión MAN",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 12,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/53152c17156982080656cc498137dc1e9df9383bb6e209387b021b82c55fa6fa320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "camion"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-ferrari-auto-trucker-mod-1",
+  "nombre": "Gorra Ferrari Auto Trucker Mod 1",
+  "precio_proveedor": 7500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b9d7918e06456ad7e433ed2e6453ed778462b1881678b81433c4dbe869c4a652320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "auto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-bmw-mod-4",
+  "nombre": "Gorra Auto BMW Mod 4",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -8362,8 +8645,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/bmw-5",
-  "nombre": "BMW 5",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-bmw-mod-5",
+  "nombre": "Gorra Auto BMW Mod 5",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -8474,8 +8757,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/caterpillar-5",
-  "nombre": "CATERPILLAR 5",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/gorra-maquinaria-caterpillar-mod-5",
+  "nombre": "Gorra Maquinaria Caterpillar Mod 5",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 2,
@@ -8490,8 +8773,40 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/ducati-3",
-  "nombre": "DUCATI 3",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-harley-davidson-mod-2",
+  "nombre": "Gorra Moto Harley Davidson Mod 2",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 1,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cf9ba4043bae2433d910c5935f11923024e842e08ab9de364371be0c2ab0cba9320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "moto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-harley-davidson-mod-1",
+  "nombre": "Gorra Moto Harley Davidson Mod 1",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/68aface58d71b25ef7db6a35f8817108bd4a80ba59850c4aa24bd96444bb707f320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "moto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-ducati-mod-3",
+  "nombre": "Gorra Moto Ducati Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -8506,8 +8821,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/ktm-6",
-  "nombre": "KTM 6",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-ktm-mod-6",
+  "nombre": "Gorra Moto KTM Mod 6",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 2,
@@ -8873,7 +9188,7 @@
   "nombre": "NY, New Era, BEIGE LINO c/COBRE",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b58b8f0d440631282619d67ec26f69e53972323c9977f928995bf716dbdbbb24320487.jpg",
   "categorias": [
@@ -9650,7 +9965,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, NY YANKEES NEGRO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1d5cd9983b6947e3bde3c44dd24a6b4f32c8e98db99f747e65455895627586ce320487.jpg",
   "categorias": [
@@ -9954,8 +10269,24 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/ktm-5",
-  "nombre": "KTM 5",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-triumph",
+  "nombre": "Gorra Moto Triumph",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 2,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0a61ca7782eb5be21ceb88d2e9dae48415372bcb7d909d1e6b837d4d7fed2222320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "moto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-ktm-mod-5",
+  "nombre": "Gorra Moto KTM Mod 5",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -10185,8 +10516,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-pardo",
-  "nombre": "Vintage Lisa PARDO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-pardo-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Pardo Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 314,
@@ -10196,13 +10527,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-durazno",
-  "nombre": "Vintage Lisa DURAZNO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-durazno-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Durazno Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 204,
@@ -10212,7 +10543,7 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
@@ -10459,7 +10790,7 @@
   "nombre": "ESTILO CICLISTA Mod. 15",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 15,
+  "stock_cantidad": 14,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/35469b906c992fbf2eaeb6b28d30a8ef5545503ffa6249408795d35ea50295a3320487.jpg",
   "categorias": [
@@ -11581,8 +11912,8 @@
   "categoria_principal": "gorros"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/ayrton-senna-3",
-  "nombre": "AYRTON SENNA 3",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-ayrto-senna-mod-3",
+  "nombre": "Gorra Auto Ayrto Senna Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -11597,8 +11928,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/ducati-2",
-  "nombre": "DUCATI 2",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-ducati-mod-2",
+  "nombre": "Gorra Moto Ducati Mod 2",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 5,
@@ -11617,7 +11948,7 @@
   "nombre": "CERRADA Atrás, FLEX INFANTIL Modelo 7",
   "precio_proveedor": 6195,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7c6aed62564aed5c8d478529c3f52f0f0b1abe0586d3f44c40ee891e107fb50d320487.jpg",
   "categorias": [
@@ -13847,8 +14178,8 @@
   "categoria_principal": "cuello"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-caqui",
-  "nombre": "Vintage Lisa CAQUI",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-caqui-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Caqui Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 19,
@@ -13858,13 +14189,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/mercedes-benz-8",
-  "nombre": "MERCEDES BENZ 8",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-mercedes-benz-mod-8",
+  "nombre": "Gorra Auto Mercedes Benz Mod 8",
   "precio_proveedor": 6300,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -15418,8 +15749,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/caterpillar-3",
-  "nombre": "CATERPILLAR 3",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/gorra-maquinaria-caterpillar-mod-3",
+  "nombre": "Gorra Maquinaria Caterpillar Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 5,
@@ -15434,8 +15765,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/caterpillar-2",
-  "nombre": "CATERPILLAR 2",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/gorra-maquinaria-caterpillar-mod-2",
+  "nombre": "Gorra Maquinaria Caterpillar Mod 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 11,
@@ -15450,8 +15781,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/caterpillar-1",
-  "nombre": "CATERPILLAR 1",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/gorra-maquinaria-caterpillar-mod-1",
+  "nombre": "Gorra Maquinaria Caterpillar Mod 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 5,
@@ -15466,8 +15797,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/camion/scania-1",
-  "nombre": "SCANIA 1",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/camion/gorra-camion-scania-mod-1",
+  "nombre": "Gorra Camión SCANIA Mod 1",
   "precio_proveedor": 7500,
   "stock_disponible": true,
   "stock_cantidad": 4,
@@ -15482,8 +15813,24 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/volvo-2",
-  "nombre": "VOLVO 2",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-volvo-mod-1",
+  "nombre": "Gorra Auto Volvo Mod 1",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 5,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7e6737444b46277930d1a1c6f8272d3d48cf8a40c024063cdca0167308fb4235320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "auto"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-volvo-mod-2",
+  "nombre": "Gorra Auto Volvo Mod 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 2,
@@ -15498,8 +15845,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/volvo-3",
-  "nombre": "VOLVO 3",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-volvo-mod-3",
+  "nombre": "Gorra Auto Volvo Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -15514,8 +15861,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/repsol-2",
-  "nombre": "REPSOL 2",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-repsol-mod-2",
+  "nombre": "Gorra Moto Repsol Mod 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 6,
@@ -15530,8 +15877,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/46-rossi-1",
-  "nombre": "46 ROSSI 1",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-46-rossi-mod-1",
+  "nombre": "Gorra Moto 46 Rossi Mod 1",
   "precio_proveedor": 6300,
   "stock_disponible": true,
   "stock_cantidad": 6,
@@ -15546,8 +15893,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-rosa-viejo",
-  "nombre": "Vintage Lisa ROSA VIEJO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-rosa-viejo-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Rosa Viejo Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 10,
@@ -15557,29 +15904,29 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-rojo",
-  "nombre": "Vintage Lisa ROJO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-rojo-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Rojo Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 10,
   "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/774325b2806f6812e6cf130353212f7735844142f1cff72999db7d4c6dd3888c320487.jpg",
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3540e7ffc0002e92cddc482065c07f91e89f5bea2cbaab2e2c651216ac89dd79320487.jpg",
   "categorias": [
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-bordo",
-  "nombre": "Vintage Lisa BORDO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-bordo-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Bordó Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 85,
@@ -15589,13 +15936,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-marron-claro",
-  "nombre": "Vintage Lisa MARRÓN CLARO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-marron-claro-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Marrón Claro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 267,
@@ -15605,13 +15952,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-crema",
-  "nombre": "Vintage Lisa CREMA",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-crema-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Crema Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 1528,
@@ -15621,13 +15968,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-mostaza",
-  "nombre": "Vintage Lisa MOSTAZA",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-mostaza-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Mostaza Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 489,
@@ -15637,13 +15984,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-naranja",
-  "nombre": "Vintage Lisa NARANJA",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-naranja-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Naranja Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 28,
@@ -15653,13 +16000,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-verde-oscuro",
-  "nombre": "Vintage Lisa VERDE OSCURO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-verde-oscuro-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Verde Oscuro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 516,
@@ -15669,13 +16016,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-verde",
-  "nombre": "Vintage Lisa VERDE",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-verde-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Verde Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 1035,
@@ -15685,13 +16032,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-verde-pasto",
-  "nombre": "Vintage Lisa VERDE PASTO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-verde-pasto-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Verde Pasto Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 209,
@@ -15701,13 +16048,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-verde-agua",
-  "nombre": "Vintage Lisa VERDE AGUA",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-verde-agua-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Verde Agua Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 87,
@@ -15717,29 +16064,29 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-turquesa",
-  "nombre": "Vintage Lisa TURQUESA",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-turquesa-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Turquesa Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 71,
+  "stock_cantidad": 81,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/88b0fabf057fd9ea0de015b332d8cf050b7efb4d67dc8adfee3e5f3a3356b78b320487.jpg",
   "categorias": [
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-azul-jean",
-  "nombre": "Vintage Lisa AZUL JEAN",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-azul-jean-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Azul Jean Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 145,
@@ -15749,13 +16096,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-azul-marino",
-  "nombre": "Vintage Lisa AZUL MARINO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-azul-marino-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Azul Marino Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 45,
@@ -15765,13 +16112,13 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-lisa-negro",
-  "nombre": "Vintage Lisa NEGRO",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-negro-lisa-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Negro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 104,
@@ -15781,7 +16128,7 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  },
@@ -15869,8 +16216,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/colapinto-6",
-  "nombre": "COLAPINTO 6",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-colapinto-mod-6",
+  "nombre": "Gorra Auto Colapinto Mod 6",
   "precio_proveedor": 6500,
   "stock_disponible": true,
   "stock_cantidad": 1,
@@ -16640,8 +16987,8 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage-lisas/vintage-combinada",
-  "nombre": "Vintage Combinada",
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-combinada-desgastada-por-mayor",
+  "nombre": "Gorra Vintage Combinada Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
   "stock_cantidad": 160,
@@ -16651,7 +16998,7 @@
    "verano",
    "adulto",
    "gorras",
-   "vintage-lisas"
+   "vintage"
   ],
   "categoria_principal": "gorras"
  }
