@@ -21,7 +21,7 @@
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Negro c/blanco - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7ec183738f893f5d406d33d2badcdae2671b5491216bd935b483290543f34aa0320487.jpg",
   "categorias": [
@@ -38,7 +38,7 @@
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Azul - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2861972dec5b059045c9a90e98f6bdddd0817ea7f18366c37fb6ba0b25742a83320487.jpg",
   "categorias": [
@@ -55,7 +55,7 @@
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Arena - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a1fb8d5876bc5aba071c9242d8dce7f9e13e779557b7982a88f2d87007f54267320487.jpg",
   "categorias": [
@@ -89,7 +89,7 @@
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Negro c/negro - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c68ce4f099de1cf9a9f49da24232b1a7cf465a0f775f007abc34d7d1e8756cfb320487.jpg",
   "categorias": [
@@ -105,8 +105,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-blanco-por-mayor",
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Blanco - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a1aece1b417ec3167a97dddaf950fe756c1795019da08f72149c618f12e34808320487.jpg",
   "categorias": [
@@ -3110,7 +3110,7 @@
   "nombre": "LA NBA, Plana, Cerrada, Flex AZUL FRANCIA c/BLANCO",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2ed0c0c579cc6abaff0bd7bb5b4f2643f094592f6eeef8ba4b42d91939d2be9b320487.jpg",
   "categorias": [
@@ -3161,7 +3161,7 @@
   "nombre": "LA NBA, Plana, Cerrada, Flex ROJO c/BLANCO",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e35b1ebfebf94bcc10695a877681b4d0e3803c7460b1b1b07600f02392d2252a320487.jpg",
   "categorias": [
@@ -3805,8 +3805,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-red-bull-mod-3",
   "nombre": "Gorra Moto Red Bull Mod 3",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1e8e23862898fb6e4a216673dfd8fbdb794ed1647800846b9afb30260533a090320487.jpg",
   "categorias": [
@@ -4394,7 +4394,7 @@
   "nombre": "CHICAGO THE FINALS 63",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/57697f3530545ebf5cae1c14c699472c87f0f1eda9f685f3c6395d3a7dc99827320487.jpg",
   "categorias": [
@@ -4425,8 +4425,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/chicago-the-finals/chicago-the-finals-56",
   "nombre": "CHICAGO THE FINALS 56",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b92bd6ec6b0b9627741c7c86337fb2b0779791dd08f6b15935ca09a8eef40f46320487.jpg",
   "categorias": [
@@ -4542,7 +4542,7 @@
   "nombre": "Gorra Moto FOX Mod 2",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cb624d861dc04eaae6123958d9d6ea548a7d438418dd4e0386aef901209f4ab7320487.jpg",
   "categorias": [
@@ -4576,7 +4576,7 @@
   "nombre": "Gorra Moto Red Bull Plana Mod 5",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5dd9e86a32f6a69b57cc329f85ec4de0485e1c07e5b7bb46a313f3508811424e320487.jpg",
   "categorias": [
@@ -6673,7 +6673,7 @@
   "nombre": "CHICAGO THE FINALS 38",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a803b6feaed551c781e6de9c0950bc374d5e44dffe452ff78733f3a9eb6f2920320487.jpg",
   "categorias": [
@@ -7634,7 +7634,7 @@
   "nombre": "CHICAGO THE FINALS 16",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f89c71bdd2d271665675c7c1b1b52f904f77b714522de0a75441bd5cbf64b60e320487.jpg",
   "categorias": [
@@ -7650,7 +7650,7 @@
   "nombre": "CHICAGO THE FINALS 15",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/52f540056fc2092468b0c1c02162889ce5bdc1dcd6a518686acc11e2c1c10c0c320487.jpg",
   "categorias": [
@@ -7829,8 +7829,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/auto/gorra-auto-bmw-mod-2",
   "nombre": "Gorra Auto BMW Mod 2",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/48b484cb416394a7e6e06ac19943e2fd6172dec15744e99d2480b2f937ef64be320487.jpg",
   "categorias": [
@@ -8046,7 +8046,7 @@
   "nombre": "Gorra Camión Ford Mod 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e122027bd3ba7fa86cce2dd040e59841323830c4276785a3137dd5137dd28b14320487.jpg",
   "categorias": [
@@ -9222,7 +9222,7 @@
   "nombre": "NY, New Era, CAMUFLADO NATURAL",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5e28a0ee14ac790fe01f723b152b55c6a509315bcf85a1fc00b0d53a2d4c2129320487.jpg",
   "categorias": [
@@ -10705,7 +10705,7 @@
   "nombre": "ESTILO CICLISTA Mod. 10",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/714bfdb627d489411a0c6986a19d0345604b7e71fec03f16e45f087cb8ca4121320487.jpg",
   "categorias": [
@@ -10790,7 +10790,7 @@
   "nombre": "ESTILO CICLISTA Mod. 15",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 13,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/35469b906c992fbf2eaeb6b28d30a8ef5545503ffa6249408795d35ea50295a3320487.jpg",
   "categorias": [
@@ -11045,7 +11045,7 @@
   "nombre": "CERRADA Atrás, Plana, HORNETS 1",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/aa59aa06daf65296f01f90bb6dc5ab96ebbb181d14d036897a88a01e89358b43320487.jpg",
   "categorias": [
@@ -11061,7 +11061,7 @@
   "nombre": "CERRADA Atrás, Plana, CELTICS 2",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/66099efce36a7057777995a6d00491d9789e90c32c0500150f6af2e257d6d6f1320487.jpg",
   "categorias": [
