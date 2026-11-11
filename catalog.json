@@ -21,7 +21,7 @@
   "nombre": "Gorra Alpinestars Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0f398011928f1b5c5d0605d6f694ed70fd783e95111bb2a4195f9dd861b07c57320487.jpg",
   "categorias": [
@@ -314,8 +314,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-trail-plana-pro-dri-fit-arena-por-mayor",
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit  Arena - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a1fb8d5876bc5aba071c9242d8dce7f9e13e779557b7982a88f2d87007f54267320487.jpg",
   "categorias": [
@@ -366,7 +366,7 @@
   "nombre": "Gorra Vintage Rosa Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7d00434b120d6089a637698e931b47800b6de4cf9de57f96f7ee1f9b406cd93f320487.jpg",
   "categorias": [
@@ -382,7 +382,7 @@
   "nombre": "Gorra Vintage Lila Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/047cd059d66bac014c6071a1ab268bf6a7b8bdd86138a3eb8fbaaa775df4af8a320487.jpg",
   "categorias": [
@@ -448,7 +448,7 @@
   "nombre": "Gorra The Farmer Trucker Mod 2 - Por Mayor",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f319380f3a96c29e86dbbcdab5383e5a819ca3acd9c806f1112a2ce2a2eeaee3320487.jpg",
   "categorias": [
@@ -693,7 +693,7 @@
   "nombre": "Gorra Fé Bordada Trucker Mod 17 - Por Mayor",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e04f7d3d393fc931574d372a6e62758e5d2b7e9362cd937fbf9a1e83d2708316320487.jpg",
   "categorias": [
@@ -3322,7 +3322,7 @@
   "nombre": "TRUCKER Goma Espuma, 5 Paneles BORDO",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 26,
+  "stock_cantidad": 25,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1068c7a7e91d843a786e445628a3b9af86af813a034751a40e9de5449b669e85320487.jpg",
   "categorias": [
@@ -3337,8 +3337,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-azul-marino",
   "nombre": "TRUCKER Goma Espuma, 5 Paneles AZUL MARINO",
   "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a80ffd100375ee4897b8e3c954e36f834fcb3e8043f39618ce6830b52cb9735c320487.jpg",
   "categorias": [
@@ -3385,8 +3385,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/trucker/trucker-goma-espuma-5-paneles-negro",
   "nombre": "TRUCKER Goma Espuma, 5 Paneles NEGRO",
   "precio_proveedor": 2625,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c34f25423545f9de5185add48be9e6c615e7d9fdd5bc37d49e25829b6c41445a320487.jpg",
   "categorias": [
@@ -3418,7 +3418,7 @@
   "nombre": "Poliéster Lisa, 5 Paneles, con Velcro AZUL",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4198de39701068b4769915a1af37700f3b962b3d9c3c1fe76a45747f26459100320487.jpg",
   "categorias": [
@@ -3434,7 +3434,7 @@
   "nombre": "Poliéster Lisa, 5 Paneles, con Velcro ROSA",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b1e347ec120d271e4271a5b1ea70936deec712af2c2e076941a8e0c286ded7ba320487.png",
   "categorias": [
@@ -3514,7 +3514,7 @@
   "nombre": "Poliéster Lisa, 6 Paneles, con Velcro BLANCO",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5cf0a63746e9e4a034bdc98cc836510d24ef2c31a1d45bc6b85fe81d8d543ef320487.png",
   "categorias": [
@@ -3530,7 +3530,7 @@
   "nombre": "Poliéster Lisa, 6 Paneles, con Velcro NEGRO",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/287865d402a37f0cb74b345dce1b7f53ff790aa2802a0355c53f6e9a069c36ff320487.png",
   "categorias": [
@@ -3546,7 +3546,7 @@
   "nombre": "Poliéster Lisa, 6 Paneles, con hebilla VERDE",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 17,
+  "stock_cantidad": 16,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5e1a27729ff5a4982da422e1a8d7d110e9d2700d4d5fcc1038728f6c5e06c333320487.png",
   "categorias": [
@@ -3562,7 +3562,7 @@
   "nombre": "Poliéster Lisa, 6 Paneles, con hebilla ROJO",
   "precio_proveedor": 2625,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6f5376275c362a5eda44e08ba9954a03c2bf9308777f71f0789ec852691bbb58320487.png",
   "categorias": [
@@ -3578,7 +3578,7 @@
   "nombre": "Gabardina Esmerilada NEGRO",
   "precio_proveedor": 4500,
   "stock_disponible": true,
-  "stock_cantidad": 84,
+  "stock_cantidad": 83,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/af5003d36e569c914b5e31254203d00a4b04a4f4b4307f6066055af9c662d15b320487.jpg",
   "categorias": [
@@ -4573,7 +4573,7 @@
   "nombre": "Gorra Moto FOX Mod 1 - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0fc21ab51200ea947bc2b6e34b304678532edd00faefe59e89030e1b2d5bbf25320487.jpg",
   "categorias": [
@@ -7961,7 +7961,7 @@
   "nombre": "Gorra Auto Ford Mod 1 - Por Mayor",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e0e2bf885c79b513765be6b16c4552f65d775f6ad775d534fc998d94821a7c1d320487.jpg",
   "categorias": [
@@ -8739,8 +8739,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/gorra-moto-harley-davidson-mod-2-por-mayor",
   "nombre": "Gorra Moto Harley Davidson Mod 2 - Por Mayor",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cf9ba4043bae2433d910c5935f11923024e842e08ab9de364371be0c2ab0cba9320487.jpg",
   "categorias": [
@@ -9799,7 +9799,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, HORNETS VIOLETA / CELESTE",
   "precio_proveedor": 8000,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6424dea054fd64a026c65e9095a89a51c597d139ddff610a63e91421089c83e0320487.jpg",
   "categorias": [
@@ -9815,7 +9815,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, LAKERS VIOLETA / AMARILLO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4ea88ee7b515bf66af04edae1b1e8eb921208318efd1def67f909eeaad04a157320487.jpg",
   "categorias": [
@@ -9879,7 +9879,7 @@
   "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, NY YANKEES GRIS / NEGRO",
   "precio_proveedor": 7875,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2655721c76a8cb776a26b2b5cef25a113bdfd57cfeb8983c067b35f2325eb63d320487.jpg",
   "categorias": [
@@ -10433,7 +10433,7 @@
   "nombre": "Gorra Vintage Pardo Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 297,
+  "stock_cantidad": 296,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/86261d508418ada3aa851fa9712d5acc3cd7d78d2f76664fbea35278e3215798320487.jpg",
   "categorias": [
@@ -14013,7 +14013,7 @@
   "nombre": "Gorra Vintage Caqui Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 13,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
@@ -15776,7 +15776,7 @@
   "nombre": "Gorra Vintage Marrón Claro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 254,
+  "stock_cantidad": 252,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/726bc0f703d4fe9aada354d6e41332fcacc842e7c13c81f81ea8eb526ce382fe320487.jpg",
   "categorias": [
@@ -15792,7 +15792,7 @@
   "nombre": "Gorra Vintage Crema Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1454,
+  "stock_cantidad": 1453,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d1f7385771c22a8332c3dbd2594077fc1abbdface8a004dea20f0f9176a14f36320487.jpg",
   "categorias": [
@@ -15808,7 +15808,7 @@
   "nombre": "Gorra Vintage Mostaza Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 459,
+  "stock_cantidad": 458,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a70ccd9b8a22f9e3094bf138c420bf681fed1f5be49f54f0d80e1d5a27e2fbc6320487.jpg",
   "categorias": [
@@ -15840,7 +15840,7 @@
   "nombre": "Gorra Vintage Verde Oscuro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 479,
+  "stock_cantidad": 478,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fd775ab661b7b77e4bd5fb3c9cf53aceb4e9701e28134adb8a91a56a9237ca90320487.jpg",
   "categorias": [
@@ -15904,7 +15904,7 @@
   "nombre": "Gorra Vintage Turquesa Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 68,
+  "stock_cantidad": 58,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/88b0fabf057fd9ea0de015b332d8cf050b7efb4d67dc8adfee3e5f3a3356b78b320487.jpg",
   "categorias": [
@@ -15920,7 +15920,7 @@
   "nombre": "Gorra Vintage Azul Jean Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 80,
+  "stock_cantidad": 79,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
@@ -15952,7 +15952,7 @@
   "nombre": "Gorra Vintage Negro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 89,
+  "stock_cantidad": 325,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
@@ -16822,7 +16822,7 @@
   "nombre": "Gorra Vintage Combinada Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 159,
+  "stock_cantidad": 157,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3fe9d123469f11e5b35a1388ae3df048ec8f419833440224e0ee12e00962325b320487.png",
   "categorias": [
