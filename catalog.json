@@ -4,7 +4,7 @@
   "nombre": "Gorra Alo Yoga Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cd61c130512e1cd994fdd14a256bfa22bf3b67f24d839cc02f7f866168b03d2e320487.jpg",
   "categorias": [
@@ -21,7 +21,7 @@
   "nombre": "Gorra Alo Yoga Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8eb417da18692bdf382a4dd4f17e50f984c723c817e338a7b458be8653011df2320487.jpg",
   "categorias": [
@@ -64,40 +64,6 @@
    "gorras",
    "marca-ropa-y-diseno",
    "the-north-face"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/vans/gorra-vans-tela-sarga-verde-por-mayor",
-  "nombre": "Gorra Vans Tela Sarga Verde - Por Mayor",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b5e34b2a7fba641d46199eddd65240ac564bf8fce87c13533173fa4b8cfef606320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "marca-ropa-y-diseno",
-   "vans"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/vans/gorra-vans-tela-sarga-beige-por-mayor",
-  "nombre": "Gorra Vans Tela Sarga Beige - Por Mayor",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/012153360d541c3fa4f5863acbec7db4dc1c10f94aa1edbfb6805d2585cef868320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "marca-ropa-y-diseno",
-   "vans"
   ],
   "categoria_principal": "gorras"
  },
@@ -208,7 +174,7 @@
   "nombre": "Gorra NY Yankees Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/45bef22fd68bb44abc6b842d0648e0743dcc84f3945be3b16bec85d72ee0f60c320487.jpg",
   "categorias": [
@@ -228,23 +194,6 @@
   "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ec1b32b5d96a10828bc7d7562b4b5ded289d86c9dd4cf32ecd82354293c45aaf320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "moto",
-   "alpinestars"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/alpinestars/gorra-alpinestars-tela-sarga-marron-por-mayor",
-  "nombre": "Gorra Alpinestars Tela Sarga Marrón - Por Mayor",
-  "precio_proveedor": 7500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/98f1c5c19b52af9a5bcbea15f041cf473b845df88edddc9998cc0eb334467766320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -409,7 +358,7 @@
   "nombre": "Gorra Rip Curl Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/42440f65c62337ed10cc27bf6f195a114cd9508a2445f751841e3aff704c8b22320487.jpg",
   "categorias": [
@@ -596,22 +545,6 @@
    "gorras",
    "deportivas",
    "nike"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-rosa-lisa-desgastada-por-mayor",
-  "nombre": "Gorra Vintage Rosa Lisa Desgastada - Por Mayor",
-  "precio_proveedor": 3600,
-  "stock_disponible": true,
-  "stock_cantidad": 5,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7d00434b120d6089a637698e931b47800b6de4cf9de57f96f7ee1f9b406cd93f320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage"
   ],
   "categoria_principal": "gorras"
  },
@@ -830,7 +763,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 20 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/23d25d0785a8fabd5b95ad5caa56d15784d39853384945c99aa74a616117ecd0320487.jpg",
   "categorias": [
@@ -913,7 +846,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 15 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/bf8612f8b7d3f162f12ef16202ec309bbc2dc3ea9acf927e84edcf107a53a9cd320487.jpg",
   "categorias": [
@@ -930,7 +863,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 13 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c1b76ec667fb15f05c22a63b263b99c39fb65247fb237ea2d84b621970b94e04320487.jpg",
   "categorias": [
@@ -1402,8 +1335,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-yankees-tela-sarga-gris-por-mayor",
   "nombre": "Gorra NY Yankees Tela Sarga Gris - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a0109055e6d904850a43e4f5479992bf6548713de103371cc4dd167eeae8eaf0320487.jpg",
   "categorias": [
@@ -1471,7 +1404,7 @@
   "nombre": "Gorra NY Yankees Tela Sarga Celeste - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/06c9d9303236ba33ed9936c29df739a0decfa0f8a5c5be4cdbfc91231d6ab35b320487.jpg",
   "categorias": [
@@ -1981,7 +1914,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 10 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2264af1dc93b5c358bd496662a5177f07a081ab706fde659d41e29f16342ae76320487.jpg",
   "categorias": [
@@ -1997,8 +1930,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/gorra-jordan-flex-aplique-chico-mod-9-por-mayor",
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 9 - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ac1f2f305d763d8e8f5bcab6395cc64fd7799c345c868efbc61c34794a437437320487.jpg",
   "categorias": [
@@ -2066,7 +1999,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 4 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dc3dc5b62d6178a7337c51732e0905b65592d8dd7b95485277b8911a88c66a37320487.jpg",
   "categorias": [
@@ -2580,8 +2513,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/fe/gorra-fe-bordada-trucker-2",
   "nombre": "Gorra Fé Bordada Trucker 2",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c2993ca6c659fc5bc034718c76c2bd7ab95ce223bd5c01e23cff7bb225253dac320487.jpg",
   "categorias": [
@@ -2612,8 +2545,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/fe/gorra-fe-bordada-trucker-11",
   "nombre": "Gorra Fé Bordada Trucker 11",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/804a5e245962076c828086a222cec599bfe6242bf0dbcb341ff74b45b43be51d320487.jpg",
   "categorias": [
@@ -2706,23 +2639,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-negro-coleccion-especial",
-  "nombre": "NY NEGRO Colección Especial",
-  "precio_proveedor": 3500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fecdf48d1b972afda06b82c0afbe396add8adee74b4c48de7792e5bb03170f44320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-bordo-coleccion-especial",
   "nombre": "NY BORDO Colección Especial",
   "precio_proveedor": 3500,
@@ -2761,7 +2677,7 @@
   "nombre": "NY MARRÓN Colección Especial",
   "precio_proveedor": 3500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fa31f494a28c3a1208285ad19d0bceeb82edf75e5d3869b0583ce8a185b4e7c2320487.jpg",
   "categorias": [
@@ -2876,8 +2792,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/txc/txc-modelo-2",
   "nombre": "TXC Modelo 2",
   "precio_proveedor": 6000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/944851f71c9f14219cf88da6352137b3ef234cb3c4b05b0b39768555804c8995320487.jpg",
   "categorias": [
@@ -2965,23 +2881,6 @@
   "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/21939ac4daac26adc9affcd6c5b5aeabd042e8327ed414ce24ca920a5e6a94ee320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "marca-ropa-y-diseno",
-   "txc"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/txc/txc-modelo-12",
-  "nombre": "TXC Modelo 12",
-  "precio_proveedor": 6000,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1fe771faa349d75a7420de95eda46e149f8bff58dd0c55887d28afff780016ac320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -3389,22 +3288,6 @@
   "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/da63630eb4811c297af6ac50a0e4efabf3b1de8acc249730e1727dbfffa662b6320487.png",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "lisas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/lisas/poliester-lisa-6-paneles-con-velcro-blanco",
-  "nombre": "Poliéster Lisa, 6 Paneles, con Velcro BLANCO",
-  "precio_proveedor": 2625,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5cf0a63746e9e4a034bdc98cc836510d24ef2c31a1d45bc6b85fe81d8d543ef320487.png",
   "categorias": [
    "verano",
    "adulto",
@@ -4142,8 +4025,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/gucci/gucci-mod-6",
   "nombre": "GUCCI Mod 6",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/18ec2e0519349bfd6b75e269ea22f7f4711a97222ea47a20aa482f641548e6c8320487.jpg",
   "categorias": [
@@ -4160,7 +4043,7 @@
   "nombre": "GUCCI Mod 5",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8ff955c9fa19cb665fa382e2ef70657e3474bd1604b2585f23b3f25d1e27c871320487.jpg",
   "categorias": [
@@ -4211,7 +4094,7 @@
   "nombre": "GUCCI Mod 2",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/06abd60a112abc8098709b0dde92e1c27ec696d62eb66b0173e255eef853e1f7320487.jpg",
   "categorias": [
@@ -4228,7 +4111,7 @@
   "nombre": "GUCCI Mod 1",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c12cebd7643998a15dd7eed114078ff86fa604c2f59d52e0d3f6884c5d21b07e320487.jpg",
   "categorias": [
@@ -7503,7 +7386,7 @@
   "nombre": "NY, New Era, VERDE MANZANA c/Azul",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d16793a990fbd88286955f7c87f74d960c423dffc3f64aa62ef596e310b870d3320487.jpg",
   "categorias": [
@@ -7902,23 +7785,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/adidas/adidas-verde-coleccion-especial",
-  "nombre": "ADIDAS VERDE Colección Especial",
-  "precio_proveedor": 3500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5a04368dd83455fc99a325c50783a0d4e3239484071e978fb5a7312589ae05ba320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "adidas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/adidas/adidas-bordo-coleccion-especial",
   "nombre": "ADIDAS BORDO Colección Especial",
   "precio_proveedor": 3500,
@@ -8195,102 +8061,6 @@
    "adulto",
    "gorras",
    "sharecropper"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-marcas-modelo-32",
-  "nombre": "TRUCKER Infantil Marcas, Modelo 32",
-  "precio_proveedor": 6100,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e8538e80103153c44bf7f7ec75ba0a50f497a90cd77e6c697c79592bfeb3942b320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-marcas-modelo-23",
-  "nombre": "TRUCKER Infantil Marcas, Modelo 23",
-  "precio_proveedor": 6100,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/25cb93865c0267e9f9be5f9a6c2dd9f3c16707937e21d2fb3e7a1c4f9010e3c0320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-marcas-modelo-18",
-  "nombre": "TRUCKER Infantil Marcas, Modelo 18",
-  "precio_proveedor": 6100,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/cbc9b5ebf0aa633edca0892bd098950a2cbf914b8b72aff8ab8b8194a331a560320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-marcas-modelo-13",
-  "nombre": "TRUCKER Infantil Marcas, Modelo 13",
-  "precio_proveedor": 6100,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0e5bc327896481606ddaaf03d4dd133494a5334ba25975855a70e32950520f37320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/trucker/trucker-infantil-marcas-modelo-1",
-  "nombre": "TRUCKER Infantil Marcas, Modelo 1",
-  "precio_proveedor": 6100,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7717f124c6af209705206364d143521638acffff310f2ebb81dad9d529b4b68d320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "trucker"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/maquinaria/gorra-maquinaria-caterpillar-mod-5",
-  "nombre": "Gorra Maquinaria Caterpillar Mod 5",
-  "precio_proveedor": 6500,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e1e5c2d5db66a312669ec800e04d809cf18f0282ff3f91b66d08cb24ffa14646320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "maquinaria"
   ],
   "categoria_principal": "gorras"
  },
@@ -8624,11 +8394,28 @@
   "categoria_principal": "gorras"
  },
  {
+  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-beige-lino-ccobre",
+  "nombre": "NY, New Era, BEIGE LINO c/COBRE",
+  "precio_proveedor": 6500,
+  "stock_disponible": true,
+  "stock_cantidad": 3,
+  "stock_ilimitado": false,
+  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b58b8f0d440631282619d67ec26f69e53972323c9977f928995bf716dbdbbb24320487.jpg",
+  "categorias": [
+   "verano",
+   "adulto",
+   "gorras",
+   "deportivas",
+   "ny"
+  ],
+  "categoria_principal": "gorras"
+ },
+ {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/ny-new-era-beige-cbeige",
   "nombre": "NY, New Era, BEIGE c/BEIGE",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dd95b1d84523a5885942205446ade11191d1327fb7ab3d45aeaa90f15aede8dc320487.jpg",
   "categorias": [
@@ -8715,38 +8502,6 @@
   "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7682c5bea1114a2ee365d4dbd5f6ada3f21972d6ca8be6eee99062e9a42f4fec320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "vintage"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/vintage/vintage-infantil-rosa",
-  "nombre": "VINTAGE Infantil ROSA",
-  "precio_proveedor": 3900,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3565072eb2ab6937f5595995d16a63d3e86aa139feca1f57be6dd3acde451316320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "vintage"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/vintage/vintage-infantil-verde-agua",
-  "nombre": "VINTAGE Infantil VERDE AGUA",
-  "precio_proveedor": 3900,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4eeef067e7dd89846a32a08f8ed769747c524d2f012569db7d273e168e2b51c3320487.jpg",
   "categorias": [
    "verano",
    "infantil-bebe",
@@ -8907,22 +8662,6 @@
   "stock_cantidad": 31,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b912ca2b124b4ae6aeed5e3fa90cb694818a485305df9bc9d43ce4abc222ec94320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "gabardina"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/gabardina/gabardina-infantil-marron",
-  "nombre": "GABARDINA Infantil MARRÓN",
-  "precio_proveedor": 4300,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5c9e8eca4523f7989f9d964a17649ac606cf6780c8c58a08a2de1403f4cd0409320487.jpg",
   "categorias": [
    "verano",
    "infantil-bebe",
@@ -9275,22 +9014,6 @@
   "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2655721c76a8cb776a26b2b5cef25a113bdfd57cfeb8983c067b35f2325eb63d320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "cerrada-atras"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/cerrada-atras/cerrada-atras-visera-plana-infantil-flex-ny-yankees-negro",
-  "nombre": "CERRADA Atrás, visera PLANA, INFANTIL, FLEX, NY YANKEES NEGRO",
-  "precio_proveedor": 7875,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1d5cd9983b6947e3bde3c44dd24a6b4f32c8e98db99f747e65455895627586ce320487.jpg",
   "categorias": [
    "verano",
    "infantil-bebe",
@@ -15068,45 +14791,13 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-rosa-viejo-lisa-desgastada-por-mayor",
-  "nombre": "Gorra Vintage Rosa Viejo Lisa Desgastada - Por Mayor",
-  "precio_proveedor": 3600,
-  "stock_disponible": true,
-  "stock_cantidad": 7,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/68d2b29dec04b3863011940616910c305b4704dfc4bcb7aa0948da84761f1ad3320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-rojo-lisa-desgastada-por-mayor",
   "nombre": "Gorra Vintage Rojo Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3540e7ffc0002e92cddc482065c07f91e89f5bea2cbaab2e2c651216ac89dd79320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-bordo-lisa-desgastada-por-mayor",
-  "nombre": "Gorra Vintage Bordó Lisa Desgastada - Por Mayor",
-  "precio_proveedor": 3600,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/b78161f45a5e870c0e3ff52d64d77d18415ce0bb98272256aa847127d0745890320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -15152,7 +14843,7 @@
   "nombre": "Gorra Vintage Mostaza Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 456,
+  "stock_cantidad": 454,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a70ccd9b8a22f9e3094bf138c420bf681fed1f5be49f54f0d80e1d5a27e2fbc6320487.jpg",
   "categorias": [
@@ -15280,7 +14971,7 @@
   "nombre": "Gorra Vintage Azul Marino Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 45,
+  "stock_cantidad": 33,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ecdd9928e4c1aa636883c648e0edd4cadbb2cc054ccf639e275ceae9d10969dc320487.jpg",
   "categorias": [
@@ -15296,7 +14987,7 @@
   "nombre": "Gorra Vintage Negro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 325,
+  "stock_cantidad": 279,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
@@ -15784,22 +15475,6 @@
   "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5051cd5cd1fd062bf6d4c1116d3d050d4f16c904be245f1157512cd665979d8320487.jpg",
-  "categorias": [
-   "verano",
-   "infantil-bebe",
-   "gorras",
-   "estampadas-bordadas"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/estampadas-bordadas/gabardina-infantil-65",
-  "nombre": "Gabardina Infantil 65",
-  "precio_proveedor": 4200,
-  "stock_disponible": false,
-  "stock_cantidad": 0,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/257d75d8dd66f00faf227890dbb0170f493517b2b52d06328d975ab5f3cd460e320487.jpg",
   "categorias": [
    "verano",
    "infantil-bebe",
