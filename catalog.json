@@ -37,8 +37,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/the-north-face/gorra-the-north-face-tela-sarga-verde-por-mayor",
   "nombre": "Gorra The North Face Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/043f7b198f8f7c6bc44562e2ec81a34c3cd7a9c78bc6c97be5bf2256d4355642320487.jpg",
   "categorias": [
@@ -54,8 +54,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/the-north-face/gorra-the-north-face-tela-sarga-beige-por-mayor",
   "nombre": "Gorra The North Face Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/354d53c0f142bed045816a641fccb1ce5b68369988a59460aecd461a0600b463320487.jpg",
   "categorias": [
@@ -71,8 +71,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/vans/gorra-vans-tela-sarga-azul-por-mayor",
   "nombre": "Gorra Vans Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/86e1e442d6dc90a9e340f635e09ed5b0308c855d39d6531087c97c335364e7d1320487.jpg",
   "categorias": [
@@ -88,8 +88,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-tela-sarga-verde-por-mayor",
   "nombre": "Gorra Nike Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f3e0b46e5c2f42623cfcf5efc86d980bbeaac7e495143e75bfc90a0121fdba42320487.jpg",
   "categorias": [
@@ -106,7 +106,7 @@
   "nombre": "Gorra Nike Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/44e7369becf23d55d92ce369db28c0eba4b1968154b8a8bced6bfe3cf9c6f533320487.jpg",
   "categorias": [
@@ -122,8 +122,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-tela-sarga-azul-por-mayor",
   "nombre": "Gorra Nike Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/bdb66ee3639cbeda56bb2b81fad25481b22c4e5ae7d3cba5ebacafba961bf4de320487.jpg",
   "categorias": [
@@ -140,7 +140,7 @@
   "nombre": "Gorra LA Los Ángeles Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/bdefeb44515ecfaf0fa858a76e2259c043677542adeae690a73ae7c6f8a57a3f320487.jpg",
   "categorias": [
@@ -156,8 +156,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-yankees-tela-sarga-azul-por-mayor",
   "nombre": "Gorra NY Yankees Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/60035f8d3dd6aebfca55456d168779b9c4b8f594e71807303e04ab95d1daddb6320487.jpg",
   "categorias": [
@@ -173,8 +173,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-yankees-tela-sarga-verde-por-mayor",
   "nombre": "Gorra NY Yankees Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/45bef22fd68bb44abc6b842d0648e0743dcc84f3945be3b16bec85d72ee0f60c320487.jpg",
   "categorias": [
@@ -242,7 +242,7 @@
   "nombre": "Gorra Alpinestars Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/69d335b59c35a29920b42d647b1752dae4274f6a045170054a276539d6e289de320487.jpg",
   "categorias": [
@@ -293,7 +293,7 @@
   "nombre": "Gorra Alpinestars Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 19,
+  "stock_cantidad": 18,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/39c336277f2e341035ce9fd1c80f14f4aaa5abe3bbdb1399a0319e6f2afcd6ad320487.jpg",
   "categorias": [
@@ -310,7 +310,7 @@
   "nombre": "Gorra Rip Curl Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/26f6e0e00556ae95b8fbfc0a8ef8f49d4057e519fd959d07c984e00a21903616320487.jpg",
   "categorias": [
@@ -326,7 +326,7 @@
   "nombre": "Gorra Rip Curl Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d10733cd33a75150bf4cebad18e33da8251fecb8ad11ff58afdced8371676016320487.jpg",
   "categorias": [
@@ -342,7 +342,7 @@
   "nombre": "Gorra Rip Curl Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8176b2f315ac33e78651105c4ff9f7507f5fdffa3672af708ddd4615ade619e6320487.jpg",
   "categorias": [
@@ -358,7 +358,7 @@
   "nombre": "Gorra Rip Curl Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/42440f65c62337ed10cc27bf6f195a114cd9508a2445f751841e3aff704c8b22320487.jpg",
   "categorias": [
@@ -374,7 +374,7 @@
   "nombre": "Gorra Quiksilver Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/103564b3dc80bd1714da8e058f6f38c8ed1f8270c1927a9a80a75f3137beb784320487.jpg",
   "categorias": [
@@ -390,7 +390,7 @@
   "nombre": "Gorra Quiksilver Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/63a2df6bf423e745f93007e1bab358d669007115a5a4adc9d06a1db8b7d46223320487.jpg",
   "categorias": [
@@ -406,7 +406,7 @@
   "nombre": "Gorra Quiksilver Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6346b23bf2dfdcbd5de9a20bd3189b21f14bc556c1f0bf7541030b9cb191d6a8320487.jpg",
   "categorias": [
@@ -422,7 +422,7 @@
   "nombre": "Gorra Quicksilver Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 16,
+  "stock_cantidad": 12,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/24eee00da6697fe50ba08f85d6220160ad43dd190021e0e7ac87ac69763951ff320487.jpg",
   "categorias": [
@@ -470,7 +470,7 @@
   "nombre": "Gorra Santa Cruz Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 10,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5ff9e6e5cf2f8de1194a9871312b9eb868c547daf2e1d2d04980f82718223a1f320487.jpg",
   "categorias": [
@@ -486,7 +486,7 @@
   "nombre": "Gorra Santa Cruz Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 13,
+  "stock_cantidad": 11,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2b9cf024ff6955f725cb07c041196679453569ace8cbf6ff69007aad9d4605c2320487.jpg",
   "categorias": [
@@ -502,7 +502,7 @@
   "nombre": "Gorra Nike Trail Plana Pro Dri-Fit Azul - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2861972dec5b059045c9a90e98f6bdddd0817ea7f18366c37fb6ba0b25742a83320487.jpg",
   "categorias": [
@@ -552,8 +552,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-lila-lisa-desgastada-por-mayor",
   "nombre": "Gorra Vintage Lila Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/047cd059d66bac014c6071a1ab268bf6a7b8bdd86138a3eb8fbaaa775df4af8a320487.jpg",
   "categorias": [
@@ -762,8 +762,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/gorra-jordan-flex-aplique-chico-mod-20-por-mayor",
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 20 - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/23d25d0785a8fabd5b95ad5caa56d15784d39853384945c99aa74a616117ecd0320487.jpg",
   "categorias": [
@@ -780,7 +780,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 18 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/9a0ca2281b2eb55fc6a237d9f51cd772544a0363714ecff73bf86e00a56c4fa0320487.jpg",
   "categorias": [
@@ -797,7 +797,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 17 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/304d6a3f2ba059bb8ab1de9e5c762e9bc96955f443b8e327ec40bd40d3a6f86e320487.jpg",
   "categorias": [
@@ -862,8 +862,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/gorra-jordan-flex-aplique-chico-mod-13-por-mayor",
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 13 - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c1b76ec667fb15f05c22a63b263b99c39fb65247fb237ea2d84b621970b94e04320487.jpg",
   "categorias": [
@@ -880,7 +880,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 12 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2f73a667b266e67089bad3372d58f22f5c5814a10251e93c3eb10763613b3288320487.jpg",
   "categorias": [
@@ -896,8 +896,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/gorra-jordan-flex-aplique-chico-mod-11-por-mayor",
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 11 - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3c5ac45a34ebb711a27937e6336fd6c6a241c6444cec0bebbb3d7f78750dfa7f320487.jpg",
   "categorias": [
@@ -1234,7 +1234,7 @@
   "nombre": "Gorra Rusty Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 6,
+  "stock_cantidad": 4,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/1cd686138eed6e8c526f45589d28f7ab9e6bcd8f6a40bb427ce81a1f836199a1320487.jpg",
   "categorias": [
@@ -1251,7 +1251,7 @@
   "nombre": "Gorra Rusty Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8dabab34c466e4f7bc0a02d62ed06a0b6b4dd9b373a8f3fa09480d7cf18aec2b320487.jpg",
   "categorias": [
@@ -1268,7 +1268,7 @@
   "nombre": "Gorra Rusty Tela Sarga Verde - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/52f26e3b03aa8bd1f327c2ac65537e4f2cdc94900f966e653e980a4e0d1c3586320487.jpg",
   "categorias": [
@@ -1285,7 +1285,7 @@
   "nombre": "Gorra Rusty Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/60400b407d44ca8b0be2f78c53f463f502b1662143a5927e051ad769515ebb96320487.jpg",
   "categorias": [
@@ -1318,8 +1318,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/la/gorra-la-los-angeles-tela-sarga-crema-por-mayor",
   "nombre": "Gorra LA Los Ángeles Tela Sarga Crema - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c09c1d05292564e2a7334d15448bd098a3aaf2b3a0fd28c5412f2949ba5bc693320487.jpg",
   "categorias": [
@@ -1353,7 +1353,7 @@
   "nombre": "Gorra NY Yankees Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 11,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7b66e31d312dc33803273e594a73c0b3a602c2efbe824c7fe0a3549ced657c55320487.jpg",
   "categorias": [
@@ -1370,7 +1370,7 @@
   "nombre": "Gorra NY Yankees Tela Sarga Crema - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d368392732ad0e03b884cd479817d45c1ecf01b8fe173c63990a0ce5101236e0320487.jpg",
   "categorias": [
@@ -1403,8 +1403,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-yankees-tela-sarga-celeste-por-mayor",
   "nombre": "Gorra NY Yankees Tela Sarga Celeste - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/06c9d9303236ba33ed9936c29df739a0decfa0f8a5c5be4cdbfc91231d6ab35b320487.jpg",
   "categorias": [
@@ -1420,8 +1420,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-yankees-tela-sarga-terracota-por-mayor",
   "nombre": "Gorra NY Yankees Tela Sarga Terracota - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/4244b88f7cc72604bbf6b2a3c0c11c1b3d6c956134f794280c3a4bc73553df2c320487.jpg",
   "categorias": [
@@ -1540,7 +1540,7 @@
   "nombre": "Gorra Nike SB Negro - Por Mayor",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8e8b80bd0959f0b03afeb7d705eeab8189581db44eafbcf27da063d5940b44f3320487.jpg",
   "categorias": [
@@ -1556,8 +1556,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-sb-azul-por-mayor",
   "nombre": "Gorra Nike SB Azul - Por Mayor",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/32f6c41e57644d10cc55c9958a1a53673f814c0dc6cf28980226cdb6ac039d50320487.jpg",
   "categorias": [
@@ -1590,8 +1590,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/nike-semicurva-mod-4",
   "nombre": "NIKE, Semicurva, Mod 4",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/e44f9c4db9534272f53ab276f9745cf772730943015662929f8c107c6ab85ede320487.jpg",
   "categorias": [
@@ -1913,8 +1913,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/gorra-jordan-flex-aplique-chico-mod-10-por-mayor",
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 10 - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2264af1dc93b5c358bd496662a5177f07a081ab706fde659d41e29f16342ae76320487.jpg",
   "categorias": [
@@ -1965,7 +1965,7 @@
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 7 - Por Mayor",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/421cb0438ed8436a2f5bc1b8c508963b508df64c34e5e3f2f2a16b24bde85492320487.jpg",
   "categorias": [
@@ -1998,8 +1998,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/jordan/gorra-jordan-flex-aplique-chico-mod-4-por-mayor",
   "nombre": "Gorra Jordan Flex Aplique Chico Mod 4 - Por Mayor",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/dc3dc5b62d6178a7337c51732e0905b65592d8dd7b95485277b8911a88c66a37320487.jpg",
   "categorias": [
@@ -2744,8 +2744,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/planas/plana-corte-japones-aerobill-negro",
   "nombre": "PLANA, Corte Japonés, Aerobill NEGRO",
   "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0b8f66d60af1bdbea0b37eb79e97a6f903a5cb29d8b3bc13c55c64fc6448e2dd320487.jpg",
   "categorias": [
@@ -2761,7 +2761,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill BLANCO",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 5,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d980f1e16535fc3dc5a5949657486e496b0ed852caf98f885639c1295fa3d0c1320487.jpg",
   "categorias": [
@@ -2777,7 +2777,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill CELESTE",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 9,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6255d3214266fe7616e2cefb08d21d3257985a9cb5814d92d085c7d70ea73f4c320487.jpg",
   "categorias": [
@@ -2827,7 +2827,7 @@
   "nombre": "TXC Modelo 6",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/32b96aaf534552d30469e30f1620a1c2e2c96275829046b0f06198427c9a48e7320487.jpg",
   "categorias": [
@@ -2844,7 +2844,7 @@
   "nombre": "TXC Modelo 8",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 2,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a5b666bfc46b4305998efe8cad512bb28b0d4cb7b174e0fc865e7855ede5b177320487.jpg",
   "categorias": [
@@ -2860,8 +2860,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/marca-ropa-y-diseno/txc/txc-modelo-9",
   "nombre": "TXC Modelo 9",
   "precio_proveedor": 6000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7ac919c660d204e0932ae538411a37b02e09642b81250df8f8aab1ebc60736e9320487.jpg",
   "categorias": [
@@ -7353,7 +7353,7 @@
   "nombre": "TXC Modelo 22",
   "precio_proveedor": 6000,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/087041ec1af543085ee68b2bf1d876c0f09ec3dfee743f149c6df4d96d08e5a8320487.jpg",
   "categorias": [
@@ -8483,7 +8483,7 @@
   "nombre": "VINTAGE Infantil NEGRO",
   "precio_proveedor": 3900,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 5,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/382526537e0732bdae73cf0688af37b835fe40c8ae9ff65066e9ab24f01347c2320487.jpg",
   "categorias": [
@@ -8498,8 +8498,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/infantil-bebe/gorras/vintage/vintage-infantil-fucsia",
   "nombre": "VINTAGE Infantil FUCSIA",
   "precio_proveedor": 3900,
-  "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7682c5bea1114a2ee365d4dbd5f6ada3f21972d6ca8be6eee99062e9a42f4fec320487.jpg",
   "categorias": [
@@ -9516,7 +9516,7 @@
   "nombre": "Gorra Vintage Pardo Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 296,
+  "stock_cantidad": 284,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/86261d508418ada3aa851fa9712d5acc3cd7d78d2f76664fbea35278e3215798320487.jpg",
   "categorias": [
@@ -9532,7 +9532,7 @@
   "nombre": "Gorra Vintage Durazno Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 192,
+  "stock_cantidad": 180,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5941435ccab5a215ccb51b20b68026113c16f4e25d6363f5c9a8f4ee41fd1947320487.jpg",
   "categorias": [
@@ -13096,7 +13096,7 @@
   "nombre": "Gorra Vintage Caqui Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 13,
+  "stock_cantidad": 9,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
@@ -14651,7 +14651,7 @@
   "nombre": "Plana Infantil, ANIMALES, DINO Blanco",
   "precio_proveedor": 3675,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3660b521b30453e5802d6f396082bafac9ad9ed153cd24176d7104f28244f5d6320487.png",
   "categorias": [
@@ -14811,7 +14811,7 @@
   "nombre": "Gorra Vintage Marrón Claro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 252,
+  "stock_cantidad": 240,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/726bc0f703d4fe9aada354d6e41332fcacc842e7c13c81f81ea8eb526ce382fe320487.jpg",
   "categorias": [
@@ -14827,7 +14827,7 @@
   "nombre": "Gorra Vintage Crema Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1453,
+  "stock_cantidad": 1411,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d1f7385771c22a8332c3dbd2594077fc1abbdface8a004dea20f0f9176a14f36320487.jpg",
   "categorias": [
@@ -14843,7 +14843,7 @@
   "nombre": "Gorra Vintage Mostaza Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 454,
+  "stock_cantidad": 442,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a70ccd9b8a22f9e3094bf138c420bf681fed1f5be49f54f0d80e1d5a27e2fbc6320487.jpg",
   "categorias": [
@@ -14875,7 +14875,7 @@
   "nombre": "Gorra Vintage Verde Oscuro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 478,
+  "stock_cantidad": 454,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fd775ab661b7b77e4bd5fb3c9cf53aceb4e9701e28134adb8a91a56a9237ca90320487.jpg",
   "categorias": [
@@ -14891,7 +14891,7 @@
   "nombre": "Gorra Vintage Verde Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1023,
+  "stock_cantidad": 1009,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/207f06e32e65c5127c3c99edb1c255ffb2e8c7de13209ded67c00d7713fbb909320487.jpg",
   "categorias": [
@@ -14907,7 +14907,7 @@
   "nombre": "Gorra Vintage Verde Pasto Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 197,
+  "stock_cantidad": 185,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5c1e6d0de0528ee17acf2b9ccaee08563ee051ec267b310f7b14a9fedee9f2b6320487.jpg",
   "categorias": [
@@ -14923,7 +14923,7 @@
   "nombre": "Gorra Vintage Verde Agua Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 57,
+  "stock_cantidad": 45,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/efe59022db339f3f63f64e6cf0be426713e0bd3c868ca40624df6fa0bd16f681320487.jpg",
   "categorias": [
@@ -14939,7 +14939,7 @@
   "nombre": "Gorra Vintage Turquesa Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 58,
+  "stock_cantidad": 46,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/88b0fabf057fd9ea0de015b332d8cf050b7efb4d67dc8adfee3e5f3a3356b78b320487.jpg",
   "categorias": [
@@ -14955,25 +14955,9 @@
   "nombre": "Gorra Vintage Azul Jean Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 79,
+  "stock_cantidad": 28,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "vintage"
-  ],
-  "categoria_principal": "gorras"
- },
- {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/vintage/gorra-vintage-azul-marino-lisa-desgastada-por-mayor",
-  "nombre": "Gorra Vintage Azul Marino Lisa Desgastada - Por Mayor",
-  "precio_proveedor": 3600,
-  "stock_disponible": true,
-  "stock_cantidad": 33,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ecdd9928e4c1aa636883c648e0edd4cadbb2cc054ccf639e275ceae9d10969dc320487.jpg",
   "categorias": [
    "verano",
    "adulto",
@@ -14987,7 +14971,7 @@
   "nombre": "Gorra Vintage Negro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 279,
+  "stock_cantidad": 57,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
