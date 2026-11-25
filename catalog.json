@@ -429,23 +429,6 @@
   "categoria_principal": "gorras"
  },
  {
-  "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/ny/gorra-ny-new-era-cerrada-negro-cnegro-por-mayor",
-  "nombre": "Gorra NY New Era Cerrada Negro c/negro - Por Mayor",
-  "precio_proveedor": 7000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
-  "stock_ilimitado": false,
-  "imagen": "https://d22fxaf9t8d39k.cloudfront.net/85a366e696af46a37eba847a006aeedf334b83c33e8dfcb5847a71d367873a74320487.jpg",
-  "categorias": [
-   "verano",
-   "adulto",
-   "gorras",
-   "deportivas",
-   "ny"
-  ],
-  "categoria_principal": "gorras"
- },
- {
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/the-farmer/gorra-the-farmer-trucker-mod-1-por-mayor",
   "nombre": "Gorra The Farmer Trucker Mod 1 - Por Mayor",
   "precio_proveedor": 8000,
@@ -2344,7 +2327,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill NEGRO",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/0b8f66d60af1bdbea0b37eb79e97a6f903a5cb29d8b3bc13c55c64fc6448e2dd320487.jpg",
   "categorias": [
@@ -2360,7 +2343,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill BLANCO",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d980f1e16535fc3dc5a5949657486e496b0ed852caf98f885639c1295fa3d0c1320487.jpg",
   "categorias": [
@@ -2376,7 +2359,7 @@
   "nombre": "PLANA, Corte Japonés, Aerobill CELESTE",
   "precio_proveedor": 7000,
   "stock_disponible": true,
-  "stock_cantidad": 8,
+  "stock_cantidad": 7,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6255d3214266fe7616e2cefb08d21d3257985a9cb5814d92d085c7d70ea73f4c320487.jpg",
   "categorias": [
@@ -14248,7 +14231,7 @@
   "nombre": "Gorra Vintage Azul Jean Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 27,
+  "stock_cantidad": 25,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/f5b1b97957c107775847a3d1a219e0b03fd4b7429fc497724b8c55bcd11d99ae320487.jpg",
   "categorias": [
