@@ -37,8 +37,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/moto/fox/gorra-moto-fox-mod-3-por-mayor",
   "nombre": "Gorra Moto FOX Mod 3 - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/91b87014152a780be2bc4f1bc24649478982e15a9d8437ba6a8d603f38539e81320487.jpg",
   "categorias": [
@@ -106,7 +106,7 @@
   "nombre": "Gorra Alpinestars Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 10,
+  "stock_cantidad": 8,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/39c336277f2e341035ce9fd1c80f14f4aaa5abe3bbdb1399a0319e6f2afcd6ad320487.jpg",
   "categorias": [
@@ -122,8 +122,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/rip-curl/gorra-rip-curl-tela-sarga-beige-por-mayor",
   "nombre": "Gorra Rip Curl Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d10733cd33a75150bf4cebad18e33da8251fecb8ad11ff58afdced8371676016320487.jpg",
   "categorias": [
@@ -155,7 +155,7 @@
   "nombre": "Gorra Quiksilver Tela Sarga Azul - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 3,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/6346b23bf2dfdcbd5de9a20bd3189b21f14bc556c1f0bf7541030b9cb191d6a8320487.jpg",
   "categorias": [
@@ -171,7 +171,7 @@
   "nombre": "Gorra Quicksilver Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/24eee00da6697fe50ba08f85d6220160ad43dd190021e0e7ac87ac69763951ff320487.jpg",
   "categorias": [
@@ -203,7 +203,7 @@
   "nombre": "Gorra Santa Cruz Tela Sarga Beige - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c8ec39cccd6f1958113fcae06fffe98096302bcff42bc60600a96185560733ca320487.jpg",
   "categorias": [
@@ -235,7 +235,7 @@
   "nombre": "Gorra Santa Cruz Tela Sarga Negro - Por Mayor",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/2b9cf024ff6955f725cb07c041196679453569ace8cbf6ff69007aad9d4605c2320487.jpg",
   "categorias": [
@@ -627,8 +627,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/gorra-layners-plana-mod-34-por-mayor",
   "nombre": "Gorra Layner&#039;s Plana Mod 34 - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/c5988b70797901cf1e15c6f256a13b00f786f9b3350201453fec885fcb1c3e21320487.jpg",
   "categorias": [
@@ -659,8 +659,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/layners/gorra-layners-plana-mod-25-por-mayor",
   "nombre": "Gorra Layner&#039;s Plana Mod 25 - Por Mayor",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/3428da6372d93a6bd1d7dd0c13ad732704c507ea1cb5d98a23c9cb3f29b446af320487.jpg",
   "categorias": [
@@ -923,8 +923,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/deportivas/nike/gorra-nike-sb-negro-por-mayor",
   "nombre": "Gorra Nike SB Negro - Por Mayor",
   "precio_proveedor": 6500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8e8b80bd0959f0b03afeb7d705eeab8189581db44eafbcf27da063d5940b44f3320487.jpg",
   "categorias": [
@@ -1331,8 +1331,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/black-company/black-company-semicurva-modelo-1",
   "nombre": "Black Company, Semicurva modelo 1",
   "precio_proveedor": 7500,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/8b220055451b414ead1107c4bdd1376f3abdb1ebd47ad8a11c33554db7b5c530320487.jpg",
   "categorias": [
@@ -1380,7 +1380,7 @@
   "nombre": "Black Company, Semicurva modelo 4",
   "precio_proveedor": 7500,
   "stock_disponible": true,
-  "stock_cantidad": 4,
+  "stock_cantidad": 3,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/a81bc3eb685d6aff8abfc7006031b6f4e5bc45a49d45cfc1c715066971ae7256320487.jpg",
   "categorias": [
@@ -2212,7 +2212,7 @@
   "nombre": "TRUCKER Jean, 5 Paneles NEGRO",
   "precio_proveedor": 5500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/7263e53bb19be89ab5ce656800f08cce38ac138f98ecdcad64edf654a5c0a67f320487.jpg",
   "categorias": [
@@ -3514,7 +3514,7 @@
   "nombre": "NIKE, Plana, Ripstop Mod 3",
   "precio_proveedor": 6500,
   "stock_disponible": true,
-  "stock_cantidad": 2,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d42d5d6dfab5b7edfb2ee21cfa0f1116e5ce122db69254dba652c541d963925a320487.jpg",
   "categorias": [
@@ -5817,7 +5817,7 @@
   "nombre": "BOCA 3",
   "precio_proveedor": 4900,
   "stock_disponible": true,
-  "stock_cantidad": 7,
+  "stock_cantidad": 6,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d0c2172f50ed4c67b5e41ee5cb14dd52e7b29d502b2d0904de8544b08a33ffc1320487.jpg",
   "categorias": [
@@ -6860,8 +6860,8 @@
   "url": "https://gorrasdelparaiso.empretienda.com.ar/verano/adulto/gorras/holograficas/raiders-holografica-plana-modelo-22",
   "nombre": "RAIDERS Holográfica Plana, Modelo 22",
   "precio_proveedor": 8000,
-  "stock_disponible": true,
-  "stock_cantidad": 1,
+  "stock_disponible": false,
+  "stock_cantidad": 0,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/db284ff12e70e44e1ddeff73feee222f941b4b80826bd01027e59a10192d4040320487.jpg",
   "categorias": [
@@ -11493,7 +11493,7 @@
   "nombre": "Gorra Vintage Caqui Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 12,
+  "stock_cantidad": 1,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d5df04e160e1bfb8e3585975544b9f2049e0990b01d95223006612f8fb73f8d8320487.jpg",
   "categorias": [
@@ -13224,7 +13224,7 @@
   "nombre": "Gorra Vintage Crema Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 1410,
+  "stock_cantidad": 1391,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/d1f7385771c22a8332c3dbd2594077fc1abbdface8a004dea20f0f9176a14f36320487.jpg",
   "categorias": [
@@ -13368,7 +13368,7 @@
   "nombre": "Gorra Vintage Negro Lisa Desgastada - Por Mayor",
   "precio_proveedor": 3600,
   "stock_disponible": true,
-  "stock_cantidad": 14,
+  "stock_cantidad": 30,
   "stock_ilimitado": false,
   "imagen": "https://d22fxaf9t8d39k.cloudfront.net/5bb77d78274c051f1b388826d1b9aa33c68a5b4fbcf3aa925c8e726d33751d9d320487.jpg",
   "categorias": [
